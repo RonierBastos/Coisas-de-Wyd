@@ -1,10 +1,9 @@
-##Cidadania
+## Cidadania
 
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>Cidadania</title>
   </head>
   <body>
 
@@ -21,7 +20,7 @@ Nenhum valor é cobrado para realizar o registro de cidadania em personagens mor
 </ul><br>
 
 <p align="center">
-<img src="breve" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Cidadania/1-files/wyd_img_cidadania.jpg?raw=true" />
 </p>
 
 <p><strong>Benefícios da cidadania</p></strong>
@@ -37,7 +36,7 @@ Caso o Kefra seja morto o Bônus será aumentado em 20% em seu respectivo canal.
 <p>A cidadania do personagem pode ser verificada através do comando "/ nome do personagem"</p>
 
 <p align="center">
-<img src="breve" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Cidadania/1-files/wyd_img_comando_para_verificar_cidadania.jpg?raw=true" />
 </p>
 
 <p><strong>Desfazendo a cidadania</p></strong>
@@ -45,7 +44,7 @@ Caso o Kefra seja morto o Bônus será aumentado em 20% em seu respectivo canal.
 Para deixar de ser cidadão de um canal, basta digitar o comando "/fimcidadao"
 
 <p align="center">
-<img src="breve" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Cidadania/1-files/wyd_img_comando_para_retirar_cidadania.jpg?raw=true" />
 </p>
 
 <strong>Observações</strong>
