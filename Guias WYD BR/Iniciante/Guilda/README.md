@@ -77,7 +77,7 @@ Preste muita atenção, pois caso o GuildMaster utilize o comando sem colocar o 
 Guildas distintas podem efetuar alianças, assim, proibindo o PvP entre seus membros aliados nessas zonas e durante Guerras. Através da Aliança pode-se também inibir o modo Caos, evitando o ataque entre membros aliados. A declaração de aliado é permitida apenas uma vez para cada guilda, logo cada guilda pode ter apenas um aliado por vez.
 </p>
 <p>
-<table align="center" border="0" cellpadding="10" cellspacing="10">
+<table align="center">
 <tr align="center">
 <td colspan="2"><strong>Declaração de Aliança</strong></td>		</tr>
 <tr align="center">
