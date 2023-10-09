@@ -20,13 +20,6 @@ A NPC comerciante Lucy da cidade de Azran vende Pedra Replation da classe A ~ C.
 A Pedra Replation torna possível refinar armaduras mesmo quando forem de diferentes classes. Para usar a Pedra Replation, a armadura tem que estar no seu inventário. Você não pode refinar sua armadura quando ela está equipada ou no Guarda Carga.
 </p><br>
 
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-</style>
-<body>
 <table>
 <thead>
  <table align="center">
