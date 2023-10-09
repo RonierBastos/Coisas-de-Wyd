@@ -1,14 +1,12 @@
+## C.C. Mode - (Controle de Combate)
+
+
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-
-	
-C.C. Mode - (Controle de Combate)
-	
-
 <p><strong>Introdução</strong></p>
 
 <p>
