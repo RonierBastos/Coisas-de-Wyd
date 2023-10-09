@@ -1,4 +1,4 @@
-## História
+## Guilda
 
 <html>
   <head>
@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-
-<p><strong>Guilda</strong></p>
 
 <p><strong>Sistema de Guilda</strong></p>
 <p>
