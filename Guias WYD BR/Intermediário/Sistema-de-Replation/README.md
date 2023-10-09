@@ -13,10 +13,10 @@ Se a classe dos itens adquiridos através das compras ou caçando os monstros n�
 Obviamente existe a possibilidade de sucesso e de falha, em caso de sucesso a classe do item será modificada e em caso de falha o item será destruído.<br>
 </p>
 
-<p><strong>Combinação de Replation</p></strong>
+<p><strong>Combinação de Replation</strong></p>
 
 <p>
-A NPC comerciante Lucy da cidade de Azran vende Pedra Replation da classe A ~ C. 
+A NPC comerciante Lucy da cidade de Azran vende Pedra Replation da classe A ~ C.<br> 
 A Pedra Replation torna possível refinar armaduras mesmo quando forem de diferentes classes. Para usar a Pedra Replation, a armadura tem que estar no seu inventário. Você não pode refinar sua armadura quando ela está equipada ou no Guarda Carga.
 </p><br>
 
@@ -33,7 +33,7 @@ A Pedra Replation torna possível refinar armaduras mesmo quando forem de difere
 </tr>
 </thead>
 <tr align="center">
-<td><img src="breve" /></td>
+<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermedi%C3%A1rio/Sistema-de-Replation/1-files/wyd_img_classe_a.gif" /></td>
 <td>A</td>
 <td>100,000 GOLD</td>
 <td>Muito Alta</td>
@@ -41,7 +41,7 @@ A Pedra Replation torna possível refinar armaduras mesmo quando forem de difere
 <td>Comerciante Lucy</td>
 </td>
 <tr style="background-color: #30363d" align="center">
-<td align="center"><img src="breve" /></td>
+<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermedi%C3%A1rio/Sistema-de-Replation/1-files/wyd_img_classe_b.gif" /></td>
 <td>B</td>
 <td>300,000 GOLD</td>
 <td>Alta</td>
@@ -49,7 +49,7 @@ A Pedra Replation torna possível refinar armaduras mesmo quando forem de difere
 <td>Comerciante Lucy</td>
 </tr>
 <tr align="center">
-<td><img src="breve" /></td>
+<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermedi%C3%A1rio/Sistema-de-Replation/1-files/wyd_img_classe_c.gif" /></td>
 <td>C</td>
 <td>800,00 GOLD</td>
 <td>Normal</td>
