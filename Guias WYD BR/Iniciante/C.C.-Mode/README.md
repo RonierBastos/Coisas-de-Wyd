@@ -1,13 +1,13 @@
-<!doctype html>
 <html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    <title>C.C. Mode - (Controle de Combate)</title>
   </head>
   <body>
 
-	<h2><span.C.C. Mode - (Controle de Combate)</span></h2>
+	<h1>
+	<span>C.C. Mode - (Controle de Combate)</span>
+	</h1>
 
 <p><strong>Introdução</strong></p>
 
@@ -18,7 +18,7 @@ Ao conectar-se ao jogo o modo c.c. sempre estará desconectado, para que o mesmo
 </p>
 
 <p align="center">
-<img src="breve" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/C.C.-Mode/1-Files/wyd_img_c.c..jpg?raw=true" />
 </p>
 
 <p><strong>Como usar o modo C.C.</p></strong>
@@ -40,23 +40,3 @@ Quando ativado o modo C.C. não é possível atacar aos demais jogadores, mesmo 
 </p>
   </body>
 </html>
-
-## Guias
-<table>
- <thead>
-    <tr align="center">
-      <th>Matéria</th>
-      <th>Link de acesso</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-    <tr>
-      <td>Guias Iniciantes</td>
-      <td align="center">
-        <a href="https://github.com/RonierBastos/Estudos-de-Tecnologia">
-           <img align="center" alt="Material de Apoio" src="https://img.shields.io/badge/Voltar%20-30A3DC?style=for-the-badge">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
