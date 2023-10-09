@@ -49,13 +49,10 @@ Os pontos de experiência são divididos de acordo com os pontos de experiência
 <p>
 						<table>
 							<table align="center" border="0" cellpadding="10" cellspacing="10">
-
-								<tr style="background-color: #30363d" align="center">
+<tr style="background-color: #30363d" align="center">
 									<td>Nº de membros</td>
 									<td>Bônus XP</td>
 								</tr>
-					
-								
 								<tr align="center">
 									<td>2</td>
 									<td>180%</td>
@@ -84,7 +81,6 @@ Os pontos de experiência são divididos de acordo com os pontos de experiência
 									<td>8 ou mais</td>
 									<td>300%</td>
 								</tr>
-							
 						</table>
 </p>
 <p>
