@@ -5,9 +5,9 @@
   </head>
   <body>
 
-	<h1>
-	C.C. Mode - (Controle de Combate)
-	</h1>
+	
+C.C. Mode - (Controle de Combate)
+	
 
 <p><strong>Introdução</strong></p>
 
