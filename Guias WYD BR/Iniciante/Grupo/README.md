@@ -46,7 +46,7 @@ Os pontos de experiência são divididos de acordo com os pontos de experiência
 </p>
 
 
-
+<p>
 						<table>
 							<table align="center" border="0" cellpadding="10" cellspacing="10">
 
@@ -86,7 +86,7 @@ Os pontos de experiência são divididos de acordo com os pontos de experiência
 								</tr>
 							
 						</table>
-
+</p>
 <p>
 <strong>Obs.:</strong> Ter uma Foema no grupo permitirá que a Foema convoque os membros do grupo para outros locais, exceto em algumas áreas específicas. Para ativar essa skill, clique com o botão direto no jogador que gostaria de convocar. Quando o jogador confirmar a convocação o mesmo irá para o mesmo local que a foema se encontra.
 </p>
