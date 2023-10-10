@@ -62,19 +62,20 @@ A mensagem de uma conversa normal pode ser vista apenas para quem estiver ao seu
 </tr>
 <tr>
 	<td align="center">- [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-claro?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-claro.png?raw=true"/></td>
 	<td>Chat de mapa, chat onde todos os jogadores que estiverem no mapa poderão ver a sua mensagem. (Caso não esteja em uma guilda, jogadores que não possuírem guilda poderão ver a mensagem)</td>
 </tr>
 <tr style="background-color: #30363d">
 	<td align="center">-- [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-escurdo?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-escuro.png?raw=true"/></td>
 	<td>Chat somente para Membros de Guilda. (Caso não esteja em uma guilda, jogadores que não possuírem guilda poderão ver a mensagem)</td>
 </tr>
 </table>
+<br>
 <p><strong>Funções adicionais</strong></p>
 <p>
 Exibindo um "Nickname" acima do nome do seu personagem, pode demonstrar os sentimentos como, por exemplo, ou utilizando em varias formas. Na entrada de Chat: ao digitar /tab Teste e apertar a tecla enter, acima do nome do personagem aparecerá a mensagem Teste. (A utilização desta função se aplica após o level 70)
-</p>
+</p><br>
 <p><strong>Mensagens instantâneas</strong></p>
 <p>
 Na hora de entrar em contato com o jogador, caso ele esteja ausente no momento ou para discutir um preço de item a venda pelo jogador, essa função pode ser bastante útil.
@@ -83,11 +84,11 @@ Na Janela de entrada de Bate-Papo:
 Ao colocar uma mensagem como "(Nome do Personagem) ei tah fazendo oq?", e apertar enter, a mensagem é enviada para o jogador.
 
 Quando aparecer um ícone de Mensagem Instantânea na parte inferior direita da tela significa que você recebeu uma mensagem instantânea. Para ler basta clicar no ícone exibido ou apertar a tecla "H" e clicar na "mensagem" na parte de tab.
-</p>
+</p><br>
 <p><strong>Mensagens de ausência</strong></p>
 <p>
 Caso esteja ausente é possível avisar os outros jogadores disso usando a função de mensagem de ausência. Após definir e executar a mensagem de ausência e algum jogador mandarem uma conversa privada para você, a sua mensagem de ausência pré-definida aparecerá na tela do jogador que mandou whisper.
-</p>
+</p><br>
 <p><strong>Como Usar</strong></p>
 <p>
 Na janela de entrada de Bate-Papo:
