@@ -21,7 +21,7 @@ Você pode combinar sua arma Ancient através do NPC Compositor, localizado na c
 Se a combinação falhar, todos os itens irão desaparecer. Esse procedimento pode ser executado somente uma vez. Tentar combinar itens Ancient novamente não terá efeito. Além disso, itens +11 não podem ser usados para aumentar as chances da combinação.
 </p><br>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0" width="1000px"> 
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
 	<tr style="background-color: #30363d" align="center">
 		<td></td>
 		<td>Item</td>
@@ -29,9 +29,8 @@ Se a combinação falhar, todos os itens irão desaparecer. Esse procedimento po
 		<td>Descrição</td>	
 	</tr>
 	<tr>
-		<td rowspan="3" align="center"><p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true" />
-</p></td>
+		<td rowspan="3" align="center">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg" /></td>
 		<td align="center">Arma para combinar</td>
 		<td align="center">1</td>
 		<td>Apenas armas +9 podem ser utilizadas.</td>
