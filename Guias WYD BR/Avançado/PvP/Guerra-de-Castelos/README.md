@@ -1,4 +1,4 @@
-## Itens Arch
+## Guerra de Castelos
 
 <html>
   <head>
@@ -8,238 +8,213 @@
   <body>
 
 <p>
-Personagens que alcançaram a classe Arch possuem a capacidade de usar itens raros e poderosos, aumentando ainda mais seus incríveis poderes. Além disso, os atributos desses itens pode ser alterados através da combinação com outros equipamentos.
+O Castelo de Noatun é dividido em duas zonas- A Zona da Cidade (canto inferior-esquerdo) e a Zona da Guerra de Castelos (canto superior e superior direito).<br>
+A Zona da Guerra de Castelos e a Zona do Deserto são separadas por barricadas na entrada do Castelo de Noatun. A Zona Neutra fica do outro lado das Barricadas, consequentemente, durante a Guerra de Castelos, qualquer atividade PK e avaliado dentro das normas do Sistema PK.<br>
+Quando a Guerra de Castelos der inicio, todos os portais marcados no mapa serão fechados. As Torres de Thor surgirão fora da Zona de Cidades e dentro da Zona de Cidades. As Torres atacarão todos aqueles que chegarem perto, mas isso não quer dizer que elas são imunes a ataques.<br>
+O Portal da Cidade que separa a Zona da Cidade e a Zona da Guerra de Castelos não pode ser danificado e o portal não pode ser aberto durante a Guerra de Castelos. Os membros da Guilda que conquistaram o Castelo de Noatun poderão usar o Portal de Teleporte na Zona da Guilda para se teleportar de volta a Zona de Guerra de Castelos.<br><br>
+Quando a Guerra de Castelos começar, todos as personagens participantes são convocados para um local específico do lado de fora da Cidade.<br>
+Os membros da Guilda que conquistar o Castelo ficarão no interior do Castelo. Para conquistar o Castelo de Noatun, os participantes deverão ir através de Deserto (localizado ao sul do Reino). Durante a Guerra de Castelos, os jogadores ficam proibidos de usar convocações, teleportes e pergaminhos de teleporte enquanto estiverem no lado de dentro do Castelo de Noatun, consequentemente, precisam se preparar totalmente antes de entrar na Zona de Guerra de Castelos.<br>
+Durante a Guerra de Castelos, os jogadores podem usar o portal de cada cidade para se teleportar a Zona da Cidade no Castelo de Noatun, mas terão de entrar no portal que separa a Zona da Cidade e a Zona da Guerra de Castelos.
 </p>
 
-<p><strong>Combinação de Armadura</strong></p>
+<p><strong>Observações:</strong></p>
 <p>
-A combinação de itens Arch podem ser efetuada em Azran, através do NPC Agatha. Para poder efetuar a transferência dos atributos, é necessário um item Arch +9, um item normal +9 e uma Pedra da Luz.
+Se a Guerra de Castelos ainda não começou sendo que você precisa defender o castelo, mesmo entrando no Portal do Castelo ou estando na Torre de Thor, você será automaticamente teleportado para a área certa.        
 </p>
-<p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Arch/1-files/wyd_img_combinar_armaduras.jpg?raw=true" />
-</p>
-<p><strong>Atributos</strong></p>
-<p>
-Se a combinação for bem-sucedida, os atributos do item normal serão transferidos para o item Arch.
-</p><br>
 
-<p><strong>Exemplo de combinação</strong></p>
-<p>Luva Flamejantes +9<br>
-Luvas Embutidas +9 (Classe D) (+10 Defesa, +12 Pontos de aprendizagem)</p>
-<p>Se a combinação for bem-sucedida, os dois itens são combinados e as Luvas Flamejantes +9 irá possuir os atributos das Luvas Embutidas +9.</p>
+<p><strong>Qualificação para participar da guerra de castelo</strong></p>
+<p>
+Todos os jogadores podem participar da Guerra de Castelos de Noatun. Essa batalha é caracterizada por 2 reinos que lutam pela honra de conquistar o Castelo de Noatun. Jogadores Neutros(Capa Branca) podem participar da Guerra de Castelo, e eles podem escolher qual lado pertencer.<br><br>
+Todos os jogadores podem participar da Guerra de Castelos de Noatun. Essa batalha é caracterizada por 2 reinos que lutam pela honra de conquistar o Castelo de Noatun. Jogadores Neutros(Capa Branca) podem participar da Guerra de Castelo, e eles podem escolher qual lado pertencer.
+</p>
+
+<table align="center" border="0" cellpadding="10" cellspacing="10"> 
+	<tr>
+		<td  align="center" width="100">- Defesa</td>
+		<td>Membros de Guilda e Líder da Guilda no "Castelo de Noatun", Líder de Guilda e jogadores que pertencem ao mesmo reino.
+Jogadores de mesmo reino que o Líder da Guilda participa da Guerra como Defensores.</td>
+	</tr>
+	<tr>
+		<td  align="center" width="100">- Invasor</td>
+		<td>Todos os outros jogadores além dos defensores.</td>
+	</tr
+</table>
+
+<p><strong>Procedimento de Guerra do castelo</strong></p>
+<p>
+A guerra de Castelos ocorre todo Domingo mas será executada em semanas intercaladas, ou seja, primeira semana em servidores com números ímpares, e a segunda semana em servidores pares, assim respectivamente. Realizadas em todos os sábados em 5 servidores ao mesmo tempo, acontecendo em uma vez.       
+</p>
+
+<table align="center" border="0" cellpadding="10" cellspacing="10"> 
+	<tr>
+		<td  align="center" width="100">- Defesa</td>
+		<td>Membros de Guilda e Líder da Guilda no "Castelo de Noatun", Líder de Guilda e jogadores que pertencem ao mesmo reino.
+Jogadores de mesmo reino que o Líder da Guilda participa da Guerra como Defensores.</td>
+	</tr>
+	<tr>
+		<td  align="center" width="100">- Invasor</td>
+		<td>Todos os outros jogadores além dos defensores.</td>
+	</tr
+	<tr>
+		<td  align="center" width="150">- Procedimento:</td>
+		<td><p>
+			<strong>20:00</strong> / Notificação do início da Guerra de Castelo após 3 minutos para todo os servidor.<br>
+			<strong>20:05</strong> / Início da Guerra de Castelo, Cada Portão é fechado e a Torre de Thor é criada. <br>
+			<strong>20:55</strong> / Caso o Castelo seja defendido com sucesso, os Defensores irão vencer a Guerra. 
+		</p></td>
+	</tr
+</table>
+
+<p><strong>Observação:</strong></p>
+<p>O Líder da Guilda do Castelo de Noatun deve estar conectado no jogo antes da Guerra começar.</p>
+
+<table align="center" border="0" cellpadding="1" cellspacing="1"> 
+	<tr style="background-color: #30363d" align="center">
+		<td colspan="2" align="center"><strong>Importante para garantir a vitória na Guerra de Castelos</strong></td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true" /></td>
+		<td>Assim que você destruir a Torre de Thor, você poderá ver o "Altar de Thor " no mesmo local. Caso outro Líder de Guilda tente entrar no Altar, a seguinte mensagem será exibida "Ocupe o altar de Thor". Após permanecer lá por 5 minutos, você receberá a mensagem "Jogador XXX conquistou o Altar de Thor". Isso significa que você obteve sucesso ao tomar o Castelo de Noatun. Após a guerra, o Líder da Guilda vencedora irá receber a Coroa de Átila e o Canhão. Ele receberá também 2 livros Sephira "Conjurar Canhão" que é necessário para utilizar o Canhão.</td>
+	</tr
+</table>
+
+<p><strong>Observação:</strong></p>
+<p>
+O Líder da Guilda ou o Sub-Líder devem estar no Altar de Thor para conquistar a vitória. No entanto somente o Líder da Guilda receberá a Coroa de Átila.<br>
+Guild mastering which has a different characteristic and phu guild mastering it will not be able to fall the altar.
+</p>
+<p><strong>Recompensa para o dono do castelo de Noatun</strong></p>
+<p>
 <ul>
-	<li>Resultado: Luvas Flamejantes +7 (+10 Defesa, +12 Pontos de aprendizagem)</li>
-	<li>Observação: Após ser receber os atributos, o item Arch recebe uma refinação de +7</li>
+<li>O vencedor da Guerra de Castelo toma posse do Castelo. (ou as Zonas de Guilda do Castelo de Noatun)</li>
+<li>O Líder de Guilda que dominar o Castelo de Noatun recebe 40% dos impostos das 3 cidades. Impostos do comércio no Castelo de Noatun também são entregues ao dono do Castelo.</li>
+<li>Todos os Teleportes são conectados ao Castelo de Noatun que possibilita a movimentação de cidade para cidade.</li>
+</ul>
+</p>
+
+<p><strong>Modo PK na guerra de castelo</strong></p>
+<p>
+Quando a Guerra de Castelo inicia o modo PK será alterado conforme a tabela abaixo e os Pontos CP serão aplicados. </p>
+
+<table align="center" border="0" cellpadding="4" cellspacing="5"> 
+	<tr style="background-color: #30363d" align="center">
+		<td align="center"><strong></strong></td>
+		<td align="center"><strong>Mesmo Reino</strong></td>
+		<td align="center"><strong>Reino Oposto</strong></td>
+		<td align="center"><strong>Sem Reino(Neutro)</strong></td>
+	</tr>
+	<tr align="center">
+		<td align="center">PK MODE OFF</td>
+		<td align="center">Impossível atacar</td>
+		<td align="center">Possível atacar</td>
+		<td align="center">Possível atacar</td>
+	</tr>
+	<tr align="center">
+		<td align="center">PK MODE ON</td>
+		<td align="center">Possível atacar</td>
+		<td align="center">Possível atacar</td>
+		<td align="center">Possível atacar</td>
+	</tr>
+</table>
+<p>- Ataque e jogadores Neutro</p>
+
+<table align="center" border="0" cellpadding="4" cellspacing="4"> 
+	<tr style="background-color: #30363d" align="center">
+		<td align="center"><strong></strong></td>
+		<td align="center"><strong>Jogadores com Reino</strong></td>
+		<td align="center"><strong>Sem Reino (Neutro)</strong></td>
+	</tr>
+	<tr align="center">
+		<td align="center">PK MODE OFF</td>
+		<td align="center">Impossível atacar</td>
+		<td align="center">Possível atacar</td>
+	</tr>
+	<tr align="center">
+		<td align="center">PK MODE ON</td>
+		<td align="center">Possível atacar</td>
+		<td align="center">Possível atacar</td>
+	</tr>
+</table>
+
+<p><strong>Sistema de caos durante a guerra de castelo</strong></p>
+<p>
+Durante a Guerra de Castelo, PK na área do Castelo não afeta o CP, mas caso o jogador morra, o CP irá aumentar, e o PK fora da Guerra de Castelo irá afetar o CP. Após encerrar a Guerra de Castelos, o PK na área do Castelo de Noatun afetará o CP.<br><br>
+
+<strong>* Caso você lute perto das zonas das barricadas do Castelo, algumas vezes você pode ser afetado pelo CP. Apenas tente ficar o máximo possível dentro do Castelo.   </strong>           
+</p>
+<br>
+<p><strong>Itens da guerra do castelo</strong></p>
+<p>Torre de Thor</p>
+<p> <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true" width="150" height="150" align="left">
+<br>E o objeto principal da Guerra de Castelos. A Torre de Thor simboliza o poder divino que protege o castelo divido a sua defesa natural que ataca todos os jogadores com exceção aos que estão defendendo o castelo.<br>
+O Deus Trovão, Thor, e um dos Deuses mais amado e respeitado pela humanidade.<br>
+Atila, foi uma das pessoas que o reverenciava e como prova da sua devoção, construiu a Torre de Thor no Castelo de Noatun.<br>
+O Deus Trovão, para mostrar seu agrado e amor por Atila, usa seus Trovoes para todos aqueles que ousam chegar perto da Torre de Thor.<br>
+A Torre ataca todos os jogadores exceto aqueles que pertencem ao mesmo Reino e a Guilda que dominou o Castelo de Noatun.<br>
+Todo jogador que ataca a Torre, mesmo sendo um aliado, receberá instantaneamente um ataque da Torre.<br></p>
+<br>
+
+<p><strong>Canhão</strong></p>
+<p>
+O novo rei que recebeu a Coroa de Atila usou toda a sua sabedoria para criar uma poderosa arma que será usada em suas batalhas.<br>
+Para usar o canhão, você deve possuir a Conjuração do Canhão e ter uma habilidade Sephira ativa.<br>
+O alcance do tiro do canhão é de 3-13m.              
+</p>
+
+<p><strong>Coroa de Átila</strong></p>
+<p>
+Antes que o portão celestial se feche e devido a guerra entra Addis e Zeus, o Deus Trovão guardou e selou a Coroa de Atila na Torre de Thor. A coroa que foi usada por Atila, a pessoa que mais respeitou Thor, foi selada com uma divina sabedoria junto com o poder de controlar o mundo inteiro.            
+</p>
+
+<table align="center">
+	<tr align="center" style="background-color: #30363d">
+		<td><strong>Adicional de DEF</strong></td>
+		<td><strong>Aumento de Resistência</strong></td>
+		<td><strong>Aumento de HP</strong></td>
+	</tr>
+	<tr align="center">
+		<td><strong>150</strong></td>
+		<td><strong>20</strong></td>
+		<td><strong>200</strong></td>
+	</tr>
+</table>
+<ul>
+<li>O vencedor da Castle Siege War terá posse sobre a Coroa de Átila.</li>
+<li>Apenas o Guild Master poderá equipar a Color de Átila.</li>
+<li>O vencedor da Guerra de Castelo receberá a sua Coroa em seu inventário. (Caso o Guild Master reconecte, a Coroa aparecerá em seu inventário).</li>
+<li>O Líder da Guilda possuirá a Coroa até que a sua Guilda seja derrotada na Guerra de Castelo. A Coroa não pode ser negociada ou vendida.</li>
+<li>Toda vez em que o castelo é tomado, a Coroa de Atila será transferida para o novo dono.</li>
+<li>A Coroa de Átila pode ser refinada até +9.</li>
 </ul>
 
-
-<table align="center" border="0" cellpadding="1" cellspacing="1" width="550"> 
-	<tr style="background-color: #30363d">
-		<td><strong>Item</strong></td>
-		<td><strong>Tipo</strong></td>
-		<td><strong>Prob (%)</strong></td>
-	</tr>
-	<tr>
-		<td>Sets Anão +9, Conjuradora +9, Aeon +9, Natureza +9</td>
-		<td align="center">Normal</td>
-		<td align="center">4</td>
-	</tr>
-	<tr>
-		<td>Sets Anão +9, Conjuradora +9, Aeon +9, Natureza +9</td>
-		<td align="center">Místico</td>
-		<td align="center">8</td>
-	</tr>
-	<tr>
-		<td>Sets Anão +9, Conjuradora +9, Aeon +9, Natureza +9</td>
-		<td align="center">Arcano</td>
-		<td align="center">12</td>
-	</tr>
-	<tr>
-		<td>Sets Anão +9, Conjuradora +9, Aeon +9, Natureza +9</td>
-		<td align="center">Lendário</td>
-		<td align="center">16</td>
-	</tr>
-	<tr>
-		<td>Sets Embutido +9, Mythril +9, Elemental +9, Teia +9</td>
-		<td align="center">Normal</td>
-		<td align="center">12</td>
-	</tr>
-	<tr>
-		<td>Sets Embutido +9, Mythril +9, Elemental +9, Teia +9</td>
-		<td align="center">Místico</td>
-		<td align="center">18</td>
-	</tr>
-	<tr>
-		<td>Sets Embutido +9, Mythril +9, Elemental +9, Teia +9</td>
-		<td align="center">Arcano</td>
-		<td align="center">24</td>
-	</tr>
-	<tr>
-		<td>Sets Embutido +9, Mythril +9, Elemental +9, Teia +9</td>
-		<td align="center">Lendário</td>
-		<td align="center">30</td>
-	</tr>
-	<tr>
-		<td>Sets Mortal +9, Templário +9, Corvo +9, Legionário +9</td>
-		<td align="center">Normal</td>
-		<td align="center">26</td>
-	</tr>
-	<tr>
-		<td>Sets Mortal +9, Templário +9, Corvo +9, Legionário +9</td>
-		<td align="center">Lendário</td>
-		<td align="center">32</td>
-	</tr>
-</table>
+<p><strong>Mercenários</p></strong>
 <p>
-No caso de um item +10, aumento de 18% na probabilidade de sucesso. No caso de um item +11, aumento de 26% na probabilidade de sucesso.
+Durante a Guerra de Castelos, você pode usar o Contrato do Soldado Mercenário para chamar um Soldado Mercenário. Para chamá-lo, você deve clicar com o botão direito do mouse no Livro de Invocação do Soldado Mercenário.<br>
+A duração do contrato é de apenas 10 minutos, e excedido este tempo, o Soldado Mercenário irá desaparecer automaticamente.<br>
+Você pode comprar os Livros de Convocação do Soldado Mercenário em todos os Vendedores do Reino (Royal Trader Rademy, Rolay Trader Freddies). Existem 3 tipos de Soldados Mercenários que podem ser convocados, os Cavaleiros, os Magos e os Arqueiros.
 </p>
 
-<p> <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Arch/1-files/wyd_img_pedra_da_luz.gif?raw=true" width="150" height="150" align="left">
-<br /><strong>Pedra da Luz</strong><br /><br />
-Item extremamente importante na combinação dos itens.<br /> São necessárias 4 Pedras da Luz para que o processo possa ser realizado.</p>
-
-<br><br><br>
-<p> <strong>Observações:</strong><br>
-
-Atributos de itens Ancient (aumento na taxa de drop, experiência, absorção ou perfuração) não são levados em consideração nesse tipo de combinação. Serão transferidos somente os atributos padrão do item.<br><br>
-
-No caso de uma combinação bem-sucedida, apenas o item normal e as Pedras da Luz irão desaparecer. No caso de falha na combinação, todos os itens serão destruídos.<br><br>
-
-Após o fim do processo de combinação, os atributos do item normal serão transferidos para o item Arch e o item normal será destruído. O item Arch irá possuir todos os atributos do equipamento destruído. Esse procedimento pode ser repetido usando o mesmo item Arch quantas vezes forem necessárias.<br>
-</p>
-
-<table align="center" border="0"> 
-	<tr style="background-color: #30363d" align="center">
-		<td></td>
-		<td>Item</td>
-		<td>Qde.</td>
-		<td>Descrição</td>	
+<table align="center">
+	<tr align="center">
+		<td colspan="3"><strong>Reino de Akelonia</strong></td>
+		<td colspan="3"><strong>Reino de Hekalotia</strong></td>
 	</tr>
+	<tr align="center">
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_knight.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_archer.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_mage.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_knight.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_archer.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_mage.gif?raw=true"/></td>
 	<tr>
-		<td rowspan="3" align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true" />
-</td>
-		<td align="center">SLOT A</td>
-		<td align="center">1</td>
-		<td>Arma Arch Ancient +9</td>
-	</tr>
+	<tr align="center">
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_nichol.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_izabeth.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_ilena.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_humfrei.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_sabina.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_naomi.gif?raw=true"/></td>
 	<tr>
-		<td>SLOT B</td>
-		<td align="center">1</td>
-		<td>Arma Normal Ancient +9 de <br>Classe D ou maior</td>
-	</tr>
-	<tr>
-		<td>SLOT C</td>
-		<td align="center">1</td>
-		<td>Itens +9 Classe D ou maiores</tr>
 </table>
-<p align="center">Custo de Combinação: 100.000.000 God</p><br><br>
-
-<p> <strong>Atributos</strong></p>
-<p>						
-Se a arma é uma combinação de duas armas +9, o atributo da arma Mortal será adicionado a arma Arch. A taxa de sucesso depende da quantidade de itens +9 utilizados.
-</p>
-<p>Balmung (Ancient)+9</p>
-<p>Espada Vorpal (Ancient) +9(+36 Dano, +20 Força)</p>
-<p>Quando houver sucesso na combinação dos itens, A Balmung irá receber o atributo da Espada Vorpal.</p>
-<p>-Resultado: Balmung (Ancient) +7 (+36 Dano, +20 Força)</p>
-
-<table border="0" cellpadding="0" cellspacing="0" width="625px" align="center">
-						<thead>
-							<tr>
-								<td><p><strong>Item</strong></p></td>
-								<td><p align="center"><strong>Refinação</strong></p></td>
-								<td><p align="center"><strong>Probabilidade</strong></p></td>
-							</tr>
-						</thead>
-						<tbody>
-							<tr>
-								<td>Gram, Luna, Martelo Dragão, Martelo Sykik, Gungnir, Olho do Carbunkle, Presas do Behemoth. Arco Élfico, Lança Relâmpago, Espada Bastarda.</td>
-								<td colspan="2">
-									<table border="0" cellpadding="0" cellspacing="0" width="255">
-										<thead>
-											<tr>
-												<td align="center" colspan="2" style="background-color: #30363d">Exceto Normal</td>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td width="115">Ancient +9</td>
-												<td width="115">6%</td>
-											</tr>
-											<tr>
-												<td>Ancient +10</td>
-												<td>18%</td>
-											</tr>
-											<tr>
-												<td>Ancient +11</td>
-												<td>23%</td>
-											</tr>
-										</tbody>
-									</table>
-								</td>
-							</tr>
-							<tr>
-								<td>Espada Vorpal, Solaris, Martelo Assassino, Mjollnir, Lança do Triunfo, Cajado de Âmbar, Fúria Divina, Garra Draconiana, Arco Divino, Cruz Sagrada.</td>
-								<td colspan="2">
-									<table border="0" cellpadding="0" cellspacing="0" width="255">
-										<thead>
-											<tr>
-												<td style="background-color: #30363d" align="center" colspan="2">Exceto Normal</td>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td width="115">Ancient +9</td>
-												<td width="115">10%</td>
-											</tr>
-											<tr>
-												<td>Ancient +10</td>
-												<td>22%</td>
-											</tr>
-											<tr>
-												<td>Ancient +11</td>
-												<td>28%</td>
-											</tr>
-										</tbody>
-									</table>
-								</td>
-							</tr>
-							<tr>
-								<td> Vingadora, Éden, Asa Draconiana, Demolidor Celestial, Foice Platinada, Força Eterna, Cajado Caótico, Dianus, Arco do Guardião, Karikas</td>
-								<td colspan="2">
-									<table border="0" cellpadding="0" cellspacing="0" width="255">
-										<thead>
-											<tr>
-												<td style="background-color: #30363d" align="center" colspan="2">Exceto Normal</td>
-											</tr>
-										</thead>
-										<tbody>
-											<tr>
-												<td width="115">Ancient +9</td>
-												<td width="115">14%</td>
-											</tr>
-											<tr>
-												<td>Ancient +10</td>
-												<td>26%</td>
-											</tr>
-											<tr>
-												<td>Ancient +11</td>
-												<td>34%</td>
-											</tr>
-										</tbody>
-									</table>
-								</td>			
-							</tr>
-						</tbody>
-					</table>
-<p> <strong>Observações</strong></p>
-<p>						
-Atributos de itens Ancient (aumento na taxa de drop, experiência, absorção ou perfuração) não são levados em consideração nesse tipo de combinação. Serão transferidos somente os atributos padrão do item.
-<br><br>
-Quando a combinação for bem-sucedida, os itens nos slots B e C serão destruídos e sua arma recebera uma refinação de +7.
-<br><br>
-Se a combinação falhar, todos os itens serão destruídos.
-</p>
   </body>
 </html>
