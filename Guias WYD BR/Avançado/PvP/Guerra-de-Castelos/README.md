@@ -15,15 +15,14 @@
             Os membros da Guilda que conquistar o Castelo ficarão no interior do Castelo. Para conquistar o Castelo de Noatun, os participantes deverão ir através de Deserto (localizado ao sul do Reino). Durante a Guerra de Castelos, os jogadores ficam proibidos de usar convocações, teleportes e pergaminhos de teleporte enquanto estiverem no lado de dentro do Castelo de Noatun, consequentemente, precisam se preparar totalmente antes de entrar na Zona de Guerra de Castelos.<br>
             Durante a Guerra de Castelos, os jogadores podem usar o portal de cada cidade para se teleportar a Zona da Cidade no Castelo de Noatun, mas terão de entrar no portal que separa a Zona da Cidade e a Zona da Guerra de Castelos.
         </p>
-
-        <p><strong>Observação:</strong></p>
+    <p><strong>Observação:</strong></p>
             <p>Se a Guerra de Castelos ainda não começou sendo que você precisa defender o castelo, mesmo entrando no Portal do Castelo ou estando na Torre de Thor, você será automaticamente teleportado para a área certa.</p>
         <br>
-        <p><strong>Qualificação para participar da guerra de castelo</strong></p>
+    <p><strong>Qualificação para participar da guerra de castelo</strong></p>
             <p>Todos os jogadores podem participar da Guerra de Castelos de Noatun. Essa batalha é caracterizada por 2 reinos que lutam pela honra de conquistar o Castelo de Noatun. Jogadores Neutros(Capa Branca) podem participar da Guerra de Castelo, e eles podem escolher qual lado pertencer.<br><br>
             Todos os jogadores podem participar da Guerra de Castelos de Noatun. Essa batalha é caracterizada por 2 reinos que lutam pela honra de conquistar o Castelo de Noatun. Jogadores Neutros(Capa Branca) podem participar da Guerra de Castelo, e eles podem escolher qual lado pertencer.
 
-                <table align="center" border="0" cellpadding="10" cellspacing="10">
+  <table align="center" border="0" cellpadding="10" cellspacing="10">
                 <tr>
                     <td align="center" with="100">- Defesa</td>
                     <td>Membros de Guilda e Líder da Guilda no "Castelo de Noatun", Líder de Guilda e jogadores que pertencem ao mesmo reino.<br>
@@ -37,7 +36,7 @@
             </p>
             <br>
 
-        <p><strong>Processo de Guerra o castelo</strong></p>
+  <p><strong>Processo de Guerra o castelo</strong></p>
             <p>A guerra de Castelos ocorre todo Domingo mas será executada em semanas intercaladas, ou seja, primeira semana em servidores com números ímpares, e a segunda semana em servidores pares, assim respectivamente. Realizadas em todos os sábados em 5 servidores ao mesmo tempo, acontecendo em uma vez.
                 <table align="center" border="0" cellpadding="7" cellspacing="7"> 
                     <tr>
@@ -58,10 +57,10 @@
                         </td>
                     </tr>
                 </table>
-        <p><strong>Observação:</strong></p>
+    <p><strong>Observação:</strong></p>
             <p>O Líder da Guilda do Castelo de Noatun deve estar conectado no jogo antes da Guerra começar.</p>
             <br>
-        <p>
+    <p>
             <table align="center" border="0" cellpadding="1" cellspacing="1"> 
                 <tr style="background-color: #30363d" align="center">
                     <td colspan="2" align="center"><strong>Importante para garantir a vitória na Guerra de Castelos</strong></td>
@@ -72,21 +71,21 @@
                 </tr>
             </table>
         </p>
-            <p><strong>Observação:</strong></p>
+    <p><strong>Observação:</strong></p>
               <p>O Líder da Guilda ou o Sub-Líder devem estar no Altar de Thor para conquistar a vitória. No entanto somente o Líder da Guilda receberá a Coroa de Átila.<br>
               Guild mastering which has a different characteristic and phu guild mastering it will not be able to fall the altar.</p>  
             
-        <p><strong>Recompensa para o dono do castelo de Noatun</strong></p>
+  <p><strong>Recompensa para o dono do castelo de Noatun</strong></p>
                 <p><ul>
                     <li>O vencedor da Guerra de Castelo toma posse do Castelo. (ou as Zonas de Guilda do Castelo de Noatun)</li>
                     <li>O Líder de Guilda que dominar o Castelo de Noatun recebe 40% dos impostos das 3 cidades. Impostos do comércio no Castelo de Noatun também são entregues ao dono do Castelo.</li>
                     <li>Todos os Teleportes são conectados ao Castelo de Noatun que possibilita a movimentação de cidade para cidade.</li>
                 </ul></p>
         
-        <p><strong>Modo PK na guerra de castelo</strong></p>
+  <p><strong>Modo PK na guerra de castelo</strong></p>
                 <p>Quando a Guerra de Castelo inicia o modo PK será alterado conforme a tabela abaixo e os Pontos CP serão aplicados.</p>
 
-                <table align="center" border="0" cellpadding="4" cellspacing="5"> 
+  <table align="center" border="0" cellpadding="4" cellspacing="5"> 
                     <tr style="background-color: #30363d" align="center">
                         <td align="center"><strong></strong></td>
                         <td align="center"><strong>Mesmo Reino</strong></td>
@@ -106,7 +105,7 @@
                         <td align="center">Possível atacar</td>
                     </tr>
                 </table>
-                <p>- Ataque e jogadores Neutro</p>
+    <p>- Ataque e jogadores Neutro</p>
                 <table align="center" border="0" cellpadding="4" cellspacing="4" width="500"> 
                     <tr style="background-color: #30363d" align="center">
                         <td align="center"><strong></strong></td>
@@ -125,23 +124,23 @@
                     </tr>
                 </table>
 
-        <p><strong>Sistema de caos durante a guerra de castelo</strong></p>
+  <p><strong>Sistema de caos durante a guerra de castelo</strong></p>
                 <p>Durante a Guerra de Castelo, PK na área do Castelo não afeta o CP, mas caso o jogador morra, o CP irá aumentar, e o PK fora da Guerra de Castelo irá afetar o CP. Após encerrar a Guerra de Castelos, o PK na área do Castelo de Noatun afetará o CP.<br><br>
                     <strong>* Caso você lute perto das zonas das barricadas do Castelo, algumas vezes você pode ser afetado pelo CP. Apenas tente ficar o máximo possível dentro do Castelo.</strong></p>
         <br>
-        <p><strong>Itens da guerra do castelo</strong></p>
-            <p>Torre de Thor</p>
+    <p><strong>Itens da guerra do castelo</strong></p>
+    <p>Torre de Thor</p>
                 <p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true" width="150" height="150" align="left">E o objeto principal da Guerra de Castelos. A Torre de Thor simboliza o poder divino que protege o castelo divido a sua defesa natural que ataca todos os jogadores com exceção aos que estão defendendo o castelo.<br>
                 O Deus Trovão, Thor, e um dos Deuses mais amado e respeitado pela humanidade.<br>
                 Atila, foi uma das pessoas que o reverenciava e como prova da sua devoção, construiu a Torre de Thor no Castelo de Noatun.<br>
                 O Deus Trovão, para mostrar seu agrado e amor por Atila, usa seus Trovoes para todos aqueles que ousam chegar perto da Torre de Thor.<br>
                 A Torre ataca todos os jogadores exceto aqueles que pertencem ao mesmo Reino e a Guilda que dominou o Castelo de Noatun.<br>
                 Todo jogador que ataca a Torre, mesmo sendo um aliado, receberá instantaneamente um ataque da Torre.<br></p>
-            <p><strong>Canhão</strong></p>
+    <p><strong>Canhão</strong></p>
                 <p>O novo rei que recebeu a Coroa de Atila usou toda a sua sabedoria para criar uma poderosa arma que será usada em suas batalhas.<br>
                 Para usar o canhão, você deve possuir a Conjuração do Canhão e ter uma habilidade Sephira ativa.<br>
                 O alcance do tiro do canhão é de 3-13m.</p>
-            <p><strong>Coroa de Átila</strong></p>
+    <p><strong>Coroa de Átila</strong></p>
                 <p>O novo rei que recebeu a Coroa de Atila usou toda a sua sabedoria para criar uma poderosa arma que será usada em suas batalhas.<br>
                 Para usar o canhão, você deve possuir a Conjuração do Canhão e ter uma habilidade Sephira ativa.<br>
                 O alcance do tiro do canhão é de 3-13m.</p>
@@ -166,7 +165,7 @@
                         <li>A Coroa de Átila pode ser refinada até +9.</li>
                     </ul>
         <br>
-        <p><strong>Mercenários</p></strong>
+    <p><strong>Mercenários</p></strong>
             <p>Durante a Guerra de Castelos, você pode usar o Contrato do Soldado Mercenário para chamar um Soldado Mercenário. Para chamá-lo, você deve clicar com o botão direito do mouse no Livro de Invocação do Soldado Mercenário.<br>
             A duração do contrato é de apenas 10 minutos, e excedido este tempo, o Soldado Mercenário irá desaparecer automaticamente.<br>
             Você pode comprar os Livros de Convocação do Soldado Mercenário em todos os Vendedores do Reino (Royal Trader Rademy, Rolay Trader Freddies). Existem 3 tipos de Soldados Mercenários que podem ser convocados, os Cavaleiros, os Magos e os Arqueiros.</p>
