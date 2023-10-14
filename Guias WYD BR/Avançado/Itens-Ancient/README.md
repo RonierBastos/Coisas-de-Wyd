@@ -29,8 +29,8 @@ Se a combinação falhar, todos os itens irão desaparecer. Esse procedimento po
 		<td>Descrição</td>	
 	</tr>
 	<tr>
-		<td rowspan="3" align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg" /></td>
+		<td rowspan="3" align="center" width="400px">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true"/></td>
 		<td align="center">Arma para combinar</td>
 		<td align="center">1</td>
 		<td>Apenas armas +9 podem ser utilizadas.</td>
