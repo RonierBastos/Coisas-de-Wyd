@@ -14,7 +14,7 @@ Por causa da diferença de suas crenças, eles separaram suas regras e formaram 
 </p>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" align="left">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true">
-</p><br><br><br>
+</p><br>
 
 
 <p><strong>Como entrar</strong></p>
