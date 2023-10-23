@@ -59,7 +59,7 @@ Após equipar o Sephirot, clique na Pedra Ideal, você poderá criar um Sub Cele
 O Personagem Principal ganha bônus em ataque, atributo e adicionais na Cythera de acordo com o nível do Sub Celestial. 
 </p><br>
 <p><strong>Adicionais na Cythera</strong></p>
-<table align="center" border="1" cellpadding="5" cellspacing="5"> 
+<table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td align="center">Bônus de Atribbuto a Cythera</td>
 		<td align="center" colspan="2"><strong>Atributo</strong></td>
