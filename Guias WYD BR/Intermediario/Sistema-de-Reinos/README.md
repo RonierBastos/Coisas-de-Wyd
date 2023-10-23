@@ -14,7 +14,7 @@ Por causa da diferença de suas crenças, eles separaram suas regras e formaram 
 </p>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" width="150" height="150" align="left">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true" width="150" height="150" align="right">
-</p>
+</p><br>
 
 
 <p><strong>Como entrar</strong></p>
@@ -40,11 +40,16 @@ Se você morrer, você perde experiência.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0"> 
 	<tr align="center">
-		<td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_akelonia.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_akelonia.gif?raw=true"/></td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_hekalotia.gif?raw=true"/></td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_shiner.gif?raw=true"/></td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_guerreiro.gif?raw=true"/></td>
+	</tr>
+	<tr align="center">
+		<td>Manto de Akelonia</td>
+		<td>Manto de Hekalotia</td>
+		<td>Manto de Shiner</td>
+		<td>Manto do Guerreiro</td>
 	</tr>
 </table>
 <br>
