@@ -12,8 +12,8 @@
 á muito tempo, os humanos moravam na mesma vila e seguiam as mesmas regras. Contudo, quando eles aprenderam mais sobre a própria história e as relíquias dos seus ancestrais, descobriram que eles eram referidos como ''Nação da Classe superior''. Eles resolveram também desenvolver as crenças na morte, no Paraíso e nos seres desconhecidos que habitam o submundo, enquanto outros alimentavam sua Fé em Deus. Infelizmente, eles se separaram em dois grupos, os crentes em Deus e os que aspiram em dominar o Céu e a Terra. <br>
 Por causa da diferença de suas crenças, eles separaram suas regras e formaram dois novos sistemas, estabelecendo seus reinos: "Hekalotia" e "Akelonia".                
 </p>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" width="50%" height="50%" align="left">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true" width="50%" height="50%" align="right">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" align="left">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true" align="right">
 </p><br><br><br><br><br><br><br><br>
 
 
