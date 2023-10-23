@@ -53,6 +53,57 @@ Se você morrer, você perde experiência.
 	</tr>
 </table>
 <br>
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr align="center">
+		<td>Level</td>
+		<td>220</td>
+		<td>256</td>
+	</tr>
+	<tr align="center">
+		<td>add. DEF</td>
+		<td>75</td>
+		<td>150</td>
+	</tr>
+	<tr align="center">
+		<td>Aumento de HP</td>
+		<td>100</td>
+		<td>200</td>
+	</tr>
+</table>
+<br>
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr align="center">
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_elite_akelonia.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_elite_hekalotia.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_mestre_akelonia.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_mestre_hekalotia.gif?raw=true"/></td>
+	</tr>
+	<tr align="center">
+		<td>Elite de Akelonia</td>
+		<td>Elite de Hekalotia</td>
+		<td>Mestre de Akelonia</td>
+		<td>Mestre de Hekalotia</td>
+	</tr>
+</table>
+<br>
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr align="center">
+		<td>Level</td>
+		<td>355</td>
+		<td>-</td>
+	</tr>
+	<tr align="center">
+		<td>add. DEF</td>
+		<td>150</td>
+		<td>200</td>
+	</tr>
+	<tr align="center">
+		<td>Aumento de HP</td>
+		<td>200</td>
+		<td>220</td>
+	</tr>
+</table>
+
 
 
   </body>
