@@ -203,7 +203,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p><strong>Jóias</strong></p>
 <p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de jóia.</p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
-	<td align="center">
+	<tr align="center">
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_diamante.gif?raw=true"></td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_emeralda.gif?raw=true"></td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_coral.gif?raw=true"></td>
@@ -361,6 +361,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 		<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas o a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
 		<li>Quando você utiliza a Pedra Replation, você pode adquirir atributos de itens não refináveis.</li>
 	</ul>
+<br>
 <p><strong>Refinações de +12 a +15</strong><p>
 <p>A combinação para a refinação deve ser realizada no NPC de Combinação: Alquimista Odin (X: 3237 Y: 1691)</p>
 <p><strong>Slots:</strong></p>
