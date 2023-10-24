@@ -68,16 +68,19 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 		<td>Resto de Oriharucon</td>
 		<td>Leve 10 Restos de Oriharucon para o alquimista, pague 1 milhão de gold e troque por uma Poeira de Oriharucon.</td>
 	</tr>
+	<tr align="center">
 		<td>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_poeira_oriharucon.gif?raw=true"/></td>
 		<td>Poeira de Oriharucon</td>
 		<td> Faz um upgrade do item até o nível 6 através do refinamento. Até o nível 2 a chance de sucesso será de 100%, mas a cada level acima, diminuirá a porcentagem de sucesso.</td>
 	</tr>
+	<tr align="center">
 		<td>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_resto_lactolerium.gif?raw=true"/></td>
 		<td>Resto de Lactolerium</td>
 		<td>Leve 10 Restos de Lactolerium para o alquimista, pague 1 milhão de gold e troque por uma Poeira de Lactolerium.</td>
 	</tr>
+	<tr align="center">
 		<td>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_poeira_lactolerium.gif?raw=true"/></td>
 		<td>Poeira de Latolerium</td>
@@ -95,7 +98,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr>
-		<td rowspan="5" align="center" width="500px">
+		<td rowspan="5" align="center" width="300px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
 		<td align="center"><strong>Description</strong></td>
 	</tr>
@@ -125,11 +128,11 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 				<li>Quantidade: 1~4</li>
 				<li>Uso: Aumenta a taxa de sucesso da refinação.</li>
 				<li>Aumento da taxa de Sucesso:</li>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 jóia: +4% Sucesso.</li>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 jóias: +8% Sucesso.</li>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 jóias: +15% Sucesso.</li>
-				<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 jóias: +32% Sucesso.</li>
 			</ul>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 jóia: +4% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 jóias: +8% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 jóias: +15% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 jóias: +32% Sucesso.
 		</td>
 	</tr>
 	<tr>
@@ -143,13 +146,13 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
 </table>
 <br>
-<p><strong>Item Combinado</strong></p>
-<p>Quando combinado dois itens +9, o novo item terá atributos aleatórios retirados dos itens.</p>
-<p>(Exemplo)</p><br>
+<p><strong>Item Combinado</strong><br>
+Quando combinado dois itens +9, o novo item terá atributos aleatórios retirados dos itens.</p>
+<p><strong>(Exemplo)</strong></p><br>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_1.gif?raw=true"/></td>
 		<td>
 			<ul>
 				<li>Manoplas Embutidas+9 50 Def Ad / 30 Atk Ad</li>
@@ -159,7 +162,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_2.gif?raw=true"/></td>
 		<td>
 			<ul>
 				<li>Pedra do Sábio</li>
@@ -168,7 +171,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_3.gif?raw=true"/></td>
 		<td>
 			<ul>
 				<li>1~4 Jóias</li>
@@ -177,7 +180,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_4.gif?raw=true"/></td>
 		<td>
 			<ul>
 				<li>1. Manoplas Embutidas+10 50 Def Ad / 30 Atk Ad / Opção da jóia</li>
@@ -192,6 +195,177 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	<tr>
 </table>
 <p><strong>Pedra do Sábio</strong></p>
-
+<table align="center" border="0" cellpadding="5" cellspacing="5"> 
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_pedra_sabio.gif?raw=true"></td>
+		<td>Item necessário para refinar um item para +10.</td>
+	</tr>
+</table>
+<p><strong>Jóias</strong></p>
+<p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de jóia.</p>
+<table align="center" border="0" cellpadding="5" cellspacing="5"> 
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_pedra_sabio.gif?raw=true"></td>
+		<td>Item necessário para refinar um item para +10.</td>
+	</tr>
+</table>
+<table align="center" border="0" cellpadding="5" cellspacing="5"> 
+	<td align="center">
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_diamante.gif?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_emeralda.gif?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_coral.gif?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_garnet.gif?raw=true"></td>
+	</tr>
+	<tr align="center">
+		<td>[Diamante]</td>
+		<td>[Esmeralda]</td>
+		<td>[Coral]</td>
+		<td>[Garnet]</td>
+	</tr>
+	<tr align="center">
+		<td>+8% Taxa de Drop</td>
+		<td>+40 Dano de Perfuração</td>
+		<td>+2% Taxa de XP</td>
+		<td>+40 Absorção de Dano</td>
+	</tr>
+</table>
+<p>Item permitido para combinação: Armas Ancient, Defesa (incluindo Escudos)</p>
+	<p><strong>Obs.:</strong></p>
+	<ul>
+		<li>A opção base do item aumenta, mas as opções bônus não são afetadas.</li>
+		<li>Apenas os itens do tipo como Normal, Místico, Arcano, Legendário e Ancient são permitidos para a combinação. No caso de item Ancient, permitido apenas os que foram fabricados pelas mesmas jóias.</li>
+		<li>Para combinar é necessário ter 50milhoes de gold.</li>
+		<li>Em caso de sucesso um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
+		<li>Em caso de sucesso um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
+		<li>Caso haja sucesso na combinação dos itens, você terá um atributo adicional a sua arma baseada na jóia utilizada.</li>
+		<li>Caso haja falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
+		<li>A combinação pode ser feita apenas nas armas Ancient e defesa (Inclusive escudo), mas os acessórios não podem ser combinados. Armas normais padrões não podem ser combinadas.</li>
+	</ul>
+<p><strong>Refinações +11</strong></p>
+<p>Utilizando ''Poeira de Lactolerium '' nos itens combinados de +10, pode-se formar um item +11, em caso de sucesso no refinamento, a habilidade do item aumenta 20% do valor padrão.</p>
+<table align="center" border="0" cellpadding="5" cellspacing="5"> 
+	<tr align="center">
+		<td><strong>Refinamento</strong></td>
+		<td><strong>Aumento de Habilidades</strong></td>
+		<td width="150px"><strong>Item para Refinamento</strong></td>
+		<td><strong>Dano</strong></td>
+		<td width="150px"><strong>Bônus</strong></td>
+	</tr>
+	<tr align="center">
+		<td>0</td>
+		<td>-</td>
+		<td rowspan="7">Poeira de Oriharucon<br>Poeira de Lactolerium</td>
+		<td>350</td>
+		<td rowspan="9">+20 Absorção de Dano</td>
+	</tr>
+    <tr align="center">
+		<td>1</td>
+		<td>+ 10 %</td>
+		<td>385</td>
+	</tr>
+    <tr align="center">
+		<td>2</td>
+		<td>+ 20 %</td>
+		<td>420</td>
+	</tr>
+    <tr align="center">
+		<td>3</td>
+		<td>+ 30 %</td>
+      	<td>455</td>
+	</tr>
+    <tr align="center">
+		<td>4</td>
+		<td>+ 40 %</td>
+      	<td>490</td>
+	</tr>
+    <tr align="center">
+		<td>5</td>
+		<td>+ 50 %</td>
+      	<td>525</td>
+	</tr>
+    <tr align="center">
+		<td>6</td>
+		<td>+ 60 %</td>
+      	<td>560</td>
+	</tr>
+    <tr align="center">
+		<td>7</td>
+		<td>+ 70 %</td>
+        <td rowspan="3">Poeira de Lactolerium</td>
+      	<td>595</td>
+	</tr>
+    <tr align="center">
+		<td>8</td>
+		<td>+ 80 %</td>
+      	<td>630</td>
+	</tr>
+     <tr align="center">
+		<td>9</td>
+		<td>+ 90 %</td>
+      	<td>665</td>
+       	<td>+20 Absorção de Dano<br>+40 Dano</td>
+	</tr>
+     <tr align="center">
+		<td>10</td>
+		<td>+ 100 %</td>
+        <td>Combinação de item</td>
+      	<td>700</td>
+       	<td>+40 Absorção de Dano<br>+40 Dano</td>
+	</tr>
+     <tr align="center">
+		<td>11</td>
+		<td>+ 120 %</td>
+        <td>Poeira de Lactolerium</td>
+      	<td>770</td>
+       	<td>+40 Absorção de Dano<br>+40 Dano</td>
+	</tr>
+</table>
+<p><strong>Itens lendários</strong></p>
+<p>Houve uma época em que se orgulhavam da civilização gloriosa no continente de Kerserf, pois ela produziu armas de tamanho poder que atualmente esses itens são chamados de lendários por serem muito difíceis de serem encontrados, esses itens lendários possuem uma defesa superior aos itens normais, já que em sua criação foram empregados métodos que hoje são desconhecidos pelos humanos.</p>
+<p><strong>Local onde os itens Lendários podem ser encontrados</strong></p>
+<p>Itens Lendários podem ser encontrados no Submundo e Dungeon Negro. Você pode utilizar diferentes pedras para transformar itens comuns em lendários. O Procedimento da mutação dos itens comuns em itens lendários através destas pedras raras é similar ao refinamento de um item através da ''Poeira de Oriharucon'' ou ''Poeira de Lactolerium'', ou seja, esse procedimento também pode resultar em falha. No entanto, a taxa de sucesso não afeta a classe e o tipo das armaduras.</p>
+<p><strong>Pedras raras utilizadas para formação dos itens lendários</strong></p>
+<table align="center" border="0" cellpadding="10" cellspacing="10"> 
+	<tr align="center">
+		<td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_spiner.gif?raw=true"/></td>
+		<td>Spiner</td>
+		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Águia, Armadura de Metal.</td>
+	</tr>
+	<tr align="center">
+		<td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_beril.gif?raw=true"/></td>
+		<td>Beril</td>
+		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Armadura de Águia, Armadura de Metal, Armadura Dourada, Robe de Concha, Armadura de Osso, Armadura de Combate</td>
+	</tr>
+	<tr align="center">
+		<td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_tectita.gif?raw=true"/></td>
+		<td>Tectita</td>
+		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Ana, Robe Conjurador, Armadura Aeon, Armadura da Natureza.</td>
+	</tr>
+	<tr align="center">
+		<td>
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_adamantita.gif?raw=true"/></td>
+		<td>Adamantita</td>
+		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Embutida, Robe de Mythril, Armadura Elemental, Armadura de Teia.</td>
+	</tr>
+</table>
+<br>
+<p><strong>Refinamento e iens Lendários</strong></p>
+<p>Da mesma maneira dos itens comuns, podemos aumentar a capacidade dos itens lendários através da refinação.<br><br>
+	No caso dos itens comuns, cada vez que o nível de refinação aumentar, o item ficará envolto em uma aura dourada, no caso dos itens lendários é diferente, pois ele brilha mantendo ambos os brilhos escuros e claros com o refinamento.</p>
+<p align="center">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_exemplo_itens.gif?raw=true"/>
+</p>
+	<p><strong>Obs.:</strong><p>
+	<ul>
+		<li>Examine cuidadosamente se os equipamentos e a Pedra Replation possuem a mesma classe.</li>
+		<li>Você pode alterar a classe de armaduras +3 ou menores (incluindo itens não refináveis). Escudos, armas e acessórios não podem ter a classe alterada.</li>
+		<li>Caso a refinação seja bem sucedida, um atributo adicional da classe será adicionado no item randomicamente.</li>
+		<li>Quando a refinação falhar, o item será destruído.</li>
+		<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas o a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
+		<li>Quando você utiliza a Pedra Replation, você pode adquirir atributos de itens não refináveis.</li>
+	</ul>
   </body>
 </html>
