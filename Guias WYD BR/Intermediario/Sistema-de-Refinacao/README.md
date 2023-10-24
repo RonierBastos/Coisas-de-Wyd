@@ -192,7 +192,6 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 			Pode-se verificar a opção do item no caso de sucesso de combinação antes de começar.
 		</td>
 	</tr>
-	<tr>
 </table>
 <p><strong>Pedra do Sábio</strong></p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
@@ -203,12 +202,6 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 </table>
 <p><strong>Jóias</strong></p>
 <p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de jóia.</p>
-<table align="center" border="0" cellpadding="5" cellspacing="5"> 
-	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_pedra_sabio.gif?raw=true"></td>
-		<td>Item necessário para refinar um item para +10.</td>
-	</tr>
-</table>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<td align="center">
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_diamante.gif?raw=true"></td>
@@ -241,15 +234,16 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 		<li>Caso haja falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
 		<li>A combinação pode ser feita apenas nas armas Ancient e defesa (Inclusive escudo), mas os acessórios não podem ser combinados. Armas normais padrões não podem ser combinadas.</li>
 	</ul>
+<br>
 <p><strong>Refinações +11</strong></p>
 <p>Utilizando ''Poeira de Lactolerium '' nos itens combinados de +10, pode-se formar um item +11, em caso de sucesso no refinamento, a habilidade do item aumenta 20% do valor padrão.</p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr align="center">
 		<td><strong>Refinamento</strong></td>
 		<td><strong>Aumento de Habilidades</strong></td>
-		<td width="150px"><strong>Item para Refinamento</strong></td>
+		<td width="200px"><strong>Item para Refinamento</strong></td>
 		<td><strong>Dano</strong></td>
-		<td width="150px"><strong>Bônus</strong></td>
+		<td width="200px"><strong>Bônus</strong></td>
 	</tr>
 	<tr align="center">
 		<td>0</td>
@@ -327,25 +321,25 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p><strong>Pedras raras utilizadas para formação dos itens lendários</strong></p>
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr align="center">
-		<td>
+		<td width="100px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_spiner.gif?raw=true"/></td>
 		<td>Spiner</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Águia, Armadura de Metal.</td>
 	</tr>
 	<tr align="center">
-		<td>
+		<td width="100px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_beril.gif?raw=true"/></td>
 		<td>Beril</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Armadura de Águia, Armadura de Metal, Armadura Dourada, Robe de Concha, Armadura de Osso, Armadura de Combate</td>
 	</tr>
 	<tr align="center">
-		<td>
+		<td width="100px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_tectita.gif?raw=true"/></td>
 		<td>Tectita</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Ana, Robe Conjurador, Armadura Aeon, Armadura da Natureza.</td>
 	</tr>
 	<tr align="center">
-		<td>
+		<td width="100px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_adamantita.gif?raw=true"/></td>
 		<td>Adamantita</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Embutida, Robe de Mythril, Armadura Elemental, Armadura de Teia.</td>
@@ -358,7 +352,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p align="center">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_exemplo_itens.gif?raw=true"/>
 </p>
-	<p><strong>Obs.:</strong><p>
+<p><strong>Obs.:</strong><p>
 	<ul>
 		<li>Examine cuidadosamente se os equipamentos e a Pedra Replation possuem a mesma classe.</li>
 		<li>Você pode alterar a classe de armaduras +3 ou menores (incluindo itens não refináveis). Escudos, armas e acessórios não podem ter a classe alterada.</li>
@@ -367,5 +361,28 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 		<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas o a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
 		<li>Quando você utiliza a Pedra Replation, você pode adquirir atributos de itens não refináveis.</li>
 	</ul>
+<p><strong>Refinações de +12 a +15</strong><p>
+<p>A combinação para a refinação deve ser realizada no NPC de Combinação: Alquimista Odin (X: 3237 Y: 1691)</p>
+<p><strong>Slots:</strong></p>
+<p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_slots.jpg?raw=true"/></p>
+<p>1) Lactolerium/Pingente</p>
+<p>2) Lactolerium/Pingente</p>
+<p>3) Lactolerium/Pingente</p>
+<p>4) Lactolerium/Pingente</p>
+<p>5) Armaduras ou Armas +11</p>
+<p>6) Pedra Secreta (Água, Terra, Sol ou Vento)/Refinação abençoada</p>
+<p>7) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
+<p>8) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
+<p>9) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
+<p><strong>Probabilidade de sucesso :</strong></p>
+<p>1) Combinação de itens +12: </p>
+<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +12. Em caso de falha, há probabilidades da refinação do item +11 diminuir para +10. (chance de 5%)</p>
+<p>2) Combinação de itens +13: </p>
+<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +13. Em caso de falha, há probabilidades da refinação do item +12 diminuir para +11 ou do item quebrar. (chance de 3%)</p>
+<p>3) Combinação de itens +14: </p>
+<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +14.Em caso de falha, há probabilidades da refinação do item +13 diminuir para +12 ou do item quebrar. (chance de 2%)</p>
+<p>4) Combinação de itens +15: </p>
+<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +15. Em caso de falha, há probabilidades da refinação do item +13 diminuir para +12 ou do item quebrar. (chance de 1%)</p>
+<p>Itens refinados até +15 permanecerão no Slot. Independente do sucesso ou falha da combinação, no processo, todos os itens dos Slots utilizados na combinação serão excluídos.</p>	
   </body>
 </html>
