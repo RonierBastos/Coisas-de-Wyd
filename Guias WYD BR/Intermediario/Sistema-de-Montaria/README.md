@@ -1451,7 +1451,7 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_recuperar.gif?raw=true"/></td>
 		<td>Ração de Grifo<br>Ração de Hipogrifo<br>Ração de Grifo Sangrento</td>
 		<td>Vitalidade do Alimento +2</td>
-		<td>95,000<</td>
+		<td>95,000</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_dragao.jpg?raw=true"/></td>
@@ -1475,7 +1475,7 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 <br>
 <hr>
 <p><strong>Medicamento de Montaria</strong></p>
-<table align="center" border="0"  cellpadding="8" cellspacing="8"> 
+<table align="center" border="0"  cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td><strong>Imagem</strong></td>
 		<td><strong>Nome</strong></td>
@@ -1484,10 +1484,151 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_yus.jpg?raw=true"/></td>
-		<td width="250px">Restaurador Yus</td>
-		<td width="250px">Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td width="250px">Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Unisus, Pegasus e Unicórnios.</td>
+		<td width="150px">Restaurador Yus</td>
+		<td width="280px">Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td width="280px">Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Unisus, Pegasus e Unicórnios.</td>
 	</tr>
-
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_mencar.jpg?raw=true"/></td>
+		<td>Restaurador Mencar</td>
+		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Cavalos equipados e Andaluz</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_birago.jpg?raw=true"/></td>
+		<td>Restaurador Birago</td>
+		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Dragões, Fenrir Selvagens e Fenrir.</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_acuban.jpg?raw=true"/></td>
+		<td>Restaurador Acuban</td>
+		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Cavalo fantasma e cavalo leve.</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_kapel.jpg?raw=true"/></td>
+		<td>Restaurador Kapel</td>
+		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , Dragão menos, Urso Domesticado</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_macav.jpg?raw=true"/></td>
+		<td>Restaurador Macav</td>
+		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , Grifo, Hipogrifo e Grifo Sangrento</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_retorno.jpg?raw=true"/></td>
+		<td>Cavalo o retorno</td>
+		<td>Após equipar a montaria e utilizar o item, a montaria irá reviver sem necessidade de ir até o mestre de montaria.</td>
+		<td>Pode ser utilizado apenas em cavalo e inferiores.</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_cura.jpg?raw=true"/></td>
+		<td>Curar montaria</td>
+		<td>Após equipar a montaria e utilizar o item, será curado 1 ponto de vitalidade.</td>
+		<td>Pode ser utilizado apenas em cavalo e inferiores.</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_yus.jpg?raw=true"/></td>
+		<td>Catalisador Yus</td>
+		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
+		<td>Pode ser utilizado em Cavalo Unisus, Pegasus e Unicórnio</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_birago.jpg?raw=true"/></td>
+		<td>Catalisador Birago</td>
+		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
+		<td>Pode ser utilizado em Dragão, Fenrir Selvagem e Fenrir</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_mencar.jpg?raw=true"/></td>
+		<td>Catalisador Mencar</td>
+		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
+		<td>Pode ser utilizado em Cavalo Equipado e Andaluz.</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_acuban.jpg?raw=true"/></td>
+		<td>Catalisador Acuban</td>
+		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
+		<td>Pode ser utilizado em Cavalo sem Sela, Cavalo Fantasma e Cavalo Leve</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_macav.jpg?raw=true"/></td>
+		<td>Catalisador Macav</td>
+		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
+		<td>Pode ser utilizado em Grifo, Hipogrifo e Grifo Sangrento</td>
+	</tr>
+	<tr>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_macav.jpg?raw=true"/></td>
+		<td>Acelerador de nascimento</td>
+		<td>O acelerador de nascimento é um item que refina as montarias sem necessidade de esperar pelo tempo estimado de incubação</td>
+		<td>Para que a cria de uma montaria nasça é necessário que siga o valor da incubação critica do ovo referente</td>
+	</tr>
+</table>
+<br>
+<hr>
+<table align="center" border="0"  cellpadding="5" cellspacing="5"> 
+	<tr>
+		<td align="center"><strong>Imagem</strong></td>
+		<td width="200px"><strong>Nome</strong></td>
+		<td align="center"><strong>Imagem</strong></td>
+		<td width="200px"><strong>Nome</strong></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_porco.gif?raw=true"/></td>
+		<td>Âmago de Porco</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_cavalo.gif?raw=true"/></td>
+		<td>Âmago de Cavalo S/Sela N<br>
+			Âmago de Cavalo Fantasma<br>
+			Âmago de Cavalo Leve N<br>
+			Âmago de Cavalo Equipado N<br>
+			Âmago de Andaluz N</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_javali.gif?raw=true"/></td>
+		<td>Âmago de Javali</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_cavalo_2.gif?raw=true"/></td>
+		<td>Âmago de Cavalo S/ Sela B<br>
+			Âmago de Cavalo Fantasma B<br>
+			Âmago de Cavalo Leve B<br>
+			Âmago de Cavalo Equipado B<br>
+			Âmago de Andaluz B</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_lobo.gif?raw=true"/></td>
+		<td>Âmago de Lobo</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_fenri.gif?raw=true"/></td>
+		<td>Âmago de Fenrir</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dragao_menor.gif?raw=true"/></td>
+		<td>Âmago de Dragão Menor</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_unicornio.gif?raw=true"/></td>
+		<td>Âmago de Unicórnio<br>
+			Âmago de Pégasus<br>
+			Âmago de Unisus</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_urso.gif?raw=true"/></td>
+		<td>Âmago de Urso</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_grifo.gif?raw=true"/></td>
+		<td>Âmago de Grifo<br>
+			Âmago de Hipogrifo<br>
+			Âmago de Grifo Sangrento</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dente_sabre.gif?raw=true"/></td>
+		<td>Âmago de Dente de Sabre</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_tigre_fogo.gif?raw=true"/></td>
+		<td>Âmago de Tigre de Fogo</td>
+	</tr>
+	<tr>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dragao_vermelho.jpg?raw=true"/></td>
+		<td>Âmago de Dragão vermelho</td>
+		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_pantera_negra.jpg?raw=true"/></td>
+		<td>Âmago de Pantera Negra</td>
+	</tr>
   </body>
 </html>
