@@ -1,0 +1,396 @@
+## Sistema de Montaria
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+  </head>
+  <body>
+
+<p><strong>Origem da montaria</strong></p>
+<p>Entre as terras de Armia, há certos animais que são capturados e domesticados. Quando o domínio dos Homens se expandiu, esses animais agora se tornaram as melhores formas do transporte humano. Com o tempo, os papeis vitais desses animais aumentaram fenomenalmente. Devido ao crescimento da demanda, um novo trabalho surgiu em Armia. A população de Armia tornou-se adepta a caca e ao adestramento de animais, enquanto eles agora vivem de vender os animais que podem ser montados.</p>
+
+<p><strong>Sistema de montaria</strong></p>
+<p>Existem oito espécies de animais e 10 tipos de cavalos que podem ser usados para montaria. <br>
+- Montaria ajuda para aumentar a locomoção de batalha do jogador, capacidade de ataque e velocidade, dependendo do animal que você tiver.<br>
+- Dependendo do tipo de montaria, e possível aumentar as opções como o dano, ataque mágico, evasão e as resistências.<br>
+- Eles também absorvem uma parte dos danos tomados pelo personagem.</p>
+
+<p><strong>Sistema de Crescimento</strong></p>
+<p> A montaria não pode ser usada no momento que adquire, ela terra de passar por um processo de crescimento em 3 fases, ovo =&gt; cria =&gt; adulto, para poder montar.<br><br>
+Para a montaria de transformar de ovo para cria, será preciso cultivá-lo através da Poeira de Oriharucon e a Poeira de Lactolerium.<br><br>
+A evolução das crias e feita através de caca dos monstros e a cada momento de evolução aumenta o poder de ataque.<br><br>
+As montarias na fase final do processo (Adulto) precisam de uma essência respectiva de cada animal, e enquanto evoluem aumentam o poder de ataque e o ataque mágico.</p>
+
+<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_montaria.gif?raw=true"/></p>
+
+<p>Local para equipar a montaria</p>
+<p>O ovo de montaria ou a própria montaria deve ser equipado na parte superior esquerda da janela de inventario. Todo o efeito ligado a montaria (gasto de ração, caca e efeito ao montar) apenas será aplicado se a montaria estiver equipada corretamente.</p>
+<table cellpadding="0" cellspacing="0">
+	<tbody>
+	<tr>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_equipamento.jpg?raw=true"></td>
+		<td><p>Ao montar, o HP da montaria e simbolizado pela barra de cor laranja, junto ao HP do personagem.</p></td>
+	</tr>
+	</tbody>
+</table>
+<hr>
+<p><strong>Elementos do Ovo</strong></p>
+<p><strong>[Vitalidade]</strong></p>
+<p>Quando o valor vitalidade da montaria chegar no 0, a montaria não poderá ser ressuscitada novamente.<br>
+O valor da vitalidade será aplicado ao chocar do ovo, para cada montaria existe um valor padronizado entre 10 ~ 30 aleatoriamente.<br>
+Os casos que reduzem a vitalidade são: durante a fase de cria quando o HP da montaria chegar no 0 e o valor do alimento chegar no 0.<br>
+Em caso da montaria ser adulta, existem possibilidades de perder valor da vitalidade através da morte do personagem que esta equipado com a montaria.</p>
+
+<p><strong>[HP]</strong></p>
+<p>É a energia (HP) da montaria. Pode ser recuperado através de rações.<br>
+Quando o HP da montaria chegar a 0, a montaria morrera e não poderá mais se mover, sendo possível curar apenas através do mestre da montaria.</p>
+
+<p><strong>[Crescimento (level)]</strong></p>
+<p>E o level da montaria tendo o valor de 1 ~ 100.<br>
+Ao alcançar o level 100, concluirá o crescimento e poderá ser montada.<br>
+Para aumentar o level, será necessário adquirir a experiência exibida para cada level.<br>
+Ao chegar no level 99, só poderá alcançar o level 100 através do Âmago respectivo para cada montaria.</p>
+
+<p><strong>[Ração]</strong></p>
+<p>E a exibição do grau de fome do animal.<br>
+Quando o valor do alimento chegar no 0, será impossível utilizar a montaria.<br>
+A ração será consumida de tempos em tempos de - 2~ 4 pontos dependendo da montaria.<br>
+A ração apenas será consumida se a montaria estiver equipada.<br>
+O valor do alimento pode ser aumentado através de ração respectivo para cada animal vendido na cidade de''Erion''.</p>
+
+<p><strong>[Experiência]</strong></p>
+<p>Experiência necessária para a evolução da montaria. (Grau de Crescimento + 100).<br>
+Os seguintes animais possuem os valores: Porco: Grau de Crescimento +25(26~125), Javali: Grau de Crescimento +35(36~135), Lobo: Grau de Crescimento +45(46~145), Dragão Menor: Grau de Crescimento +55(56~155), Urso: Grau de Crescimento +65(66~165), Dente de Sabre: Grau de Crescimento +75(76~175).<br>
+Ao completar a experiência requerida seguira para o level seguinte.<br>
+A montaria deve caçar os monstros com o mesmo level ou maior, a sua experiência não aumentara matando os monstros com o level menor que da montaria.</p>
+<hr>
+<p><strong>Elementos da montaria adulta</strong></p>
+<p><strong>[Vitalidade]</strong></p>
+<p>E a vitalidade da montaria que quando o valor relacionado chegar no 0, a montaria não poderá mais ser ressuscitada.<br><br>
+A vitalidade de um animal adulto (level 100), será atribuída um valor entre 0~20 aleatoriamente no valor vitalício.<br><br>
+Os casos que reduzem o valor da vitalidade são: quando o HP da montaria chegar no 0, quando o valor de alimento chegar no 0 e no caso do personagem que esta equipada com a montaria morrer.<br><br>
+Não existem modos para aumentar a vitalidade.</p>
+
+<p><strong>[HP]</strong></p>
+<p>E o HP da montaria. Pode ser aumentado através de rações.<br>
+Quando o HP da montaria chegar a 0, a montaria morrera e não poderá mais mover, sendo possível curar apenas através do mestre da montaria.</p>
+
+<p><strong>[Level]</strong></p>
+<p>A montaria possui um valor de level entre 1 ~120.<br>
+Ao alcançar o Lv 120, será adicionado a montaria 10% de Absorção de Dano.<br>
+O level da montaria pode ser aumentado através dos âmagos, para cada vez que utilizar a essência aumentara 1 level da montaria. Quanto maior o level da montaria, maior será a probabilidade de falha.<br>
+Em caso de falha na evolução através de Âmago, existe 20% de chance de perder 1 ponto de vitalidade.<br>
+Com o aumento de level da montaria, aumentam as opções como o poder de ataque e o ataque mágico.<br>
+Outras opções não sofrerão qualquer mudança através de level.</p>
+
+<p><strong>[Ração]</strong></p>
+<p>E a exibição do grau de fome do animal.<br>
+Quando o valor do alimento chegar no 0, será impossível se utilizar a montaria.<br>
+A ração será consumida de tempo em tempo de -2~4 pontos dependendo da montaria<br>
+A ração apenas será consumida se a montaria estiver equipada.<br>
+O valor do alimento pode ser aumentado através de ração respectivo para cada animal vendido na cidade de Erion.</p>
+
+<p><strong>[Chocando Ovo]</strong></p>
+<p>Chocando o ovo para o nascimento da cria, e necessário completar o valor critico de cada ovo através de Poeira de Oriharucon ou Poeira de Lactlerium.<br>
+Existe algo chamado de ''Tempo Estimado Para o Nascimento'' isto significa o tempo que deve esperar após uma refinação para tentar a próxima refinação.<br>
+O Tempo estimado para o nascimento é um valor padrão para todos os tipos de montarias podendo ser aplicados aleatoriamente entre 4 ~ 9 horas, em caso de falha no refinamento esse tempo será aplicado aleatoriamente entre um valor de 0 ~ 3 horas.<br>
+Para chocar, o ovo terá de estar equipado no inventario.</p>
+
+<p><strong>[Nascimento]</strong></p>
+<p>Após o nascimento, no estado de cria a montaria tera de caçar um numero de monstros predefinidos.
+A cria começa no level 1, podendo alcançar ate o level 99 através da caça aos monstros nas quantidades requeridas para cada level, para passar do level 99 para o level 100 terá de ser usada o Âmago respectivo de cada montaria.
+Para aumentar o level das montarias é necessário caçar os monstros com level superior ao da montaria e para cada monstro derrotado 1 ponto de experiência é adicionado.
+A vitalidade da cria será aplicada aleatoriamente entre o valor de 10 ~ 30 no momento da chocagem.</p>
+
+<p><strong>[Defesa e ataque da cria]</strong></p>
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr>
+		<td><strong>Nome</strong></td>
+		<td align="center"><strong>ATQ.</strong></td>
+		<td align="center"><strong>DEF</strong></td>
+		<td align="center"><strong>HP</strong></td>
+	</tr>
+	<tr>
+		<td>Porco</td>
+		<td align="center">10 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">7,000</td>
+	</tr>
+	<tr>
+		<td>Javali</td>
+		<td align="center">15 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">8,000</td>
+	</tr>
+	<tr>
+		<td>Lobo</td>
+		<td align="center">20 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">8,000</td>
+	</tr>
+	<tr>
+		<td>Dragão Menor</td>
+		<td align="center">25 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">7,500</td>
+	</tr>
+	<tr>
+		<td>Urso</td>
+		<td align="center">30 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">9,000</td>
+	</tr>
+	<tr>
+		<td>Dente de Sabre</td>
+		<td align="center">35 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">9,000</td>
+	</tr>
+	<tr>
+		<td>Cavao S/ Sela</td>
+		<td align="center">35 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">9,000</td>
+	</tr>
+	<tr>
+		<td>Cavalo Fantasma</td>
+		<td align="center">35 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">10,000</td>
+	</tr>
+	<tr>
+		<td>Cavalo Leve</td>
+		<td align="center">40 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">11,000</td>
+	</tr>
+	<tr>
+		<td>Cavalo Equipado</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">11,000</td>
+	</tr>
+	<tr>
+		<td>Andaluz</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">12,000</td>
+	</tr>
+	<tr>
+		<td>Fenrir</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">12,000</td>
+	</tr>
+	<tr>
+		<td>Unicórnio</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">15,000</td>
+	</tr>
+	<tr>
+		<td>Pégasus</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">15,000</td>
+	</tr>
+	<tr>
+		<td>Unisus</td>
+		<td align="center">50 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">15,000</td>
+	</tr>
+	<tr>
+		<td>Grifo</td>
+		<td align="center">55 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">20,000</td>
+	</tr>
+	<tr>
+		<td>Hipogrifo</td>
+		<td align="center">55 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">20,000</td>
+	</tr>
+	<tr>
+		<td>Grifo Sangrento</td>
+		<td align="center">55 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">20,000</td>
+	</tr>
+	<tr>
+		<td>Tigre e Fogo</td>
+		<td align="center">60 + (LV x 6)</td>
+		<td align="center">50</td>
+		<td align="center">23,000</td>
+	</tr>
+</table>
+<br>
+<p><strong>Adulto</strong></p>
+<p>Ao concluir a evolução o personagem poderá montar no animal.<br>
+Mesmo na fase adulta o grau de evolução será exibido, podendo aumentar o seu level através de um item especifico (Âmago). Lembre-se que há a probabilidade de falha na utilização do item.<br>
+Em caso de falha existe uma possibilidade de 20% de reduzir 1 ponto da vitalidade.<br>
+Cada montaria possui suas habilidades padrões e para cada level aumentado, os valores a serem aumentados serão diferentes.<br>
+No caso de estar montado em um animal, dependendo do tipo da montaria, pode aumentar as opções como o dano, ataque mágico, evasão, resistência e a absorção, mas dentre eles a evasão, resistência e a absorção não serão afetados com a evolução dos níveis da montaria.<br>
+A vitalidade das montarias adultas será definido aleatoriamente entre 0 ~ 20 pontos adicionados na longevidades pré-definida na fase de cria.</p>
+
+<p><strong>Morte da Montaria</strong></p>
+<p>A montaria pode sofrer a morte na fase de cria e na fase adulta.<br>
+A montaria sofrera a morte nos casos como o HP chegar no 0, o valor do alimento chegar no 0 e quando o personagem que esta equipado com a montaria morrer.<br>
+Caso a montaria tenha morrido, ela pode ser ressuscitada através do mestre da montaria na cidade de "Erion" com estado de 100HP e valor 5 de alimento.<br>
+Cada vez que a montaria for ressuscitada, terá de ser pago um valor definido e perderá de 0 ~ 3 pontos de vitalidade para cada morte.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr align="center">
+		<td><strong>Nome</strong></td>
+		<td><strong>Custo para reviver</strong></td>
+		<td><strong>Redução de vitalidade</strong></td>
+		<td><strong>HP após reviver</strong></td>
+		<td><strong>HP padrão</strong></td>
+		<td><strong>Valor de ração após reviver</strong></td>
+		<td><strong>Valor do alimento Cria/Adulto</strong></td>
+	</tr>
+	<tr align="center">
+		<td>Porco</td>
+		<td>30,000</td>
+		<td rowspan="19">0 ~ -3</td>
+		<td rowspan="19">100</td>
+		<td>7,000</td>
+		<td rowspan="19">5</td>
+		<td rowspan="19">30 / 100</td>
+	</tr>
+	<tr align="center">
+		<td>Javali</td>
+		<td>60,000</td>
+		<td>8,000</td>
+	</tr>
+	<tr align="center">
+		<td>Lobo</td>
+		<td>100,000</td>
+		<td>8,000</td>
+	</tr>
+	<tr align="center">
+		<td>Dragão Menor</td>
+		<td>150,000</td>
+		<td>7,500</td>
+	</tr>
+	<tr align="center">
+		<td>Urso</td>
+		<td>210,000</td>
+		<td>9,000</td>
+	</tr>
+	<tr align="center">
+		<td>Dente de Sabre</td>
+		<td>280,000</td>
+		<td>9,000</td>
+	</tr>
+	<tr align="center">
+		<td>Cavao S/ Sela</td>
+		<td>500,000</td>
+		<td>10,000</td>
+	</tr>
+	<tr align="center">
+		<td>Cavalo Fantasma</td>
+		<td>500,000</td>
+		<td>11,000</td>
+	</tr>
+	<tr align="center">
+		<td>Cavalo Leve</td>
+		<td>500,000</td>
+		<td>11,000</td>
+	</tr>
+	<tr align="center">
+		<td>Cavalo Equipado</td>
+		<td>500,000</td>
+		<td>11,000</td>
+	</tr>
+	<tr align="center">
+		<td>Andaluz</td>
+		<td>500,000</td>
+		<td>12,000</td>
+	</tr>
+	<tr align="center">
+		<td>Fenrir</td>
+		<td>700,000</td>
+		<td>12,000</td>
+	</tr>
+	<tr align="center">
+		<td>Unicórnio</td>
+		<td>850,000</td>
+		<td>15,000</td>
+	</tr>
+	<tr align="center">
+		<td>Pégasus</td>
+		<td>850,000</td>
+		<td>15,000</td>
+	</tr>
+	<tr align="center">
+		<td>Unisus</td>
+		<td>850,000</td>
+		<td>15,000</td>
+	</tr>
+	<tr align="center">
+		<td>Grifo</td>
+		<td>950,000</td>
+		<td>20,000</td>
+	</tr>
+	<tr align="center">
+		<td>Hipogrifo</td>
+		<td>950,000</td>
+		<td>20,000</td>
+	</tr>
+	<tr align="center">
+		<td>Grifo Sangrento</td>
+		<td>950,000</td>
+		<td>20,000</td>
+	</tr>
+	<tr align="center">
+		<td>Tigre e Fogo</td>
+		<td>1,500,000</td>
+		<td>23,000</td>
+	</tr>
+</table>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+	<tr>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelha.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_verde.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_roxa.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_prateada.gif?raw=true"/></td>
+	</tr>
+	<tr>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_marrom.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_amarela.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul_claro.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelho_escuro.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_preta.gif?raw=true"/></td>
+	</tr>
+</table>
+<table align="center">
+	<tr>
+		<td>Utilizado para transformar a Tintura em Feijão Mágico, também utilizado no upgrade dos itens através dos refinamentos.</td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_poeira_oriharucon.gif?raw=true"/></td>
+	</tr>
+</table>
+<p>Item que permite modificar a cor dos itens, ao refinar a Tintura com a Poeira de Oriharucon será formado o Feijão Mágico</p>
+<p align="center">
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_feijoes.gif?raw=true"/>
+</p>
+<table align="center">
+	<tr>
+		<td>Item que devolve a cor original (padrão) pode ser comprado no Item Mall.</td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_remover_tintura.gif?raw=true"/></td>
+	</tr>
+</table>
+<br>
+<p><strong>Como pintar</strong></p>
+<ul>
+	<li>Formula 1: Tintura + Poeira de Oriharucon = Feijão Mágico.</li>
+	<li>Formula 2: Utilize o Feijão Mágico aplicando-o diretamente no item desejado.</li>
+</ul>
+<p>Observações:</p>
+<p>Os itens de defesa que não estejam refinados (+0) não podem ser pintados. Só podem ser pintados itens +1 ou maiores.<br><br>
+Você não pode pintar um item que está pintado. Você deve antes remover a tintura.</p>
+  </body>
+</html>
