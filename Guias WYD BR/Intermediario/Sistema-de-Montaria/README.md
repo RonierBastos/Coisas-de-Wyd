@@ -353,40 +353,40 @@ Cada vez que a montaria for ressuscitada, terá de ser pago um valor definido e 
 <hr>
 <p><strong>Informações de montaria</strong></p>
 <p>As informações sobre a montaria abaixo se referem apenas as montarias que completaram todas as evoluções. As explicações a seguir são informações necessárias para compreensão da tabela abaixo. Em caso de informações de cria vide a seção ''Crescimento''.</p>
-
+<br>
 <p><strong>Valor da ração</strong></p>
 <p>Trata-se de valor Maximo de alimento que cada montaria pode ter durante a fase de cria e fase adulta, o valor para todas as crias são de 30 e o valor para adulto e de 100 para todos.</p>
-
+<br>
 <p><strong>Vitalidade</strong></p>
 <p>É um valor a ser definido no momento da chocagem e no instante que se torna adulto.<br><br>
 A vitalidade será definida aleatoriamente entre os valores de 10 ~ 30 no momento da chocagem. Na hora que se torna um adulto, um valor entre 0 ~20 são adicionados aleatoriamente em cima do valor definido na fase de cria.<br><br>
 A vitalidade será descontada entre 0 ~ 3 aleatoriamente quando o HP da montaria chegar no 0, o valor de alimento chegar no 0 ou quando o personagem equipado com a montaria morrer.<br><br>
 As montarias que chegarem no valor 0 na vitalidade não poderão ser revividos.</p>
-
+<br>
 <p><strong>HP</strong></p>
 <p>É o valor de vitalidade da montaria sendo o mesmo quanto na fase de cria quanto na fase adulta.</p>
-
+<br>
 <p><strong>Custo para nascimento</strong></p>
 <p>É o valor que terá de pagar quando a montaria sofre uma morte, pode ser revivido através do mestre de montaria na cidade de ''Erion''.</p>
-
+<br>
 <p><strong>Aumento de dano</strong></p>
 <p>São os valores aplicados ao montar na criatura já adulta.</p>
-
+<br>
 <p><strong>Evasão e Resistência</strong></p>
 <p>Mostra a evasão e a resistência a tudo, o valor da tabela será adicionado ao personagem.<br>
 A evasão e a resistência não serão modificadas mesmo com aumento de level da montaria.</p>
-
+<br>
 <p><strong>Absorção de dano</strong></p>
 <p>É um valor atribuído a montaria no momento que estiver montado e tomar um dano, esta fixada em 25%.<br>
 Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o personagem e 25 será aplicado a montaria.</p>
-
+<br>
 <p><strong>Movimento</strong></p>
 <p>É a velocidade de movimento das montarias, não tendo qualquer relação com a velocidade do personagem, seguirá a velocidade da montaria. Os valores que apresentam um diferencial significa que pode ter 2 tipos de velocidade através do atalho ''R''.
 (Ex.: caso seja 3 ? 6, 3: andando, 6: correndo)</p>
-
+<br>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_porco.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_porco.gif?raw=true"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">1</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -423,51 +423,49 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 		<td align="center">4</td>
 	</tr>
 </table>
-
-
-
-
-
-<table align="center" border="0" cellpadding="0" cellspacing="0"> 
+<table align="center" border="0"> 
 	<tr>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelha.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_verde.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_roxa.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_prateada.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_javali.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">61</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
 	</tr>
 	<tr>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_marrom.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_amarela.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul_claro.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelho_escuro.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_preta.gif?raw=true"/></td>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">2 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">60</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">8</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">4</td>
 	</tr>
 </table>
-<table align="center">
-	<tr>
-		<td>Utilizado para transformar a Tintura em Feijão Mágico, também utilizado no upgrade dos itens através dos refinamentos.</td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_poeira_oriharucon.gif?raw=true"/></td>
-	</tr>
-</table>
-<p>Item que permite modificar a cor dos itens, ao refinar a Tintura com a Poeira de Oriharucon será formado o Feijão Mágico</p>
-<p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_feijoes.gif?raw=true"/>
-</p>
-<table align="center">
-	<tr>
-		<td>Item que devolve a cor original (padrão) pode ser comprado no Item Mall.</td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_remover_tintura.gif?raw=true"/></td>
-	</tr>
-</table>
-<br>
-<p><strong>Como pintar</strong></p>
-<ul>
-	<li>Formula 1: Tintura + Poeira de Oriharucon = Feijão Mágico.</li>
-	<li>Formula 2: Utilize o Feijão Mágico aplicando-o diretamente no item desejado.</li>
-</ul>
-<p>Observações:</p>
-<p>Os itens de defesa que não estejam refinados (+0) não podem ser pintados. Só podem ser pintados itens +1 ou maiores.<br><br>
-Você não pode pintar um item que está pintado. Você deve antes remover a tintura.</p>
+
+
+
+
+
   </body>
 </html>
