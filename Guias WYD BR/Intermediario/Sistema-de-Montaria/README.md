@@ -462,8 +462,625 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 		<td align="center">4</td>
 	</tr>
 </table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_lobo.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">81</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x0.1</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.1</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">2 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">100</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">8</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">5</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_dragao.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">81</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x0.8</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.15</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">2 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">150</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">7,5</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">5</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_urso.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">101</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x0.1</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.2</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">2 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">210</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">9</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">4</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_dente_sabre.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">116</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x1.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.25</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">2 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">280</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">9</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">5</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_s_sela_branco.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">131</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x2.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.5</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">16%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">10</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_fantasma_branco.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">146</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 3</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.6</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">20%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">10</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_leve_b.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">161</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 3.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.65</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">24%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">11</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_equipado_b_2.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">176</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 4</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.7</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">28%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">11</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_andaluz.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">201</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.85</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">32%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">12</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_s_sela_negro.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">131</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 2.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.5</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">4%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">10</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_fantasma_negro.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">146</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 3</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.6</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">5%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">10</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_leve_b_2.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">161</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 3.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.65</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">6%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">11</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_equipado_b_2.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">176</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 4</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.7</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">7%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">11</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_andaluz_b.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">201</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">25%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">10~50</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.85</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">8%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">500</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">12</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">3~6</td>
+	</tr>
+</table>
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="5" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_fenrir.gif?raw=true"/></td>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">15~45</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 5.5</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.9</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">700</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">-</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">12</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">6</td>
+	</tr>
+</table>
 
-
+<table align="center" border="0"> 
+	<tr>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_unicornio.gif?raw=true"/></td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">220</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">29%</td>
+	</tr>
+	<tr>
+		<td><strong>Vitalidade:</strong></td>
+		<td align="center">15~45</td>
+		<td><strong>Aumento de Dano:</strong></td>
+		<td align="center">(LV+20)x 5.7</td>
+	</tr>
+	<tr>
+		<td><strong>Valor de Ração (Cria/Adulto):</strong></td>
+		<td align="center">30/100</td>
+		<td><strong>Ataque Mágico</strong></td>
+		<td align="center">(LV+15)x0.9</td>
+	</tr>
+	<tr>
+		<td><strong>Consumo de Ração:</strong></td>
+		<td align="center">4 por hora</td>
+		<td><strong>Evasão:</strong></td>
+		<td align="center">2%</td>
+	</tr>
+	<tr>
+		<td><strong>Custo de Nascimento:</strong></td>
+		<td align="center">850</td>
+		<td><strong>Resistência:</strong></td>
+		<td align="center">16%</td>
+	</tr>
+	<tr>
+		<td><strong>HP:</strong></td>
+		<td align="center">15</td>
+		<td><strong>Movimento:</strong></td>
+		<td align="center">6</td>
+	</tr>
+</table>
 
 
 
