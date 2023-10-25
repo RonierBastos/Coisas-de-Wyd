@@ -1569,6 +1569,7 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 </table>
 <br>
 <hr>
+<p><strong>Âmagos</strong></p>
 <table align="center" border="0"  cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td align="center"><strong>Imagem</strong></td>
