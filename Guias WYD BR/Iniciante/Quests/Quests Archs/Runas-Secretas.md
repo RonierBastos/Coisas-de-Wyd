@@ -91,7 +91,7 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 <br>
 <table border="0" cellpadding="0" cellspacing="0">								
   <tr>						
-    <td width="500px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-3.gif?raw=true" /></td>
+    <td width="300px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-3.gif?raw=true" /></td>
     <td><p><strong>1 - </strong>Ao clicar no NPC Alquimista Odin no Continente Desconhecido, uma janela para a composição irá abrir, como na imagem ao lado.</p>
     <p><strong>2 - </strong>Se a combinação das 7 Runas for bem sucedida, você irá receber uma das Pedras Secretas e a taxa de sucesso irá depender da sequência das Runas. (A Pedra Secreta é entregue randomicamente). A sequência de Runas é indecifrável.</p></td>
 </tr>								
@@ -104,9 +104,9 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 		<td>
 		<p><strong>1 - </strong>Após pegar as 4 Pedras Secretas, clique no rei do seu reino com um Sephirot equipado e uma Pedra da Imortalidade, uma Pedra Ideal irá aparecer no seu inventário.(Só é possível efetuar esse procedimento por personagens Arch ou Celestial).</p>
 		<p><strong>2 - </strong>Utilize a Pedra Ideal para transformar o Arch em um Celestial. No entanto, o seu personagem Mortal deve ser level 400 e seu Arch lvel 356 ou mais.</p>
-		<p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-4.gif?raw=true">
-		<p>Pedra ideal</p></td>
-		<td>
+		<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-4.gif?raw=true">
+		<p align="center">Pedra ideal</p></td>
+		<td width="300px">
 		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-5.gif?raw=true"></td>
 	</tr>
 </table><br>
