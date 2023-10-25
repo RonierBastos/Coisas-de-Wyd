@@ -14,21 +14,21 @@
 <p>Um vidro contendo essências de elementos de diversas cores. Pode ser transformado em Feijão Mágico através da Poeira de Oriharucon, podendo ser comprado no Premium Neil</p>
 <table align="center" border="0" cellpadding="0" cellspacing="0"> 
 	<tr>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelha.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_verde.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_roxa.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_prateada.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelha.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_verde.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_roxa.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_prateada.gif?raw=true"/></td>
 	</tr>
 	<tr>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_marrom.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_amarela.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul_claro.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelho_escuro.gif?raw=true"/></td>
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_preta.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_marrom.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_amarela.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_azul_claro.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_vermelho_escuro.gif?raw=true"/></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_tintura_preta.gif?raw=true"/></td>
 	</tr>
 </table>
-<table>
+<table align="center">
 	<tr>
 		<td>Utilizado para transformar a Tintura em Feijão Mágico, também utilizado no upgrade dos itens através dos refinamentos.</td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_poeira_oriharucon.gif?raw=true"/></td>
@@ -38,7 +38,7 @@
 <p align="center">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_feijoes.gif?raw=true"/>
 </p>
-<table>
+<table align="center">
 	<tr>
 		<td>Item que devolve a cor original (padrão) pode ser comprado no Item Mall.</td>
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/1-files/wyd_img_remover_tintura.gif?raw=true"/></td>
