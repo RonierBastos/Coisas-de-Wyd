@@ -10,7 +10,7 @@
 <p align="center">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-1.jpg?raw=true" />
 </p><br>
-<p><strong>Iten</strong></p>
+<p><strong>Item</strong></p>
 <table align="center" border="0"  cellpadding="5" cellspacing="5"> 
 	<tr align="center">
 		<td width="150px"><strong>Quest</strong></td>
@@ -47,6 +47,7 @@
     <td>Batorero</td>
     <td>Ao complestar a QUEST aumentam 60 MP, 60 HP e 30 AC.</td>
 	</tr>
+  <table>
 <br>
 <p><strong>Formas de Procedimento</strong></p>
 <p>Quando o personagem alcancar o level 355, pressione a tecla 'X' para confirmar a quest na janela de informações.</p>						
