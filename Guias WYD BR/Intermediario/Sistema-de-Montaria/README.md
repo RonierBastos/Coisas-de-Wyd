@@ -384,13 +384,13 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 <p>É a velocidade de movimento das montarias, não tendo qualquer relação com a velocidade do personagem, seguirá a velocidade da montaria. Os valores que apresentam um diferencial significa que pode ter 2 tipos de velocidade através do atalho ''R''.
 (Ex.: caso seja 3 ? 6, 3: andando, 6: correndo)</p>
 
-<table align="center" border="0" cellpadding="10" cellspacing="10"> 
+<table align="center" border="0"> 
 	<tr>
 		<td rowspan="6" align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_porco.gif?raw=true"/></td>
-		<td><strong>Level Requerido:</strong></td>
-		<td align="center">1</td>
-		<td><strong>Absorção de Dano</strong></td>
-		<td align="center">-</td>
+		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10">1</td>
+		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
+		<td align="center" cellpadding="10" cellspacing="10" width="80px">-</td>
 	</tr>
 	<tr>
 		<td><strong>Vitalidade:</strong></td>
