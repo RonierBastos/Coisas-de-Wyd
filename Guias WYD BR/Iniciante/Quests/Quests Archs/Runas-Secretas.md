@@ -81,83 +81,60 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 <br>
 <p><strong>Runas</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-1.jpg?raw=true" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-1.gif?raw=true" />
 </p>
 <br>
 <p><strong>Pedras secretas</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-1.jpg?raw=true" />
+<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-2.gif?raw=true" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-1.jpg?raw=true" />
-</p><br>
-<p><strong>Item</strong></p>
-<table align="center" border="0"  cellpadding="5" cellspacing="5"> 
-	<tr align="center">
-		<td width="150px"><strong>Quest</strong></td>
-		<td width="150px"><strong>Imagem</strong></td>
-		<td width="150px"><strong>Nome</strong></td>
-		<td width="150px"><strong>Monstro</strong></td>
-    <td ><strong>Recompensa</strong></td>
-	</tr>
-	<tr>
-    <td>QUEST Fase 1</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-2.gif?raw=true"/></td>
-		<td>Cristal Elime</td>
-    <td>Fune Sickler</td>
-    <td>Aumenta 80 MP ao completar a QUEST.</td>
-	</tr>
-  <tr>
-    <td>QUEST Fase 2</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-3.gif?raw=true"/></td>
-		<td>Cristal Simer</td>
-    <td>Funer Sickler</td>
-    <td>Aumenta 30 AC ao completar a QUEST.</td>
-	</tr>
-  <tr>
-    <td>QUEST Fase 3</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-4.gif?raw=true"/></td>
-		<td>Cristal Thelion</td>
-    <td>Gorila</td>
-    <td>Aumenta 80 HP ao completar a QUEST.</td>
-	</tr>
-  <tr>
-    <td>QUEST Fase 4</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos/files-1/wyd_img_contrato-dos-espiritos-5.gif?raw=true"/></td>
-		<td>Cristal Noas</td>
-    <td>Batorero</td>
-    <td>Ao complestar a QUEST aumentam 60 MP, 60 HP e 30 AC.</td>
-	</tr>
-  <table>
 <br>
-<p><strong>Formas de Procedimento</strong></p>
-<p>Quando o personagem alcancar o level 355, pressione a tecla 'X' para confirmar a quest na janela de informações.</p>						
-<p>Adquira os itens relacionados a quest caçando os monstros que aparecem na Dugeon Kefra.</p>						
-<p>Não importa a ordem de aquisicção dos itens, mas a ordem de utilização deverá ser de acordo com a quest, começando pela fase 1.</p>
-<p>Cada quest completada diminuirá 100 milhões de pontos de experiência e aumentará os valores de habilidade.</p>
-<p>Após completar a quest, passe para o level 355 novamente e inicie a nova etapa da quest.</p>
-<p>A Quest não poderá ser feita mais de uma vez, podendo ser realizada apenas 1 vez, da fase 1 até a fase 4.</p>
-<p><strong>Atenção</strong></p>
-<p>Apenas os personagens arch de level 355 com experiência superior a 1.950.000.000 poderão realizar a quest.</p>
-<p>Após ter completado cada quest, desconecte e conecte novamente para que possa obter a experiência conquistada.</p>
-<p>Coloque o comando /qst na janela de chat para confirmar a QUEST que está em processo de conclusão.</p>
+<table border="0" cellpadding="0" cellspacing="0">								
+  <tr>						
+    <td width="500px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-3.gif?raw=true" /></td>
+    <td><p><strong>1 - </strong>Ao clicar no NPC Alquimista Odin no Continente Desconhecido, uma janela para a composição irá abrir, como na imagem ao lado.</p>
+    <p><strong>2 - </strong>Se a combinação das 7 Runas for bem sucedida, você irá receber uma das Pedras Secretas e a taxa de sucesso irá depender da sequência das Runas. (A Pedra Secreta é entregue randomicamente). A sequência de Runas é indecifrável.</p></td>
+</tr>								
+</table><br>
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2"><p><strong>Challenge for Celestial God</strong></p></td>
+  </tr>		
+	<tr>
+		<td>
+		<p><strong>1 - </strong>Após pegar as 4 Pedras Secretas, clique no rei do seu reino com um Sephirot equipado e uma Pedra da Imortalidade, uma Pedra Ideal irá aparecer no seu inventário.(Só é possível efetuar esse procedimento por personagens Arch ou Celestial).</p>
+		<p><strong>2 - </strong>Utilize a Pedra Ideal para transformar o Arch em um Celestial. No entanto, o seu personagem Mortal deve ser level 400 e seu Arch lvel 356 ou mais.</p>
+		<p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-4.gif?raw=true">
+		<p>Pedra ideal</p></td>
+		<td>
+		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-5.gif?raw=true"></td>
+	</tr>
+</table><br>
+<br>
+<p><strong>Cuidado</strong></p>
+<p>Quando utilizar a "Pedra Ideal" as habilidades do Celestial irão depender do level do seu Arch. Quando o Arch possuir level alto, a habilidade do Celestial também será alta e vice-versa..</p>
+<p>Um tipo de Cythera será entregue ao Celestial, de acordo com o level do Arch no momento da criação do Celestial.</p>
+<table>
+  <tr>
+    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-6.gif?raw=true"/></td>
+    <td>Cythera Prateada: Arch level 356 ~ 380</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-7.gif?raw=true"/></td>
+    <td>Cythera Dourada: Arch level 381 ~ 399</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-8.gif?raw=true"/></td>
+    <td>Cythera Mística: Arch level 400</td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Para maiores informações verifique a Classe Celestial na seção Personagens &amp; Skills.</p></td>
+  </tr>
+</table>
+Para maiores informações verifique a Classe Celestial na seção Personagens & Skills.
+<br>
+<p>Você não pode retroceder ao Arch depois de criar o Celestial.</p>
+<p>Caso você seja desconectado durante uma das 7 salas, você irá retornar a cidade ao conectar-se no jogo. Caso você morra em uma das 7 salas, você irá retornar a zona de QUEST.</p>
+<p>Para cada QUEST, um total de 3 grupos poderá participar da QUEST das 7 salas; No entanto somente o Grupo que der o ultimo HIT no BOSS receberá o prêmio.</p>
   </body>
 </html>
