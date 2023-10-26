@@ -24,7 +24,7 @@ Foi ai que a população conheceu o terror, pois com o aumento de pessoas na est
 </table>
 <table border="0" cellpadding="0" cellspacing="0">	
 	<tr>						
-		<td width="200px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Conquista-do-Castelo-Orc-files/wyd_img_consquista-do-castelo-orc-3.gif?raw=true"></td>
+		<td width="100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Conquista-do-Castelo-Orc-files/wyd_img_consquista-do-castelo-orc-3.gif?raw=true"></td>
 		<td><p><strong>Pílula Mágica</strong><p>
 			<p>Pílula Mágica: a pílula do Lorde Orc possui a habilidade espantosa de aumentar os pontos de skill de uma pessoa. Pode ser usada apenas uma vez, mas aumenta um total de 9 pontos de skill, permitindo uma rápida aprendizagem das skills</p></td>
 	</tr>
