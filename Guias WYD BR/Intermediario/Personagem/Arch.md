@@ -1,4 +1,4 @@
-## Sub Celestial
+## Arch
 
 <html>
   <head>
@@ -7,88 +7,60 @@
   </head>
   <body>
 
-<p>
-A partir do level 120 do Celestial, através de uma QUEST específica, o jogador poderá fazer um novo Personagem Celestial e este Sub Celestial começará no level 1. O jogador poderá trocar o seu personagem Celestial dentro do jogo livremente entre o Personagem Celestial e o Sub.<br>
-Celestial com a utilização da Pedra Misteriosa.
-                        
-</p>
+<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/files/Arch-files/arch.jpg?raw=true"/></p>
 
-<p><strong>Como criar um personagem sub celestial</strong></p>
-<p>
-O Personagem Celestial deve ser level 120 ou mais.<br><br>
-Pagar uma taxa de 100 de Fame.<br><br>
-Um Sephirot da classe desejada.<br><br>
-Uma Pedra Ideal.<br><br>
-Após equipar o Sephirot, clique na Pedra Ideal, você poderá criar um Sub Celestial e utilizando a Pedra Misteriosa na cidade, você poderá trocar o seu personagem Celestial Principal para o Sub Celestial.       
-</p>
-
-<p><strong>Como criar a pedra misteriosa</strong></p>
-
+<p><strong>Caracterísitcas Especiais da Classe Arch</strong></p>
+<p>Para se tornar um Personagem de classe Arch você deve terminar antes duas quests: A procura da vida eterna e Um novo começo. A aparência de um personagem Arch se assemelha com o da sua classe inicial e você poderá ainda escolher uma das quatro classes Arch existentes.</p>
+<p>Quando você se transforma em um Personagem de classe Arch, em sua conta surgirá um novo personagem com o mesmo nome que representará esta transformação.</p>
+<p>As Skills do personagem Arch será baseado nas skills que você escolheu durante a quest. A evolução de seu Arch será baseado no seu personagem principal</p>
+<p>Os Personagens de classe Arch não podem usar Elmos e Capacetes. Você poderá usar equipamentos de defesa de acordo com sua classe inicial. Os Personagens de classe Arch não podem equipar Armas de classe E e Armas do tipo Lydians, mas podem equipar Armas do tipo Arch.</p>
+<p>Quando você alcancar o nivel 370 com o seu Personagem de classe Arch, você receberá 112 Pontos de Aprendizagem, 288 Pontos de Atributos e 168 Pontos de Skill.</p>
+<p>Após a transformação para a classe Arch, quando o seu Personagem de classe Normal evoluir, o seu Personagem de classe Arch respectivo receberá 8 pontos de Atributos em bônus por level evoluído.</p>
+<p><strong>Evolução do Personagem</strong></p>
+<hr>
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
-	<tr>
-		<td rowspan="3" align="center" width="400px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true"/></td>
-		<td align="center"><strong>Item</strong></td>
-		<td align="center"><strong>Qntd</strong></td>
-		<td align="center"><strong>Observações</strong></td>
+	<tr align="center">
+		<td ><strong>Lista</strong></td>
+		<td colspan="4" width="400px"><strong>Aumento na capacidade por level</strong></p>
 	</tr>
 	<tr align="center">
-		<td>SLOT A</td>
-		<td>2</td>
-		<td>1 runa de cada tipo</td>
+		<td>HP</td>
+		<td><p>Trans Knight</p>
+			<p>4</p></td>
+		<td><p>Foema</p>
+			<p>1</p></td>
+		<td><p>Beast Master</p>
+			<p>1</p></td>
+		<td><p>Huntress</p>
+			<p>2</p></td>
 	</tr>
 	<tr align="center">
-		<td>SLOT B</td>
-		<td>1</td>
-		<td>Pack de Poeira de Lactolerium</td>
+		<td>MP</td>
+		<td><p>Trans Knight</p>
+			<p>1</p></td>
+		<td><p>Foema</p>
+			<p>3</p></td>
+		<td><p>Beast Master</p>
+			<p>4</p></td>
+		<td><p>Huntress</p>
+			<p>2</p></td>
+	</tr>
+	<tr align="center">
+		<td>Defesa(AC)</td>
+		<td colspan="4">2</td>
+	</tr>
+	<tr align="center">
+		<td>Pontos de Aprendizagem</td>
+		<td colspan="4">2 (Lv.1~ Lv.200) 3 (Lv.201 ~ Lv.355) 1 (Lv356 ~)</td>
+	</tr>
+	<tr align="center">
+		<td>Pontos de status</td>
+		<td colspan="4">6 (Lv.1~ Lv.354) 12 (Lv355 ~)</td>
+	</tr>
+	<tr align="center">
+		<td>Pontos de Skill</td>
+		<td colspan="4">4 (Lv.1~ Lv.354) 2 (Lv355 ~)</td>
 	</tr>
 </table>
-<br>
-<table align="center" border="0" cellpadding="10" cellspacing="10"> 
-	<tr>
-		<td rowspan="2" align="center" width="200px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sub-Celestial/1-files/wyd_img_pedra_misteriosa.gif?raw=true"/></td>
-		<td align="center"><strong>[Pedra Misteriosa]</strong></td>
-	</tr>
-	<tr align="center">
-		<td>Possibilita a troca entre o Personagem Celestial Principal e o Sub Celestial.</td>
-	</tr>
-</table>
-<br>
-<p>
-O Personagem Principal ganha bônus em ataque, atributo e adicionais na Cythera de acordo com o nível do Sub Celestial. 
-</p><br>
-<p><strong>Adicionais na Cythera</strong></p>
-<table align="center" border="0" cellpadding="5" cellspacing="5"> 
-	<tr>
-		<td align="center">Bônus de Atribbuto a Cythera</td>
-		<td align="center" colspan="2"><strong>Atributo</strong></td>
-	</tr>
-	<tr align="center">
-		<td>Level 121</td>
-		<td>+30 Def</td>
-		<td>+40 Força</td>
-	</tr>
-	<tr align="center">
-		<td>Level 151</td>
-		<td>+35 Def</td>
-		<td>+50 Força</td>
-	</tr>
-    <tr align="center">
-		<td>Level 181</td>
-		<td>+45 Def</td>
-		<td>+60 Força</td>
-	</tr>
-        <tr align="center">
-		<td>Level 200</td>
-		<td>+50 Def</td>
-		<td>+70 Força</td>
-	</tr>
-</table>
-<p>
-<strong>Observação:</strong> O jogador deve estar equipado com a Cythera para que o Bônus seja entregue.
-Outra coisa importante que você deve se preocupar é em não realizar a passagem de nível utilizando uma Cythera com adicionais de evento, pois correrá o risco de ter o seu adicional sobreposto. Os adicionais poderão vir em qualquer nível, mesmo não sendo o nível certo para obtenção deles. Então, tome cuidado, pois caso isso ocorra, nossa equipe não poderá retornar esse valor.
-</p>
-
   </body>
 </html>
