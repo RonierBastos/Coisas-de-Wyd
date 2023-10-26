@@ -12,7 +12,7 @@
 <p><strong>Características Especiais do Personagem Celestial</strong></p>
 <p>Para criar o personagem Celestial, você deve primeiro concluir a QUEST 'Segredo das Runas'. O personagem Mortal deve possuir level 400 e o Arch level 356 ou acima.</p>
 
-<a href="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas.md"><p align="center"><img src="hhttps://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/files/Celestial-files/celestial2.jpg?raw=true"/></p></a>
+<a href="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas.md"><p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/files/Celestial-files/celestial2.jpg?raw=true"/></p></a>
 
 <p>O Nome e Classe do personagem Celestial será baseada no Personagem Arch e você pode comprar a nova Skills Sephira para Celestial: 'Limite da Alma'. * Você pode utilizar a Skill "Limite da Alma " após aprender a 8ª Skill e a mesma aumentará a habilidade de classe.
 <br><br>
@@ -44,7 +44,7 @@ Você não poderá realizar as QUESTs "Pesadelo" e "Cubo da Maldade". No entanto
 		<td><p>1,200</p></td>
 	</tr>		
 </table>
-<p>Os pontos Bônus do Celestial dependem de quantas salas da QUEST "Contrato dos Espíritos" o Arch passar</p>
+<p>Os pontos Bônus do Celestial dependem de quantas salas da QUEST <a href="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos.md">"Contrato dos Espíritos"</a> o Arch passar</p>
 <table align="center" border="0"  cellpadding="5" cellspacing="5">
 	<tr>
 		<td><p>Fase</p></td>									
@@ -86,6 +86,7 @@ Você não poderá realizar as QUESTs "Pesadelo" e "Cubo da Maldade". No entanto
 			<p>2</p></td>
 	</tr>								
 </table>
+<hr>
 <p><strong>Recompensa ao se tornar Celestial</strong></p>
 <p>Para refinar a Capa do Celestial não é necessário somente as Poeiras de Lactolerium ou Oriharucon. Para refinar a Capa você precisa de Poerias de Lactolerium e outros ingredientes.</p>
 <p>Você pode refinar sua capa no NPC Odin localizado no Continente Desconhecido. 2 Pergaminhos Selados, 1 Selo Mágico e 4 Packs de Lactolerium são necessários para refinar a Capa do Celestial. Refinação possue 100% de sucesso.</p>
@@ -130,6 +131,7 @@ Você não poderá realizar as QUESTs "Pesadelo" e "Cubo da Maldade". No entanto
 	</tr>
   <table>
 <p><strong>Atenção:</strong> caso o arch possua alguma Cythera equipada no momento da criação do Celestial, a mesma será sobreposta pela nova, sendo perdida para sempre. Essa perda é irrecuperável, portanto, é aconselhável que a remova antes de criar o seu Celestial.</p>
+<hr>
 <p><strong>Soul Type</strong></p>
 <p>Você pode alterar o atributo da Skill "Limite da Alma" levando as jóias ao NPC Ehre na Cidade de Erion.</p>
 <table>
@@ -207,5 +209,8 @@ Você não poderá realizar as QUESTs "Pesadelo" e "Cubo da Maldade". No entanto
 		<td>DES</td>
 	</tr>	
 </table>
+<p><strong>Atenção</strong></p>
+<p>Você deve colocar as jóias na ordem correta.<br>
+(Caso as jóias sejam colocadas na ordem incorreta, as mesma irão desaparecer e o atributo da Skill não será alterado )</p>
   </body>
 </html>

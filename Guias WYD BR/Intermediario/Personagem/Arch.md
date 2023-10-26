@@ -16,8 +16,8 @@
 <p>Os Personagens de classe Arch não podem usar Elmos e Capacetes. Você poderá usar equipamentos de defesa de acordo com sua classe inicial. Os Personagens de classe Arch não podem equipar Armas de classe E e Armas do tipo Lydians, mas podem equipar Armas do tipo Arch.</p>
 <p>Quando você alcancar o nivel 370 com o seu Personagem de classe Arch, você receberá 112 Pontos de Aprendizagem, 288 Pontos de Atributos e 168 Pontos de Skill.</p>
 <p>Após a transformação para a classe Arch, quando o seu Personagem de classe Normal evoluir, o seu Personagem de classe Arch respectivo receberá 8 pontos de Atributos em bônus por level evoluído.</p>
-<p><strong>Evolução do Personagem</strong></p>
 <hr>
+<p><strong>Evolução do Personagem</strong></p>
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr align="center">
 		<td ><strong>Lista</strong></td>
