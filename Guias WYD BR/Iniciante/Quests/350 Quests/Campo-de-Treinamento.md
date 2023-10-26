@@ -14,7 +14,7 @@
 <br>
 <table border="0" cellpadding="0" cellspacing="0">	
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-1.gif?raw=true"></td>
+		<td width="200px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-1.gif?raw=true"></td>
 		<td><p>Não basta apenas ter vontade, você tem que ter conhecimento, saber como usar as suas armas, sejam elas quais forem. Recomendo que vá ao campo de treino antes mesmo de testar a sua coragem. O lugar foi construido principalmente para treinar os futuros guerreiros e exploradores que enfrentarão as criaturas. Para você, que não sabe absolutamente nada sobre a situção deste lugar, será como uma estrela brilhante que ilumina seu caminho numa noite envolta em trevas.</p></td>
 	</tr>
 	<tr class="tabela_linha2">
@@ -47,7 +47,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td><p>Dentre todos os sofrimentos que tera pela frente neste mundo, chegou a hora de conhecer o seu primeiro. Tú és um covarde que foge dos sofrimentos que batem de frente aos teus olhos? Ou um bravo guerreiro que vence todos as adversidades e momentos críticos através do seu espirito de guerreiro?</p></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-3.gif?raw=true"></td>
+		<td width="100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-3.gif?raw=true"></td>
 	</tr>
 </table>
 <br>
@@ -80,6 +80,7 @@
 		<td>Caixa de poção de cura média (20un), Rubi do Carbunkle (Aumenta HP), Olho Crescente (Aumenta 3.000 pontos de experiencia). Serão presenteados com um dos três itens acima.</td>
 	</tr>
 </table>
+<br>
 <p><strong>Atenção</strong></p>
 <p>Somente jogadores abaixo do level 35 podem acessar essa QUEST.</p>
 <p>No fim da zona de iniciantes, existem monstros chefes que possuem as chaves dos portões que permitem seguir para a próxima área. A chave pode ser usada apenas uma vez e sumirá no instante do uso. O portão aberto com a chave fechará após algum tempo.</p>
