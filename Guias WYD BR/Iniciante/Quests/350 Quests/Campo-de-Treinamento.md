@@ -12,27 +12,80 @@
 <p>Além destas cercas existem criaturas malignas esperando por uma chance de ameaçar a nossa paz. Nós devemos enfrentá-las juntando as nossas forças em um grande clarão e iluminar este mundo mergulhado na escuridão. Sua força de vontade será o primeiro passo para formar esta única grande luz. </p>
 <p>Mas se sair correndo acreditando apenas na sua força de vontade para provar a sua coragem você esta louco! A força de vontade lhe ajudará a juntar a coragem necessária, mas para combater essas criaturas você deve se armar e treinar muito, pois as garras e dentes dessas criaturas podem facilmente dilacerar seu corpo.</p>
 <br>
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ben%C3%A7%C3%A3o-de-Deus-files/wyd_img_bencao-de-deus-1.jpg?raw=true"/></p>
-
 <table border="0" cellpadding="0" cellspacing="0">	
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ben%C3%A7%C3%A3o-de-Deus-files/wyd_img_bencao-de-deus-3.jpg?raw=true"></td>
-		<td><p><strong>Pedaco de Chance</strong></p>
-			<p>Ao receber o Pedaço de Chance, entregue-o ao 'Sacerdote Kruno' e ele o transformará em Composto de Chance.</p>
-			<p>Não permitido para troca, venda, drop</p>
-			<p>Level Requerido: 70 ~ 75</p></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-1.gif?raw=true"></td>
+		<td><p>Não basta apenas ter vontade, você tem que ter conhecimento, saber como usar as suas armas, sejam elas quais forem. Recomendo que vá ao campo de treino antes mesmo de testar a sua coragem. O lugar foi construido principalmente para treinar os futuros guerreiros e exploradores que enfrentarão as criaturas. Para você, que não sabe absolutamente nada sobre a situção deste lugar, será como uma estrela brilhante que ilumina seu caminho numa noite envolta em trevas.</p></td>
 	</tr>
 	<tr class="tabela_linha2">
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ben%C3%A7%C3%A3o-de-Deus-files/wyd_img_bencao-de-deus-4.jpg?raw=true"></td>
-		<td><p><strong>Composto de Chance</strong></p>
-			<p>Use clicando com o botão direito do mouse.</p>
-			<p>No ato de uso reinicializa todos os skills e as aprendizagens em 50 pontos.</p>
-			<p>Não permitido para troca, venda ou drop.</p>
-			<p>Personagens Arch  ou superiores não podem usar esse item.</p>
-			<p>Level Requerido 70 ~ 75.</p>
-			<p>Usado apenas 1 vez.</p></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-2.gif?raw=true"></td>
+		<td><p>Para aqueles que derrotarem o 'Guerreiro Orc' no campo de treino, nos reconheceremos seu espirito de guerreiro fornecendo itens e equipamentos valiosos e necessários na sua jornada. As criaturas que você deve encontrar pelo caminho do campo de treino são aqueles que nós capturamos. O campo é dividido num total de 4 áreas e para cada área existe um monstro chefe de nivel cada vez mais alto. Em cada área subsequente o ataque e o terror que as criaturas exalam será maior.</p></td>
 	</tr>
 	</tbody>
 </table>
+<br>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><strong>Área 1</strong></td>
+		<td>Javali de guerra, Aguia, Gremlin, Krill, Gremlin Decoy</td>
+	</tr>
+	<tr>
+		<td><strong>Área 2</strong></td>
+		<td>Gremlin, Krill, Rei Gremlin, Serpente, Krill Gigante</td>
+	</tr>
+	<tr>
+		<td><strong>Área 3</strong></td>
+		<td>Gremlin, Krill, Rei Gremlin, Chefe Krill, Orc Sniper</td>
+	</tr>
+	<tr>
+		<td><strong>Área 4</strong></td>
+		<td>Krill, Rei Gremlin, Chefe Krill, Arqueiro Orc, Guerreiro Orc</td>
+	</tr>
+</table>
+<br>
+<p>Para cada área nova, a dificuldade aumenta e as batalhas são mais ferozes, mas não fique desanimado. Cada área conta com um treinador que estão lá para ajudá-lo a evoluir suas técnicas de luta. Os treinadores tem a função de considerar todas as suas condições e necessidades.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><p>Dentre todos os sofrimentos que tera pela frente neste mundo, chegou a hora de conhecer o seu primeiro. Tú és um covarde que foge dos sofrimentos que batem de frente aos teus olhos? Ou um bravo guerreiro que vence todos as adversidades e momentos críticos através do seu espirito de guerreiro?</p></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-3.gif?raw=true"></td>
+	</tr>
+</table>
+<br>
+<p><strong>Recompensa do treinador</strong></p>
+<p>Ao receberem os itens listados abaixo, cada treinador e oficial de treinamento recompensara seus esforcos com itens uteis para o jogo. O personagem tera apenas uma recompensa de cada NPC.</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><strong>NPC</strong></td>
+		<td><strong>Item Requisitado</strong></td>
+		<td><strong>Recompensa</strong></td>
+	</tr>
+	<tr>
+		<td>Treinador área 1</td>
+		<td>Chave da 1ª porta</td>
+		<td>Caixa de Poção de Cura média (20 un.)</td>
+	</tr>
+	<tr>
+		<td>Treinador área 2</td>
+		<td>Chave da 2ª porta</td>
+		<td>Aplica um atributo aleatoriamente no armamento equipado (equipado no lado esquerdo do inventario). Caso o numero do refinamento seja menor do que o que a arma possuiu, o valor não sofrerá alteração.</td>
+	</tr>
+	<tr>
+		<td>Treinador área 3</td>
+		<td>Chave da 3ª porta</td>
+		<td>Refina o nivel dos itens defensivos e ofensivos (Exceto Escudos). O valor da defesa será aplicado entre +0 e +4 e no caso da arma será aplicado entre +0 e +2 ambos aleatoriamente. O valor do refinamento acima trata-se de um valor que se aplica no item inicial, podendo chegar no nivel máximo de +6, não tendo qualquer efeito caso seja um item não refinável. Caso esteja equipando um item +6 não haverá qualquer mudança.</td>
+	</tr>
+	<tr>
+		<td>Chefe de treino</td>
+		<td>Emblema Orc</td>
+		<td>Caixa de poção de cura média (20un), Rubi do Carbunkle (Aumenta HP), Olho Crescente (Aumenta 3.000 pontos de experiencia). Serão presenteados com um dos três itens acima.</td>
+	</tr>
+</table>
+<p><strong>Atenção</strong></p>
+<p>Somente jogadores abaixo do level 35 podem acessar essa QUEST.</p>
+<p>No fim da zona de iniciantes, existem monstros chefes que possuem as chaves dos portões que permitem seguir para a próxima área. A chave pode ser usada apenas uma vez e sumirá no instante do uso. O portão aberto com a chave fechará após algum tempo.</p>
+<p>Os treinadores de cada área recompensarão apenas uma vez por personagem.</p>
+<p>Caso esteja usando armas em ambas as mãos, o bônus será aplicado apenas na arma do lado esquerdo do inventário.</p>
+<p>Quando o treinador da segunda etapa adicionar uma opção aleatoriamente na arma, essa opção será aplicada independentemente da opção original, podendo assim ser aplicada uma opção menor que a inicial.</p>
+<p>O treinador da terceira etapa refina os itens de defesa e de ataque e seu valor máximo será de +6. Não terá qualquer efeito caso seu item não seja refinável.</p>
   </body>
 </html>

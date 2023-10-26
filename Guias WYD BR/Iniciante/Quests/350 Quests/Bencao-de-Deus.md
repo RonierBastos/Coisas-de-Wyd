@@ -32,7 +32,7 @@
 	<tbody>		
 	<tr>						
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ben%C3%A7%C3%A3o-de-Deus-files/wyd_img_bencao-de-deus-3.jpg?raw=true"></td>
-		<td><p><strong>Pedaco de Chance</strong></p>
+		<td><p><strong>Pedaco de Chance</p>
 			<p>Ao receber o Pedaço de Chance, entregue-o ao 'Sacerdote Kruno' e ele o transformará em Composto de Chance.</p>
 			<p>Não permitido para troca, venda, drop</p>
 			<p>Level Requerido: 70 ~ 75</p></td>
