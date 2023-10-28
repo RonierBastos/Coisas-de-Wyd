@@ -10,7 +10,7 @@
 <p>Com a evolução da cidade de Azran, a exploração das imediações da cidade começou a crescer. Não se sabe ao certo quando começou, mas os boatos sobre uma pedra mística tomou conta da cidade. Dizem que ela pode ser encontrada num local de exploração não muito longe da cidade, esse local recebeu o nome Terra Mistica.</p>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>						
-		<td><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-1.gif"></td>
+		<td width="200px"><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-1.gif"></td>
 		<td><p>Mas, de um tempo pra cá, monstros cada vez mais poderosos começaram a aparecer, fazendo com que o processo de exploração fosse comprometido. Por estas razões, o líder da exploração decidiu pedir reforcos para o capitão dos mercenários da cidade de Azran. Com o reforço, a exploração voltou a ter a sua capacidade normal, porém mesmo com os reforços, os monstros continuavam a atacar. De acordo com os rumores dos exploradores da Terra Mística, esses monstros tinham uma base na Ilha do Demonio, localizada na parte sul do mar. Muitos acreditam que exista uma passagem subterrânea, pois só assim os monstros conseguiriam chegar.</p></td>
 	</tr>
 	<tr>						
@@ -20,7 +20,7 @@
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td rowspan="2"><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-3.gif"></td>
+		<td rowspan="2" width="200px"><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-3.gif"></td>
 		<td colspan="3"><p><strong>Amuleto</strong></p>
 						<p>Um acessório fabricado através das joias mineradas na Terra Mística, possui 2 opções adicionais fora a opção padrão diferente dos amuletos normais (O amuleto adquirido como recompensa será diferente dependendo do level do personagem).</p></td>
 	</tr>

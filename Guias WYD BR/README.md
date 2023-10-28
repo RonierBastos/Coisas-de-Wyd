@@ -30,12 +30,12 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [[Level 266 ~ 320] Hidra Imortal](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Hidra-Imortal.md)
 	- [[Level 321 ~ 350] Inicio da Infelicidade](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Inicio-da-Infelicidade.md)
   - Quests complementares:
-	- [Level All] Defendendo a Terra Mística
+	- [[Level All] Defendendo a Terra Mística](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Defendendo-a-Terra-Mistica.md)
 	- [[Level 45 ~ All] Conquista do Castelo Orc](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Conquista-do-Castelo-Orc.md)
 	- [[Level 70 ~ 75] Benção de Deus](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Bencao-de-Deus.md)
-	- [Level 101 ~ 150] Formatura de Cavaleiros
-	- [Level 120 ~ 125] Equilíbrio da Força
-	- [Level 201 ~ 255] Molar da Gárgula
+	- [[Level 101 ~ 150] Formatura de Cavaleiros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Formatura-de-Cavaleiros.md)
+	- [[Level 120 ~ 125] Equilíbrio da Força](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Equilibrio-da-Forca.md)
+	- [[Level 201 ~ 255] Molar da Gárgula](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Molar-da-Gargula.md)
 	- [[Level 221 ~ 250] Cavaleiro do Reino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Cavaleiro-do-Reino.md)
   - Quests Arch:
 	- [Contrato dos Espíritos](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos.md)
