@@ -16,7 +16,7 @@ Ao conectar-se ao jogo o modo c.c. sempre estará desconectado, para que o mesmo
 </p>
 
 <p align="center">
-<img src="./1-Files/wyd_img_c.c..jpg/>
+<img src="./1-Files/wyd_img_c.c..jpg/">
 </p>
 
 <br>
