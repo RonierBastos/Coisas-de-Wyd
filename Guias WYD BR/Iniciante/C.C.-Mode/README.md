@@ -16,7 +16,7 @@ Ao conectar-se ao jogo o modo c.c. sempre estará desconectado, para que o mesmo
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/C.C.-Mode/1-Files/wyd_img_c.c..jpg?raw=true" />
+<img src="./1-Files/wyd_img_c.c..jpg/>
 </p>
 
 <br>
