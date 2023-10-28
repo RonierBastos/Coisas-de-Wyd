@@ -7,6 +7,8 @@ Esta praticamente igual ao que estava no site da Ongame.
 Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no site da Ongame era um pouco confusa.
 >O máximo que fiz, foram as correções ortográficas (sim, tinham muitas) e alguns erros grandes que prejudicavam a leitura.
 
+>Ressalto que a intenção é documentar os guias utilizados originalmente, sabemos que daria para melhorar muito cada um deles, mas não é o intuito no momento, talvez crie uma área especifica apenas para postar os guias reformulados.
+
 
 ## Iniciantes
 
