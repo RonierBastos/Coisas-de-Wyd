@@ -1406,7 +1406,7 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td>6,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_amago_lobo.gif"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_lobo.gif"/></td>
 		<td>Ração de Lobo</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>10,000</td>
