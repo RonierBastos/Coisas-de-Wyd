@@ -8,7 +8,7 @@
   <body>
 
 <p><strong>Origem da montaria</strong></p>
-<p>Entre as terras de Armia, há certos animais que são capturados e domesticados. Quando o domínio dos Homens se expandiu, esses animais agora se tornaram as melhores formas do transporte humano. Com o tempo, os papeis vitais desses animais aumentaram fenomenalmente. Devido ao crescimento da demanda, um novo trabalho surgiu em Armia. A população de Armia tornou-se adepta a caca e ao adestramento de animais, enquanto eles agora vivem de vender os animais que podem ser montados.</p>
+<p>Entre as terras de Armia, há certos animais que são capturados e domesticados. Quando o domínio dos Homens se expandiu, esses animais agora se tornaram as melhores formas do transporte humano. Com o tempo, os papeis vitais desses animais aumentaram fenomenalmente. Devido ao crescimento da demanda, um novo trabalho surgiu em Armia. A população de Armia tornou-se adepta a caça e ao adestramento de animais, enquanto eles agora vivem de vender os animais que podem ser montados.</p>
 
 <p><strong>Sistema de montaria</strong></p>
 <p>Existem oito espécies de animais e 10 tipos de cavalos que podem ser usados para montaria. <br>
@@ -19,13 +19,13 @@
 <p><strong>Sistema de Crescimento</strong></p>
 <p> A montaria não pode ser usada no momento que adquire, ela terra de passar por um processo de crescimento em 3 fases, ovo =&gt; cria =&gt; adulto, para poder montar.<br><br>
 Para a montaria de transformar de ovo para cria, será preciso cultivá-lo através da Poeira de Oriharucon e a Poeira de Lactolerium.<br><br>
-A evolução das crias e feita através de caca dos monstros e a cada momento de evolução aumenta o poder de ataque.<br><br>
+A evolução das crias e feita através de caça dos monstros e a cada momento de evolução aumenta o poder de ataque.<br><br>
 As montarias na fase final do processo (Adulto) precisam de uma essência respectiva de cada animal, e enquanto evoluem aumentam o poder de ataque e o ataque mágico.</p>
 
 <p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_montaria.gif?raw=true"/></p>
 <br>
 <p>Local para equipar a montaria</p>
-<p>O ovo de montaria ou a própria montaria deve ser equipado na parte superior esquerda da janela de inventario. Todo o efeito ligado a montaria (gasto de ração, caca e efeito ao montar) apenas será aplicado se a montaria estiver equipada corretamente.</p>
+<p>O ovo de montaria ou a própria montaria deve ser equipado na parte superior esquerda da janela de inventário. Todo o efeito ligado a montaria (gasto de ração, caça e efeito ao montar) apenas será aplicado se a montaria estiver equipada corretamente.</p>
 <table cellpadding="0" cellspacing="0">
 	<tbody>
 	<tr>
@@ -40,7 +40,7 @@ As montarias na fase final do processo (Adulto) precisam de uma essência respec
 <p>Quando o valor vitalidade da montaria chegar no 0, a montaria não poderá ser ressuscitada novamente.<br>
 O valor da vitalidade será aplicado ao chocar do ovo, para cada montaria existe um valor padronizado entre 10 ~ 30 aleatoriamente.<br>
 Os casos que reduzem a vitalidade são: durante a fase de cria quando o HP da montaria chegar no 0 e o valor do alimento chegar no 0.<br>
-Em caso da montaria ser adulta, existem possibilidades de perder valor da vitalidade através da morte do personagem que esta equipado com a montaria.</p>
+Em caso da montaria ser adulta, existem possibilidades de perder valor da vitalidade através da morte do personagem que está equipado com a montaria.</p>
 
 <p><strong>[HP]</strong></p>
 <p>É a energia (HP) da montaria. Pode ser recuperado através de rações.<br>
@@ -57,7 +57,7 @@ Ao chegar no level 99, só poderá alcançar o level 100 através do Âmago resp
 Quando o valor do alimento chegar no 0, será impossível utilizar a montaria.<br>
 A ração será consumida de tempos em tempos de - 2~ 4 pontos dependendo da montaria.<br>
 A ração apenas será consumida se a montaria estiver equipada.<br>
-O valor do alimento pode ser aumentado através de ração respectivo para cada animal vendido na cidade de''Erion''.</p>
+O valor do alimento pode ser aumentado através de ração respectiva para cada animal vendido na cidade de''Erion''.</p>
 
 <p><strong>[Experiência]</strong></p>
 <p>Experiência necessária para a evolução da montaria. (Grau de Crescimento + 100).<br>
@@ -69,7 +69,7 @@ A montaria deve caçar os monstros com o mesmo level ou maior, a sua experiênci
 <p><strong>[Vitalidade]</strong></p>
 <p>E a vitalidade da montaria que quando o valor relacionado chegar no 0, a montaria não poderá mais ser ressuscitada.<br><br>
 A vitalidade de um animal adulto (level 100), será atribuída um valor entre 0~20 aleatoriamente no valor vitalício.<br><br>
-Os casos que reduzem o valor da vitalidade são: quando o HP da montaria chegar no 0, quando o valor de alimento chegar no 0 e no caso do personagem que esta equipada com a montaria morrer.<br><br>
+Os casos que reduzem o valor da vitalidade são: quando o HP da montaria chegar no 0, quando o valor de alimento chegar no 0 e no caso do personagem que está equipada com a montaria morrer.<br><br>
 Não existem modos para aumentar a vitalidade.</p>
 
 <p><strong>[HP]</strong></p>
@@ -89,16 +89,16 @@ Outras opções não sofrerão qualquer mudança através de level.</p>
 Quando o valor do alimento chegar no 0, será impossível se utilizar a montaria.<br>
 A ração será consumida de tempo em tempo de -2~4 pontos dependendo da montaria<br>
 A ração apenas será consumida se a montaria estiver equipada.<br>
-O valor do alimento pode ser aumentado através de ração respectivo para cada animal vendido na cidade de Erion.</p>
+O valor do alimento pode ser aumentado através de ração respectiva para cada animal vendido na cidade de Erion.</p>
 
 <p><strong>[Chocando Ovo]</strong></p>
 <p>Chocando o ovo para o nascimento da cria, e necessário completar o valor critico de cada ovo através de Poeira de Oriharucon ou Poeira de Lactlerium.<br>
 Existe algo chamado de ''Tempo Estimado Para o Nascimento'' isto significa o tempo que deve esperar após uma refinação para tentar a próxima refinação.<br>
 O Tempo estimado para o nascimento é um valor padrão para todos os tipos de montarias podendo ser aplicados aleatoriamente entre 4 ~ 9 horas, em caso de falha no refinamento esse tempo será aplicado aleatoriamente entre um valor de 0 ~ 3 horas.<br>
-Para chocar, o ovo terá de estar equipado no inventario.</p>
+Para chocar, o ovo terá de estar equipado no inventário.</p>
 
 <p><strong>[Nascimento]</strong></p>
-<p>Após o nascimento, no estado de cria a montaria tera de caçar um numero de monstros predefinidos.
+<p>Após o nascimento, no estado de cria a montaria tera de caçar um número de monstros predefinidos.
 A cria começa no level 1, podendo alcançar ate o level 99 através da caça aos monstros nas quantidades requeridas para cada level, para passar do level 99 para o level 100 terá de ser usada o Âmago respectivo de cada montaria.
 Para aumentar o level das montarias é necessário caçar os monstros com level superior ao da montaria e para cada monstro derrotado 1 ponto de experiência é adicionado.
 A vitalidade da cria será aplicada aleatoriamente entre o valor de 10 ~ 30 no momento da chocagem.</p>
@@ -148,7 +148,7 @@ A vitalidade da cria será aplicada aleatoriamente entre o valor de 10 ~ 30 no m
 		<td align="center">9,000</td>
 	</tr>
 	<tr>
-		<td>Cavao S/ Sela</td>
+		<td>Cavalo S/ Sela</td>
 		<td align="center">35 + (LV x 6)</td>
 		<td align="center">50</td>
 		<td align="center">9,000</td>
@@ -233,11 +233,11 @@ Mesmo na fase adulta o grau de evolução será exibido, podendo aumentar o seu 
 Em caso de falha existe uma possibilidade de 20% de reduzir 1 ponto da vitalidade.<br>
 Cada montaria possui suas habilidades padrões e para cada level aumentado, os valores a serem aumentados serão diferentes.<br>
 No caso de estar montado em um animal, dependendo do tipo da montaria, pode aumentar as opções como o dano, ataque mágico, evasão, resistência e a absorção, mas dentre eles a evasão, resistência e a absorção não serão afetados com a evolução dos níveis da montaria.<br>
-A vitalidade das montarias adultas será definido aleatoriamente entre 0 ~ 20 pontos adicionados na longevidades pré-definida na fase de cria.</p>
+A vitalidade das montarias adultas será definido aleatoriamente entre 0 ~ 20 pontos adicionados na longevidade pré-definida na fase de cria.</p>
 
 <p><strong>Morte da Montaria</strong></p>
 <p>A montaria pode sofrer a morte na fase de cria e na fase adulta.<br>
-A montaria sofrera a morte nos casos como o HP chegar no 0, o valor do alimento chegar no 0 e quando o personagem que esta equipado com a montaria morrer.<br>
+A montaria sofrera a morte nos casos como o HP chegar no 0, o valor do alimento chegar no 0 e quando o personagem que está equipado com a montaria morrer.<br>
 Caso a montaria tenha morrido, ela pode ser ressuscitada através do mestre da montaria na cidade de "Erion" com estado de 100HP e valor 5 de alimento.<br>
 Cada vez que a montaria for ressuscitada, terá de ser pago um valor definido e perderá de 0 ~ 3 pontos de vitalidade para cada morte.</p>
 <table align="center" border="0" cellpadding="0" cellspacing="0"> 
@@ -285,7 +285,7 @@ Cada vez que a montaria for ressuscitada, terá de ser pago um valor definido e 
 		<td>9,000</td>
 	</tr>
 	<tr align="center">
-		<td>Cavao S/ Sela</td>
+		<td>Cavalo S/ Sela</td>
 		<td>500,000</td>
 		<td>10,000</td>
 	</tr>
@@ -352,10 +352,10 @@ Cada vez que a montaria for ressuscitada, terá de ser pago um valor definido e 
 </table>
 <hr>
 <p><strong>Informações de montaria</strong></p>
-<p>As informações sobre a montaria abaixo se referem apenas as montarias que completaram todas as evoluções. As explicações a seguir são informações necessárias para compreensão da tabela abaixo. Em caso de informações de cria vide a seção ''Crescimento''.</p>
+<p>As informações sobre a montaria abaixo se referem apenas as montarias que completaram todas as evoluções. As explicações a seguir são informações necessárias para compreensão da tabela abaixo. Em caso de informações de cria veja a seção ''Crescimento''.</p>
 <br>
 <p><strong>Valor da ração</strong></p>
-<p>Trata-se de valor Maximo de alimento que cada montaria pode ter durante a fase de cria e fase adulta, o valor para todas as crias são de 30 e o valor para adulto e de 100 para todos.</p>
+<p>Trata-se de valor Máximo de alimento que cada montaria pode ter durante a fase de cria e fase adulta, o valor para todas as crias são de 30 e o valor para adulto e de 100 para todos.</p>
 <br>
 <p><strong>Vitalidade</strong></p>
 <p>É um valor a ser definido no momento da chocagem e no instante que se torna adulto.<br><br>
@@ -364,7 +364,7 @@ A vitalidade será descontada entre 0 ~ 3 aleatoriamente quando o HP da montaria
 As montarias que chegarem no valor 0 na vitalidade não poderão ser revividos.</p>
 <br>
 <p><strong>HP</strong></p>
-<p>É o valor de vitalidade da montaria sendo o mesmo quanto na fase de cria quanto na fase adulta.</p>
+<p>É o valor de vitalidade da montaria, sendo o mesmo quanto na fase de cria quanto na fase adulta.</p>
 <br>
 <p><strong>Custo para nascimento</strong></p>
 <p>É o valor que terá de pagar quando a montaria sofre uma morte, pode ser revivido através do mestre de montaria na cidade de ''Erion''.</p>
@@ -382,7 +382,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 <br>
 <p><strong>Movimento</strong></p>
 <p>É a velocidade de movimento das montarias, não tendo qualquer relação com a velocidade do personagem, seguirá a velocidade da montaria. Os valores que apresentam um diferencial significa que pode ter 2 tipos de velocidade através do atalho ''R''.
-(Ex.: caso seja 3 ? 6, 3: andando, 6: correndo)</p>
+(Ex.: caso seja 3 / 6, 3: andando, 6: correndo)</p>
 <br>
 <table align="center" border="0"> 
 	<tr>
@@ -1486,37 +1486,37 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_yus.jpg?raw=true"/></td>
 		<td width="150px">Restaurador Yus</td>
 		<td width="280px">Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td width="280px">Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Unisus, Pegasus e Unicórnios.</td>
+		<td width="280px">Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Unisus, Pegasus e Unicórnios.</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_mencar.jpg?raw=true"/></td>
 		<td>Restaurador Mencar</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Cavalos equipados e Andaluz</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Cavalos equipados e Andaluz</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_birago.jpg?raw=true"/></td>
 		<td>Restaurador Birago</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Dragões, Fenrir Selvagens e Fenrir.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Dragões, Fenrir Selvagens e Fenrir.</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_acuban.jpg?raw=true"/></td>
 		<td>Restaurador Acuban</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , deve ser utilizado em Cavalo fantasma e cavalo leve.</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Cavalo fantasma e cavalo leve.</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_kapel.jpg?raw=true"/></td>
 		<td>Restaurador Kapel</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , Dragão menos, Urso Domesticado</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, Dragão menos, Urso Domesticado</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_macav.jpg?raw=true"/></td>
 		<td>Restaurador Macav</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
-		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente , Grifo, Hipogrifo e Grifo Sangrento</td>
+		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, Grifo, Hipogrifo e Grifo Sangrento</td>
 	</tr>
 	<tr>
 		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_retorno.jpg?raw=true"/></td>

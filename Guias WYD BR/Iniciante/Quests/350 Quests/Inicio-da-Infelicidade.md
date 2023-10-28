@@ -38,7 +38,7 @@
 			<p>Aumenta 300,000 exp no ato do uso.</p>
 			<p>Não permitido para drop, troca, venda e move.</p>
 			<p>Não permitido para os personagens Arch ou superiores.</p>
-			<p>Level requerido : 321 ~ 350</p></td>
+			<p>Level requerido: 321 ~ 350</p></td>
 	</tr>
 	</tbody>
 </table>

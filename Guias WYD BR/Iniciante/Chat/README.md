@@ -74,7 +74,7 @@ A mensagem de uma conversa normal pode ser vista apenas para quem estiver ao seu
 <br>
 <p><strong>Funções adicionais</strong></p>
 <p>
-Exibindo um "Nickname" acima do nome do seu personagem, pode demonstrar os sentimentos como, por exemplo, ou utilizando em varias formas. Na entrada de Chat: ao digitar /tab Teste e apertar a tecla enter, acima do nome do personagem aparecerá a mensagem Teste. (A utilização desta função se aplica após o level 70)
+Exibindo um "Nickname" acima do nome do seu personagem, pode demonstrar os sentimentos como, por exemplo, ou utilizando em várias formas. Na entrada de Chat: ao digitar /tab Teste e apertar a tecla enter, acima do nome do personagem aparecerá a mensagem Teste. (A utilização desta função se aplica após o level 70)
 </p><br>
 <p><strong>Mensagens instantâneas</strong></p>
 <p>
@@ -87,13 +87,13 @@ Quando aparecer um ícone de Mensagem Instantânea na parte inferior direita da 
 </p><br>
 <p><strong>Mensagens de ausência</strong></p>
 <p>
-Caso esteja ausente é possível avisar os outros jogadores disso usando a função de mensagem de ausência. Após definir e executar a mensagem de ausência e algum jogador mandarem uma conversa privada para você, a sua mensagem de ausência pré-definida aparecerá na tela do jogador que mandou whisper.
+Caso esteja ausente, é possível avisar os outros jogadores disso usando a função de mensagem de ausência. Após definir e executar a mensagem de ausência e algum jogador mandarem uma conversa privada para você, a sua mensagem de ausência pré-definida aparecerá na tela do jogador que mandou whisper.
 </p><br>
 <p><strong>Como Usar</strong></p>
 <p>
 Na janela de entrada de Bate-Papo:
 
-:Se escrever "/snd estou jantando" e alguém mandar uma mensagem para você, aparecerá uma mensagem "Mensagem de ausência: estou jantando " na tela do jogador que mandou uma mensagem para você.
+Se escrever "/snd estou jantando" e alguém mandar uma mensagem para você, aparecerá uma mensagem "Mensagem de ausência: estou jantando" na tela do jogador que mandou uma mensagem para você.
 </p>		
   </body>
 </html>

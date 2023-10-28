@@ -33,7 +33,7 @@
 	<tr>						
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-3.jpg?raw=true"></td>
 		<td><p><strong>Emblema do Reino</strong></p>
-			<p>Ao equipar no slot de Familiar e ir de encontro com o rei do reino ao qual pertence, receberáo Manto Estampado (Manto Fase 1).</p>
+			<p>Ao equipar no slot de Familiar e ir de encontro com o rei do reino ao qual pertence, receberão Manto Estampado (Manto Fase 1).</p>
 			<p>Não permitido trocar, mover, dropar ou vender.</p>
 			<p>Não permitido para os personagens Arch ou superiores.</p>
 			<p>Level Requerido: 221 ~ 250.</p></td>

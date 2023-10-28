@@ -9,10 +9,10 @@
         <p>
             O Castelo de Noatun é dividido em duas zonas- A Zona da Cidade (canto inferior-esquerdo) e a Zona da Guerra de Castelos (canto superior e superior direito).<br>
             A Zona da Guerra de Castelos e a Zona do Deserto são separadas por barricadas na entrada do Castelo de Noatun. A Zona Neutra fica do outro lado das Barricadas, consequentemente, durante a Guerra de Castelos, qualquer atividade PK e avaliado dentro das normas do Sistema PK.<br>
-            Quando a Guerra de Castelos der inicio, todos os portais marcados no mapa serão fechados. As Torres de Thor surgirão fora da Zona de Cidades e dentro da Zona de Cidades. As Torres atacarão todos aqueles que chegarem perto, mas isso não quer dizer que elas são imunes a ataques.<br>
+            Quando a Guerra de Castelos der inicio, todos os portais marcados no mapa serão fechados. As Torres de Thor surgirão fora da Zona de Cidades e dentro da Zona de Cidades. As Torres atacarão todos os que chegarem perto, mas isso não quer dizer que elas são imunes a ataques.<br>
             O Portal da Cidade que separa a Zona da Cidade e a Zona da Guerra de Castelos não pode ser danificado e o portal não pode ser aberto durante a Guerra de Castelos. Os membros da Guilda que conquistaram o Castelo de Noatun poderão usar o Portal de Teleporte na Zona da Guilda para se teleportar de volta a Zona de Guerra de Castelos.<br><br>
             Quando a Guerra de Castelos começar, todos as personagens participantes são convocados para um local específico do lado de fora da Cidade.<br>
-            Os membros da Guilda que conquistar o Castelo ficarão no interior do Castelo. Para conquistar o Castelo de Noatun, os participantes deverão ir através de Deserto (localizado ao sul do Reino). Durante a Guerra de Castelos, os jogadores ficam proibidos de usar convocações, teleportes e pergaminhos de teleporte enquanto estiverem no lado de dentro do Castelo de Noatun, consequentemente, precisam se preparar totalmente antes de entrar na Zona de Guerra de Castelos.<br>
+            Os membros da Guilda que conquistar o Castelo ficarão no interior do Castelo. Para conquistar o Castelo de Noatun, os participantes deverão ir através do Deserto (localizado ao sul do Reino). Durante a Guerra de Castelos, os jogadores ficam proibidos de usar convocações, teleportes e pergaminhos de teleporte enquanto estiverem no lado de dentro do Castelo de Noatun, consequentemente, precisam se preparar totalmente antes de entrar na Zona de Guerra de Castelos.<br>
             Durante a Guerra de Castelos, os jogadores podem usar o portal de cada cidade para se teleportar a Zona da Cidade no Castelo de Noatun, mas terão de entrar no portal que separa a Zona da Cidade e a Zona da Guerra de Castelos.
         </p>
     <p><strong>Observação:</strong></p>
@@ -37,7 +37,7 @@
             <br>
 
   <p><strong>Processo de Guerra o castelo</strong></p>
-            <p>A guerra de Castelos ocorre todo Domingo mas será executada em semanas intercaladas, ou seja, primeira semana em servidores com números ímpares, e a segunda semana em servidores pares, assim respectivamente. Realizadas em todos os sábados em 5 servidores ao mesmo tempo, acontecendo em uma vez.
+            <p>A guerra de Castelos ocorre todo Domingo, mas será executada em semanas intercaladas, ou seja, primeira semana em servidores com números ímpares, e a segunda semana em servidores pares, assim respectivamente. Realizadas em todos os sábados em 5 servidores ao mesmo tempo, acontecendo em uma vez.
                 <table align="center" border="0" cellpadding="7" cellspacing="7"> 
                     <tr>
                         <td  align="center" width="100">- Defesa</td>
@@ -51,7 +51,7 @@
                     <tr>
                         <td align="center" width="150">- Procedimento:</td>
                         <td>
-                            <strong>20:00</strong> / Notificação do início da Guerra de Castelo após 3 minutos para todo os servidor.<br>
+                            <strong>20:00</strong> / Notificação do início da Guerra de Castelo após 3 minutos para todo o servidor.<br>
                             <strong>20:05</strong> / Início da Guerra de Castelo, Cada Portão é fechado e a Torre de Thor é criada. <br>
                             <strong>20:55</strong> / Caso o Castelo seja defendido com sucesso, os Defensores irão vencer a Guerra. 
                         </td>
@@ -67,12 +67,12 @@
                 </tr>
                 <tr>
                     <td width="220px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true"/></td>
-                    <td>Assim que você destruir a Torre de Thor, você poderá ver o "Altar de Thor " no mesmo local. Caso outro Líder de Guilda tente entrar no Altar, a seguinte mensagem será exibida "Ocupe o altar de Thor". Após permanecer lá por 5 minutos, você receberá a mensagem "Jogador XXX conquistou o Altar de Thor". Isso significa que você obteve sucesso ao tomar o Castelo de Noatun. Após a guerra, o Líder da Guilda vencedora irá receber a Coroa de Átila e o Canhão. Ele receberá também 2 livros Sephira "Conjurar Canhão" que é necessário para utilizar o Canhão.</td>
+                    <td>Assim que você destruir a Torre de Thor, você poderá ver o "Altar de Thor" no mesmo local. Caso outro Líder de Guilda tente entrar no Altar, a seguinte mensagem será exibida "Ocupe o altar de Thor". Após permanecer lá por 5 minutos, você receberá a mensagem "Jogador XXX conquistou o Altar de Thor". Isso significa que você obteve sucesso ao tomar o Castelo de Noatun. Após a guerra, o Líder da Guilda vencedora irá receber a Coroa de Átila e o Canhão. Ele receberá também 2 livros Sephira "Conjurar Canhão" que é necessário para utilizar o Canhão.</td>
                 </tr>
             </table>
         </p>
     <p><strong>Observação:</strong></p>
-              <p>O Líder da Guilda ou o Sub-Líder devem estar no Altar de Thor para conquistar a vitória. No entanto somente o Líder da Guilda receberá a Coroa de Átila.<br>
+              <p>O Líder da Guilda ou o Sub-Líder devem estar no Altar de Thor para conquistar a vitória. No entanto, somente o Líder da Guilda receberá a Coroa de Átila.<br>
               Guild mastering which has a different characteristic and phu guild mastering it will not be able to fall the altar.</p>  
             
   <p><strong>Recompensa para o dono do castelo de Noatun</strong></p>
@@ -105,7 +105,7 @@
                         <td align="center">Possível atacar</td>
                     </tr>
                 </table>
-    <p>- Ataque e jogadores Neutro</p>
+    <p>- Ataque e jogadores Neutros</p>
                 <table align="center" border="0" cellpadding="4" cellspacing="4" width="500"> 
                     <tr style="background-color: #30363d" align="center">
                         <td align="center"><strong></strong></td>
@@ -133,8 +133,8 @@
                 <p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true" width="150" height="150" align="left">E o objeto principal da Guerra de Castelos. A Torre de Thor simboliza o poder divino que protege o castelo divido a sua defesa natural que ataca todos os jogadores com exceção aos que estão defendendo o castelo.<br>
                 O Deus Trovão, Thor, e um dos Deuses mais amado e respeitado pela humanidade.<br>
                 Atila, foi uma das pessoas que o reverenciava e como prova da sua devoção, construiu a Torre de Thor no Castelo de Noatun.<br>
-                O Deus Trovão, para mostrar seu agrado e amor por Atila, usa seus Trovoes para todos aqueles que ousam chegar perto da Torre de Thor.<br>
-                A Torre ataca todos os jogadores exceto aqueles que pertencem ao mesmo Reino e a Guilda que dominou o Castelo de Noatun.<br>
+                O Deus Trovão, para mostrar seu agrado e amor por Atila, usa seus Trovoes para todos os que ousam chegar perto da Torre de Thor.<br>
+                A Torre ataca todos os jogadores, exceto aqueles que pertencem ao mesmo Reino e a Guilda que dominou o Castelo de Noatun.<br>
                 Todo jogador que ataca a Torre, mesmo sendo um aliado, receberá instantaneamente um ataque da Torre.<br></p>
     <p><strong>Canhão</strong></p>
                 <p>O novo rei que recebeu a Coroa de Atila usou toda a sua sabedoria para criar uma poderosa arma que será usada em suas batalhas.<br>

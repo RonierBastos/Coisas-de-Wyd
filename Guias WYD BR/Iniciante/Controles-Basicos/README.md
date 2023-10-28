@@ -33,13 +33,11 @@ Para atacar o inimigo, utilize o botão esquerdo do mouse. Chegue perto do alvo 
 <br>
 <p><strong>Skill</strong></p>
 <p>
-Você deve registrar as skills no slot rápido 1~10 na tela do jogo para que possa utilizá-las. Para utilizar uma skill basta selecioná-la na barra de slot rápido e clicar no alvo com o botão direito do mouse. Se você desejar utilizar alguma Skill em um membro do seu grupo, basta clicar no nome dele com o botão direito do mouse na janela de Grupo.
+Você deve registrar as skills no slot rápido 1~10 na tela do jogo para poder utilizá-las. Para utilizar uma skill basta selecioná-la na barra de slot rápido e clicar no alvo com o botão direito do mouse. Se você desejar utilizar alguma Skill em um membro do seu grupo, basta clicar no nome dele com o botão direito do mouse na janela de Grupo.
 </p><br>
 
 <p><strong>Ataque automático</strong></p>
-<p>
-
-Clique no botão de ataque automático <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos/1-files/wyd_img_icone.jpg?raw=true">, ou pressione a tecla "T" para ativar/desativar o modo de ataque automático. No modo automático o personagem atacará o alvo selecionado previamente até que seja feita alguma alteração ou movimento. Se selecionado com o botão esquerdo aplicará dano físico e se selecionado com o botão direito atacará com Skills. No caso das Skills, apenas as Skills definidos na barra de Skill rápida, dentre eles apenas os que estiverem com a marcação em laranja serão aplicados na ordem.
+<p>Clique no botão de ataque automático <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos/1-files/wyd_img_icone.jpg?raw=true">, ou pressione a tecla "T" para ativar/desativar o modo de ataque automático. No modo automático o personagem atacará o alvo selecionado previamente até que seja feita alguma alteração ou movimento. Se selecionado com o botão esquerdo aplicará dano físico e se selecionado com o botão direito atacará com Skills. No caso das Skills, apenas as Skills definidos na barra de Skill rápida, dentre eles apenas os que estiverem com a marcação em laranja serão aplicados na ordem.
 </p>
 
 <p align="center">
@@ -94,7 +92,7 @@ Para realizar uma troca. Clique no jogador com o qual deseja efetuar a troca cli
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos/1-files/wyd_img_troca.jpg?raw=true" />
 </p>
 <p>
-Caso outro jogador solicite a troca, você irá receber uma mensagem. Basta apertar o botão confirmar caso deseje efetuar a troca, ou o botão Cancelar caso não queira. Após confirmar a troca uma janela será aberta com o seu inventário e a janela de troca. Para selecionar o item que deseja entregar basta clicar com o botão esquerdo do mouse no item.
+Caso outro jogador solicite a troca, você irá receber uma mensagem. Basta apertar o botão confirmar caso deseje efetuar a troca, ou o botão Cancelar caso não queira. Após confirmar a troca, uma janela será aberta com o seu inventário e a janela de troca. Para selecionar o item que deseja entregar basta clicar com o botão esquerdo do mouse no item.
 </p>
 <p align="center">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos/1-files/wyd_img_troca2.jpg?raw=true" />
@@ -105,7 +103,7 @@ Quando você clicar na moeda de GOLD localizada abaixo do seu inventário, uma j
 <p align="center">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos/1-files/wyd_img_troca_com_gold.jpg?raw=true" />
 </p>
-<p><strong>Obs.:</strong> Caso você ative o botão PK localizado no canto inferior esquerdo da janela do jogo nenhum jogador poderá realizar troca com você e vice-versa.</p>
+<p><strong>Obs.:</strong> Caso você ative o botão PK localizado no canto inferior esquerdo da janela do jogo, nenhum jogador poderá realizar troca com você e vice-versa.</p>
 <br>
 <p><strong>Venda automática</strong></p>
 <p>

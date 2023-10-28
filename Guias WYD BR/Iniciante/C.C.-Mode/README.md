@@ -10,7 +10,7 @@
 <p><strong>Introdução</strong></p>
 
 <p>
-O modo C.C. é um sistema de ataque automático. Quando ativado o personagem pode atacar ou mesmo utilizar magias em monstros que alcancem seu raio de ataque automaticamente. Essa opção permite que o jogador tenha maior flexibilidade para realizar outras ações enquanto seu personagem é mantido automaticamente em combate, permitindo, por exemplo, que o jogador participe ativamente dos chats no mesmo momento em que ataca os monstros.<br>
+O modo C.C. é um sistema de ataque automático. Quando ativado, o personagem pode atacar ou mesmo utilizar magias em monstros que alcancem seu raio de ataque automaticamente. Essa opção permite que o jogador tenha maior flexibilidade para realizar outras ações enquanto seu personagem é mantido automaticamente em combate, permitindo, por exemplo, que o jogador participe ativamente dos chats no mesmo momento em que ataca os monstros.<br>
 
 Ao conectar-se ao jogo o modo c.c. sempre estará desconectado, para que o mesmo seja ativado, basta clicar no botão C.C. que se encontra do lado inferior esquerdo da tela.
 </p>

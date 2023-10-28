@@ -34,11 +34,11 @@
 </tr >
 <tr>
 <td  align="center">5</td>
-<td><strong>Indicadores de HP e HP da Montaria:</strong> Representação gráfica localizada da quantidade de HP e HP de montaria que o jogador possui no momento. Graças a esta barra o jogador não precisa buscar as informações na barra principal (encontrada no canto esquerdo superior da tela).</td>
+<td><strong>Indicadores de HP e HP da Montaria:</strong> Representação gráfica localizada da quantidade de HP e HP de montaria que o jogador possui no momento. Graças a esta barra, o jogador não precisa buscar as informações na barra principal (encontrada no canto esquerdo superior da tela).</td>
 </tr>
 <tr>
 <td align="center">6</td>
-<td><strong>Janela de Chat:</strong> Aperte a tecla "+" para aument-la, tecle 'ENTER' para ativar o campo de inserção de texto.</td>
+<td><strong>Janela de Chat:</strong> Aperte a tecla "+" para aumenta-la, tecle 'ENTER' para ativar o campo de inserção de texto.</td>
 </tr >
 <tr>
 <td align="center">7</td>

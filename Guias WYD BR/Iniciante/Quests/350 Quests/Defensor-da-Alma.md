@@ -33,10 +33,10 @@
 	<tr>						
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-3.jpg?raw=true"></td>
 		<td><p><strong>Caixa da Sabedoria</p>
-			<p>Apos adquirir, clique com o botao direito do mouse para usar.</p>
+			<p>Após adquirir, clique com o botão direito do mouse para usar.</p>
 			<p>Adiciona 7,500 EXP para seu personagem.</p>
-			<p>Item nao permitido para drop, comercio ou troca.</p>
-			<p>Nao permitido para os personagens Arch ou superiores.</p>
+			<p>Item não permitido para drop, comercio ou troca.</p>
+			<p>Não permitido para os personagens Arch ou superiores.</p>
 			<p>Level Requerido: 40 ~ 115</p></td>
 	</tr>
 	</tbody>

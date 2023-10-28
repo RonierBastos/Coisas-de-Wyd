@@ -32,11 +32,11 @@
 	<tbody>		
 	<tr>						
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Jardim-de-Deus-files/wyd_img_jardim-de-deus-3.jpg?raw=true"></td>
-		<td><p><strong>Lagrima Angelical</p>
+		<td><p><strong>Lágrima Angelical</p>
 			<p>Após adquirir, clique com o botão direito do mouse para usar.</p>
 			<p>15,000 EXP ganha após o uso.</p>
 			<p>Não permitido para troca, venda ou drop.</p>
-			<p>Nao permitido para os personagens Arch ou superiores.</p>
+			<p>Não permitido para os personagens Arch ou superiores.</p>
 			<p>Level Requerido: 116 ~ 190</p></td>
 	</tr>
 	</tbody>

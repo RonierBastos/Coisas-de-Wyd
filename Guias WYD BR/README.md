@@ -7,7 +7,7 @@ Esta praticamente igual ao que estava no site da Ongame.
 Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no site da Ongame era um pouco confusa.
 >O máximo que fiz, foram as correções ortográficas (sim, tinham muitas) e alguns erros grandes que prejudicavam a leitura.
 
->Ressalto que a intenção é documentar os guias utilizados originalmente, sabemos que daria para melhorar muito cada um deles, mas não é o intuito no momento, talvez crie uma área especifica apenas para postar os guias reformulados.
+>Ressalto que a intenção é documentar os guias utilizados originalmente, sabemos que daria para melhorar muito cada um deles, mas não é o intuito no momento, talvez crie uma área específica apenas para postar os guias reformulados.
 
 
 ## Iniciantes
@@ -41,22 +41,22 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Contrato dos Espíritos](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos.md)
 	- [Runas Secretas](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas.md)
   - Quests Especiais:
-	- Circulo Divino
+	- [Circulo Divino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Circulo-Divino.md)
 	- Cubo da Maldade
 	- Evolução do Cavaleiro
 	- Hall do Kefra
 	- Medalha do Reino
-	- Monstro Comerciante
+	- [Monstro Comerciante](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Monstro-comerciante.md)
 	- Novo Começo
-	- Pedra da Troca
+	- [Pedra da Troca](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Pedra-da-Troca.md)
 	- Pesadelo
 	- Portão Infernal
 	- Procura da Vida Eterna
-	- Procura dos rastros
+	- [Procura dos rastros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-dos-Rastros.md)
 	- Programa de monstros
 	- Quarto Secreto
 	- Sociedade Wyd
-	- Tempestadde Inacabável
+	- [Tempestadde Inacabável](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Tempestade-Inacabavel.md)
 	- Zona elementa da água
 
 

@@ -11,7 +11,7 @@
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>						
 		<td width="250px"><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-1.gif"></td>
-		<td><p>Mas, de um tempo pra cá, monstros cada vez mais poderosos começaram a aparecer, fazendo com que o processo de exploração fosse comprometido. Por estas razões, o líder da exploração decidiu pedir reforcos para o capitão dos mercenários da cidade de Azran. Com o reforço, a exploração voltou a ter a sua capacidade normal, porém mesmo com os reforços, os monstros continuavam a atacar. De acordo com os rumores dos exploradores da Terra Mística, esses monstros tinham uma base na Ilha do Demonio, localizada na parte sul do mar. Muitos acreditam que exista uma passagem subterrânea, pois só assim os monstros conseguiriam chegar.</p></td>
+		<td><p>Mas, de um tempo para cá, monstros cada vez mais poderosos começaram a aparecer, fazendo com que o processo de exploração fosse comprometido. Por estas razões, o líder da exploração decidiu pedir reforços para o capitão dos mercenários da cidade de Azran. Com o reforço, a exploração voltou a ter a sua capacidade normal, porém mesmo com os reforços, os monstros continuavam a atacar. De acordo com os rumores dos exploradores da Terra Mística, esses monstros tinham uma base na Ilha do Demônio, localizada na parte sul do mar. Muitos acreditam que exista uma passagem subterrânea, pois só assim os monstros conseguiriam chegar.</p></td>
 	</tr>
 	<tr>						
 		<td><img src="./Quests-files/Defendendo-a-Terra-Mistica-files/wyd_img_defendendo-a-terra-mistica-2.gif"></td>
@@ -38,6 +38,6 @@
 <p><strong>Atenção<strong></p>
 <p>A permissão será dada apenas se estiver com um grupo formado.</p>
 <p>Os membros do grupo devem estar por perto na hora de receber a recompensa pelo líder da expedição.</p>
-<p>Para cada personagem, é possivel ser o lider do grupo apenas uma vez, mas como membro do grupo pode-se participar quantas vezes que quiser.</p>
+<p>Para cada personagem, é possível ser o líder do grupo apenas uma vez, mas como membro do grupo pode-se participar quantas vezes que quiser.</p>
   </body>
 </html>

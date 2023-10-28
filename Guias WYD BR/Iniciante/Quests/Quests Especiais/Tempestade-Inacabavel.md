@@ -15,11 +15,11 @@ Com esta invasão surpresa, a guerra entre os dois reinos foi renovada e a viol�
 	</tr>
 	<tr>						
 		<td width="250px"><img src="./Quests-Especiais-files/Tempestade-Inacabavel-files/wyd_img_tempestade-inacabavel-1.gif"></td>
-		<td><p>É um item que pode ser adquirido ao derrotar o rei do reino oponente. Trata-se de um simbolo que denota grande coragem. Apenas o possuidor deste simbolo e seu grupo terão acesso ao último quarto do Quarto Secreto.</p></td>
+		<td><p>É um item que pode ser adquirido ao derrotar o rei do reino oponente. Trata-se de um símbolo que denota grande coragem. Apenas o possuidor deste símbolo e seu grupo terão acesso ao último quarto do Quarto Secreto.</p></td>
 	</tr>
 </table>
 <p><strong>Procedimentos<strong></p>
-<p><strong>1 - <strong>Cada reino possui tropas de defesa e a torre guardia para que possa se defender dos cavaleiros do reino oponente. A tropa de defesa e a torre de defesa atacarão os cavaleiros do reino oponente no instante da invasão para defender o seu reino.</p>
-<p><strong>2 - <strong>2 - O Símbolo da Coragem pode ser adquirido derrotando o Rei do reino oponente, que se localiza no centro do Reino. (Apenas os que possuírem o 'Simbolo da Coragem' terão acesso a última sala do Quarto Secreto).</p>
+<p><strong>1 - <strong>Cada reino possui tropas de defesa e a torre guardiã, para que possa se defender dos cavaleiros do reino oponente. A tropa de defesa e a torre de defesa atacarão os cavaleiros do reino oponente no instante da invasão para defender o seu reino.</p>
+<p><strong>2 - <strong>2 - O Símbolo da Coragem pode ser adquirido derrotando o Rei do reino oponente, que se localiza no centro do Reino. (Apenas os que possuírem o 'Símbolo da Coragem' terão acesso à última sala do Quarto Secreto).</p>
   </body>
 </html>

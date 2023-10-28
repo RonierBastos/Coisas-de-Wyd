@@ -45,14 +45,14 @@
 		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-5.gif?raw=true"/></td>
 		<td>Cristal Noas</td>
     <td>Batorero</td>
-    <td>Ao complestar a QUEST aumentam 60 MP, 60 HP e 30 AC.</td>
+    <td>Ao completar a QUEST aumentam 60 MP, 60 HP e 30 AC.</td>
 	</tr>
   <table>
 <br>
 <p><strong>Formas de Procedimento</strong></p>
-<p>Quando o personagem alcancar o level 355, pressione a tecla 'X' para confirmar a quest na janela de informações.</p>						
+<p>Quando o personagem alcançar o level 355, pressione a tecla 'X' para confirmar a quest na janela de informações.</p>						
 <p>Adquira os itens relacionados a quest caçando os monstros que aparecem na Dugeon Kefra.</p>						
-<p>Não importa a ordem de aquisicção dos itens, mas a ordem de utilização deverá ser de acordo com a quest, começando pela fase 1.</p>
+<p>Não importa a ordem de aquisição dos itens, mas a ordem de utilização deverá ser de acordo com a quest, começando pela fase 1.</p>
 <p>Cada quest completada diminuirá 100 milhões de pontos de experiência e aumentará os valores de habilidade.</p>
 <p>Após completar a quest, passe para o level 355 novamente e inicie a nova etapa da quest.</p>
 <p>A Quest não poderá ser feita mais de uma vez, podendo ser realizada apenas 1 vez, da fase 1 até a fase 4.</p>

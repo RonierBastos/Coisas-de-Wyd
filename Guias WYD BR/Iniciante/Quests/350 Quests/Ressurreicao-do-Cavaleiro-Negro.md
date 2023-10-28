@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-
 <p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ressurreicao-do-Cavaleiro-files/wyd_img_ressureicao-do-cavaleiro-negro-1.jpg?raw=true"/></p>
 
 <table border="0" cellpadding="0" cellspacing="0">

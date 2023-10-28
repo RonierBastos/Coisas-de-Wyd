@@ -8,7 +8,7 @@
   <body>
 
 <p>
-Ao evoluir a personagem através da caça, o mesmo recebe pontos de aprendizagem e pontos em skill. Para aprender uma nova skill, simplesmente vá a Armia e localize o Mestre de Skill de sua classe e compre a(s) skill(s) que desejar.
+Ao evoluir a personagem através da caça, o mesmo recebe pontos de aprendizagem e pontos em skill. Para aprender uma nova skill, simplesmente vá à Armia e localize o Mestre de Skill de sua classe e compre a(s) skill(s) que desejar.
 Skills básicas ou de nível baixo podem ser aprendidas por um baixo preço de Pontos de Skill. A Skill pode ser aprendida somente através do NPC Mestre de Skill de cada classe. A quantidade de Pontos de Skill gastas variam de acordo com a Skill que desejar comprar.
 </p>
 

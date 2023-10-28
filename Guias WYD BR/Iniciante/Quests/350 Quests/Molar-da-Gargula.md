@@ -32,11 +32,11 @@
 	<tbody>		
 	<tr>						
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Molar-da-Gargula-files/wyd_img_molar-da-gargula-3.jpg?raw=true"></td>
-		<td><p><strong>Molar de Gargula</p>
-			<p>Apos adquirir, clique com o botao direito do mouse para usar.</p>
+		<td><p><strong>Molar de Gárgula</p>
+			<p>Após adquirir, clique com o botão direito do mouse para usar.</p>
 			<p>No ato de uso, aumenta o valor de refinamento dos itens de defesa equipados para +6, exceto escudo.</p>
 			<p>Não permitido a troca, venda, drop ou mover.</p>
-			<p>Nao permitido para os personagens Arch ou superiores.</p>
+			<p>Não permitido para os personagens Arch ou superiores.</p>
 			<p>Level Requerido: 201 ~ 255.</p></td>
 			<p>Permitido o uso de apenas 1 vez.</p>
 	</tr>

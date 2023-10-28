@@ -15,7 +15,7 @@ Quando um jogador morre no PvP ou em uma área PK, a experiência do personagem 
 <p>
 - Quando a experiência do personagem e 1620000000 e o C. Point e 0.<br><br>
 - Quando você morre no PvP, o seu C. Point aumenta 5000. A experiência do seu personagem será bloqueada em 1620000000.<br><br>
-- Se você morrer no PvP pela primeira vez, você receberá 5000 C. Point. Se você morrer pela quarta vez o C. Point será 20000. Sua experiência ficará bloqueada até você conseguir o total de 20000 de experiência                   
+- Se você morrer no PvP pela primeira vez, você receberá 5000 C. Point. Se você morrer pela quarta vez, o C. Point será 20000. Sua experiência ficará bloqueada até você conseguir o total de 20000 de experiência                   
 </p>
 <p><strong>No caso do C.Point reduzir</strong></p>
 <p>Quando a experiência do personagem está bloqueada e o C. Point e 20000.<br><br>
@@ -35,7 +35,7 @@ Quando você adquire experiência caçando monstros ou matando jogadores do rein
 </ul>
 </p>
 
-<p>Todos os novos personagens irão iniciar com 0 pontos de Caos.Toda vez que o seu personagem matar outro jogador o seu pontos de Caos serão reduzidos. Personagens com 65 de pontos de Caos terão a cor do nome alterado para preto. Matar personagens com nomes em preto não irá causar penalidade de pontos de Caos.<br><br>
+<p>Todos os novos personagens irão iniciar com 0 pontos de Caos. Toda vez que o seu personagem matar outro jogador o seus pontos de Caos serão reduzidos. Personagens com 65 de pontos de Caos terão a cor do nome alterado para preto. Matar personagens com nomes em preto não irá causar penalidade de pontos de Caos.<br><br>
 Para verificar os pontos de caos utilize o comando "/cp" na janela de chat.
 </p>
 <p><strong>Circunstâncias onde os Pontos de Caos serão reduzidos</strong></p>
@@ -118,8 +118,8 @@ A Guilda que depositar o maior tributo será escolhida para a batalha.
 - 20:03 : Início da Guerra de Guilda.<br>
 - 3:30 : Fim da Guerra de Guilda. <br>
 Caso haja membros de cada Guilda ainda vivos, a Guilda com maior número de pontos ganha.<br>
-O total de pontos é igual a somatória de leveis dos membros vivos da Guilda e serão automaticamente levados para a Zona de Guilda da cidade. <br>
-No caso de empate a Guilda defensora irá permanecer como campeã.               
+O total de pontos é igual à somatória de leveis dos membros vivos da Guilda e serão automaticamente levados para a Zona de Guilda da cidade. <br>
+No caso de empate, a Guilda defensora irá permanecer como campeã.               
 </p>
 
 <p><strong>Declaração de Guerra</strong></p>
@@ -129,7 +129,7 @@ A Declaração de Guerra foi criada para controlar a Guerra entre duas Guildas d
 
 <table align="center" width="800">
 	<tr>
-		<td align="center">
+		<td align="center" width="200">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Sistema-de-Pontos/sistema-de-pontos-files/wyd_img_declaracao_1.gif?raw=true" />
 </td>
 		<td>1 - Somente o Líder da guilda pode declarar Guerra a outras Guildas. Clique com o botão direito do mouse no Líder ou em um membro da Guilda que deseja declarar guerra e selecione Guilda no menu.</td>

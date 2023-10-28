@@ -35,7 +35,7 @@
 		<td><p><strong>Emblema de Aprendiz</p>
 			<p>Ao equipar no slot de Familiar e ir ao encontro do capitão de treinamento, receberá o manto do aprendiz.</p>
 			<p>Não permitido para troca, drop e venda.</p>
-			<p>Nao permitido para os personagens Arch ou superiores.</p>
+			<p>Não permitido para os personagens Arch ou superiores.</p>
 			<p>Level Requerido: 101 ~ 150.</p></td>
 	</tr>
 	</tbody>

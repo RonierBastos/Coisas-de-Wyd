@@ -141,7 +141,7 @@ Na janela de do chat, utilize o comando "/ Fim da Aliança" para acabar com a al
 </tr>
 <tr style="background-color: #30363d" align="center">
 	<td>/criar [nome]</td>
-	<td>Cria uma nova guilda com o pagamente de 100 Milhões de GOLD.</td>
+	<td>Cria uma nova guilda com o pagamento de 100 Milhões de GOLD.</td>
 </tr>
 <tr align="center">
 	<td>/expulsar</td>

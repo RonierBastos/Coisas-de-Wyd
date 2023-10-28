@@ -9,7 +9,7 @@
 
 <p><strong>Conquista do Castelo Orc</strong></p>
 <p>Na época em que os povos de Armia começaram a prosperar, a população ficou animada com o comércio entre as cidades e as caravanas de viajantes aumentaram consideravelmente.
-Foi ai que a população conheceu o terror, pois com o aumento de pessoas na estrada, seres malígnos, denominados Orcs, começaram a mostrar as garras. Orcs!! Sim...esses Orcs são seres malignos criados pelas energias demoníacas e são mais inteligentes e astutos que os outros monstros, montando varias armadilhas e emboscadas para os viajantes desatentos.</p>
+Foi aí que a população conheceu o terror, pois com o aumento de pessoas na estrada, seres malignos, denominados Orcs, começaram a mostrar as garras. Orcs!! Sim...esses Orcs são seres malignos criados pelas energias demoníacas e são mais inteligentes e astutos que os outros monstros, montando várias armadilhas e emboscadas para os viajantes desatentos.</p>
 <br>
 <table border="0" cellpadding="0" cellspacing="0">	
 	<tr>						
@@ -18,7 +18,7 @@ Foi ai que a população conheceu o terror, pois com o aumento de pessoas na est
 	</tr>
 	<tr width="200px">
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Conquista-do-Castelo-Orc-files/wyd_img_consquista-do-castelo-orc-2.gif?raw=true"></td>
-		<td><p>Caso queira eliminar o Lorde Orc, invada o castelo dos Orc. Mas antes, escolha valorosos guerreiros para acompanha-lo, pois mesmo que voce seja um guerreiro altamente qualificado não sera possível combater a quantidade de Orcs que residem no local. Para chegar ao castelo onde Lorde Orc permanece, primeiro você terá que matar os guardiões de cada porta e pegar a chave dos portões para abrir as portas para o próximo acesso. Dizem que o Lorde Orc possui uma pílula magica que contém poderes fantasticos. Para aqueles que desejam testar suas habilidades e aumentar seu poder, esta é a chance. Esqueça seus medos e entre no Castelo Orc!</p></td>
+		<td><p>Caso queira eliminar o Lorde Orc, invada o castelo dos Orc. Mas antes, escolha valorosos guerreiros para acompanhá-lo, pois mesmo que voce seja um guerreiro altamente qualificado não será possível combater a quantidade de Orcs que residem no local. Para chegar ao castelo onde Lorde Orc permanece, primeiro você terá que matar os guardiões de cada porta e pegar a chave dos portões para abrir as portas para o próximo acesso. Dizem que o Lorde Orc possui uma pílula magica que contém poderes fantásticos. Para aqueles que desejam testar suas habilidades e aumentar seu poder, esta é a chance. Esqueça seus medos e entre no Castelo Orc!</p></td>
 	</tr>
 	</tbody>
 </table>
@@ -30,11 +30,11 @@ Foi ai que a população conheceu o terror, pois com o aumento de pessoas na est
 	</tr>
 </table>
 <br>
-<p>Para cada área nova, a dificuldade aumenta e as batalhas são mais ferozes, mas não fique desanimado. Cada área conta com um treinador que estão lá para ajudá-lo a evoluir suas técnicas de luta. Os treinadores tem a função de considerar todas as suas condições e necessidades.</p>
+<p>Para cada área nova, a dificuldade aumenta e as batalhas são mais ferozes, mas não fique desanimado. Cada área conta com um treinador que estão lá para ajudá-lo a evoluir suas técnicas de luta. Os treinadores têm a função de considerar todas as suas condições e necessidades.</p>
 <br>
 <p><strong>Atenção</strong></p>
 <p>A chave sumirá com o uso. O portão aberto com a chave será fechada após um tempo determinado.</p>
-<p>O efeito da pílula mágica será aplicado apenas uma vez, no primeiro uso. Não é possivel tomar a piíula mais de uma vez.</p>
-<p>Não é possivel convocar os membros do grupo para dentro do Castelo de Orc.</p>
+<p>O efeito da pílula mágica será aplicado apenas uma vez, no primeiro uso. Não é possível tomar a pílula mais de uma vez.</p>
+<p>Não é possível convocar os membros do grupo para dentro do Castelo de Orc.</p>
   </body>
 </html>

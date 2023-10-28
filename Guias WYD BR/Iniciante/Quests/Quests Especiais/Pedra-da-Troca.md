@@ -7,7 +7,7 @@
   </head>
   <body>
 <p><strong>Monstro Comerciante<strong></p>
-<p>O comerciante Premium Neilvende as Pedras da troca Maior e Menor. Dizem que a pedra da troca leva o nome do personagem que a possui. Por isso, são comercializadas por um valor bastante elevado e, como tem grandes poderes, deve ser usada com muito cuidado.</p>
+<p>O comerciante Premium Neil vende as Pedras da troca Maior e Menor. Dizem que a pedra da troca leva o nome do personagem que a possui. Por isso, são comercializadas por um valor bastante elevado e, como tem grandes poderes, deve ser usada com muito cuidado.</p>
 <br>
 <table border="0" cellpadding="0" cellspacing="0"> 
 	<tr>
@@ -18,12 +18,12 @@
 	</tr>		
 	<tr>
 		<td width="200px"><img src="./Quests-Especiais-files/Pedra-da-Troca-files/wyd_img_pedra-da-troca-1.gif"></td>
-		<td><p><strong>1 -</strong> As Pedras da Troca, tanto a Maior quanto a Menor são vendidas pelo comerciante Premium Neil.</p>
+		<td><p><strong>1 -</strong> As Pedras da Troca, tanto a Maior quanto a Menor, são vendidas pelo comerciante Premium Neil.</p>
 		</td>
 	</tr>
 	<tr>
 		<td width="200px"><img src="./Quests-Especiais-files/Pedra-da-Troca-files/wyd_img_pedra-da-troca-2.gif"></td>
-		<td><p><<strong>2 -</strong> Depois de obter cada um dos dois itens, equipe a 'Pedra da Troca Maior' no slot de equipar o Familiar do personagem (cujo nome você deseja trocar), coloque a 'Pedra da Troca Menor' no banco e desconecte do jogo.</p></td>
+		<td><p><<strong>2 -</strong> Após obter cada um dos dois itens, equipe a 'Pedra da Troca Maior' no slot de equipar o Familiar do personagem (cujo nome você deseja trocar), coloque a 'Pedra da Troca Menor' no banco e desconecte do jogo.</p></td>
 	</tr>
 	<tr>
 		<td colspan="2"><p><strong>3 -</strong> 	Após desconectar do jogo, conecte novamente e crie um novo personagem com o nome que deseja usar. Caso você já tenha 4 personagens e não possa mais criar, deverá apagar um dos personagens para poder criar um novo (se você desejar apenas trocar de nome com algum dos personagens já criados anteriormente, não é necessário criar mais um).</p></td>
@@ -37,6 +37,6 @@
 </table>
 <br>
 <p><strong>Atenção<strong></p>
-<p>Os dois personagens que estiverem equipados com as Pedras da Troca irão trocar seus nomes sem prévia confirmação. Portanto tome cuidado.</p>
+<p>Os dois personagens que estiverem equipados com as Pedras da Troca irão trocar seus nomes sem prévia confirmação. Portanto, tome cuidado.</p>
   </body>
 </html>

@@ -10,7 +10,7 @@
 <p><strong>Dois Reinos</strong></p>
 <p>
 á muito tempo, os humanos moravam na mesma vila e seguiam as mesmas regras. Contudo, quando eles aprenderam mais sobre a própria história e as relíquias dos seus ancestrais, descobriram que eles eram referidos como ''Nação da Classe superior''. Eles resolveram também desenvolver as crenças na morte, no Paraíso e nos seres desconhecidos que habitam o submundo, enquanto outros alimentavam sua Fé em Deus. Infelizmente, eles se separaram em dois grupos, os crentes em Deus e os que aspiram em dominar o Céu e a Terra. <br>
-Por causa da diferença de suas crenças, eles separaram suas regras e formaram dois novos sistemas, estabelecendo seus reinos: "Hekalotia" e "Akelonia".                
+Devido à diferença de suas crenças, eles separaram suas regras e formaram dois novos sistemas, estabelecendo seus reinos: "Hekalotia" e "Akelonia".                
 </p>
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" align="left">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true">
@@ -20,7 +20,7 @@ Por causa da diferença de suas crenças, eles separaram suas regras e formaram 
 <p><strong>Como entrar</strong></p>
 <p>
 Os interessados devem ter no mínimo 220 de Level. Uma vez que o jogador chegar ao level determinado e quiser entrar em um reino, o Rei pedirá pagamento. A quantidade de Safira a ser paga depende do número de cavaleiros do Reino.<br><br>
-Para aqueles que ingressaram e já tem uma capa de level 256, ela poderá ser intitulada a um poder maior caso for pago uma quantia de Safira ( Capa de Aprendiz, Capa de Campeões). A quantidade de Safira é determinada, novamente, pelo número de cavaleiros do Reino.
+Para aqueles que ingressaram e já tem uma capa de level 256, ela poderá ser intitulada a um poder maior caso for pago uma quantia de Safira (Capa de Aprendiz, Capa de Campeões). A quantidade de Safira é determinada, novamente, pelo número de cavaleiros do Reino.
 </p>
 
 <p><strong>Como se desligar de um reino</strong></p>

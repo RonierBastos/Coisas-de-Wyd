@@ -64,7 +64,7 @@ A Pedra Replation torna possível refinar armaduras mesmo quando forem de difere
 <li>Você pode alterar a classe de armaduras +3 ou menores (incluindo itens não refináveis). Escudos, armas e acessórios não podem ter a classe alterada.</li>
 <li>Caso a refinação seja bem sucedida, um atributo adicional da classe será adicionado no item randomicamente.</li>
 <li>Quando a refinação falhar, o item será destruído.</li>
-<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas o a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
+<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
 <li>Quando você utiliza a Pedra Replation, você pode adquirir atributos de itens não refináveis.</li>
 
   </body>

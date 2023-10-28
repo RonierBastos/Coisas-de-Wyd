@@ -1,4 +1,4 @@
-## História
+## Grupo
 
 <html>
   <head>
@@ -84,7 +84,7 @@ Os pontos de experiência são divididos de acordo com os pontos de experiência
 						</table>
 </p>
 <p>
-<strong>Obs.:</strong> Ter uma Foema no grupo permitirá que a Foema convoque os membros do grupo para outros locais, exceto em algumas áreas específicas. Para ativar essa skill, clique com o botão direto no jogador que gostaria de convocar. Quando o jogador confirmar a convocação o mesmo irá para o mesmo local que a foema se encontra.
+<strong>Obs.:</strong> Ter uma Foema no grupo permitirá que a Foema convoque os membros do grupo para outros locais, exceto em algumas áreas específicas. Para ativar essa skill, clique com o botão direto no jogador que gostaria de convocar. Quando o jogador confirmar a convocação, o mesmo irá para o mesmo local que a foema se encontra.
 </p>
 
 

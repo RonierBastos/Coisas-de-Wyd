@@ -13,7 +13,7 @@
 <p>
 Com exceção dos itens marcados como ''não refináveis'', todas as armas e armaduras podem ser refinadas através de Poeira Oriharucon e Poeira Lactorerium. Se você refinar seus itens usando o Poeira Oriharucon e Poeira Lactorerium, +(número) e marcado seguindo o nome do item. Quando sua refinação aumenta, o poder de ataque do item, o poder defensivo e a opção adicional são também aumentados em 10% e outra opção de bônus será adicionado se você for hábil para refinar seus equipamentos para o level 9. E também, quanto mais alta a classe das suas armas e armaduras, maior a dificuldade para refiná-las. Os itens de classes baixas têm maior taxa de sucesso. Quando a refinação do item aumenta, a taxa de sucesso de refinação abaixa, resultando no aumento do consumo da poeira.              
 </p>
-<p><strong>Bonus do Refinamento +9</strong></p>
+<p><strong>Bônus do Refinamento +9</strong></p>
 <p>
 Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do tipo de equipamento.      
 </p>
@@ -40,7 +40,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
     <tr>
 		<td>Lanças e Cajados</td>
-		<td>+8% Ataque Mágio</td>
+		<td>+8% Ataque Mágico</td>
 	</tr>
     <tr>
 		<td>Outras armas</td>
@@ -91,16 +91,16 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 <p><strong>Refinação +10</strong></p>
 <p>O sistema é parecido com a formação de item Ancient, para refinar será necessário juntar dois itens +9 e fundir para formar um item +10.</p>
 <p>Com a base das opções dos dois itens +9, a opção do item combinado de +10 é definida.</p>
-<p>Pela mesma forma de um item Ancient, a opção adicional de um item combinado pode variar de acordo com a jóia (pedra/gema) usada, pode-se fabricar um item que ultrapasse as opções do item +9. No caso de um item Ancient, apenas as armas podem ser combinadas, mas no caso de refinamento de um item para o nível +10, podem ser combinados tanto as armas quanto as defesas. Para formar um item combinado para o nível +10 é necessário o uso de um item chamado de ''Pedra do Sábio''.</p>
+<p>Pela mesma forma de um item Ancient, a opção adicional de um item combinado pode variar de acordo com a joia (pedra/gema) usada, pode-se fabricar um item que ultrapasse as opções do item +9. No caso de um item Ancient, apenas as armas podem ser combinadas, mas no caso de refinamento de um item para o nível +10, podem ser combinados tanto as armas quanto as defesas. Para formar um item combinado para o nível +10 é necessário o uso de um item chamado de ''Pedra do Sábio''.</p>
 <br>
 <p><strong>Combinação de itens</strong></p>
-<p>Pode formar um item +10 através da ''Aylin'' da cidade de Azran, é necessário dois itens com mesmo nome no nivel +9 e 50 milhões de gold para a combinação.</p>
+<p>Pode formar um item +10 através da ''Aylin'' da cidade de Azran, é necessário dois itens com mesmo nome no nível +9 e 50 milhões de gold para a combinação.</p>
 
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr>
 		<td rowspan="5" align="center" width="300px">
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
-		<td align="center"><strong>Description</strong></td>
+		<td align="center"><strong>Descrição</strong></td>
 	</tr>
 	<tr>
 		<td>
@@ -124,21 +124,21 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	<tr>
 		<td>
 			<ul>
-				<li>Nome: Jóia</li>
+				<li>Nome: Joia</li>
 				<li>Quantidade: 1~4</li>
 				<li>Uso: Aumenta a taxa de sucesso da refinação.</li>
 				<li>Aumento da taxa de Sucesso:</li>
 			</ul>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 jóia: +4% Sucesso.<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 jóias: +8% Sucesso.<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 jóias: +15% Sucesso.<br>
-			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 jóias: +32% Sucesso.
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1 joia: +4% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2 joias: +8% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3 joias: +15% Sucesso.<br>
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4 joias: +32% Sucesso.
 		</td>
 	</tr>
 	<tr>
 		<td>
 			<ul>
-				<li>Nome: Jóia</li>
+				<li>Nome: Joia</li>
 				<li>Uso: Exibe previamente os atributos que podem ser adicionados no item na combinação de dois itens +9, formando um item +10 com uma das opções aparecidas dentro de 4 quadros</li>
 				<li>Uso: Refinar itens +9 em +10 (um dos ingredientes necessários para refinar o item)</li>
 			</ul>
@@ -174,7 +174,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_3.gif?raw=true"/></td>
 		<td>
 			<ul>
-				<li>1~4 Jóias</li>
+				<li>1~4 Joias</li>
 			</ul>
 		</td>
 	</tr>
@@ -183,10 +183,10 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_4.gif?raw=true"/></td>
 		<td>
 			<ul>
-				<li>1. Manoplas Embutidas+10 50 Def Ad / 30 Atk Ad / Opção da jóia</li>
-				<li>2. Manoplas Embutidas+10 40 Def Ad / 30 Atk Ad / Opção da jóia</li>
-				<li>3. Manoplas Embutidas+10 40 Def Ad / 24 Atk Ad / Opção da jóia</li>
-				<li>4. Manoplas Embutidas+10 50 Def Ad / 24 Atk Ad / Opção da jóia</li>
+				<li>1. Manoplas Embutidas+10 50 Def Ad / 30 Atk Ad / Opção da joia</li>
+				<li>2. Manoplas Embutidas+10 40 Def Ad / 30 Atk Ad / Opção da joia</li>
+				<li>3. Manoplas Embutidas+10 40 Def Ad / 24 Atk Ad / Opção da joia</li>
+				<li>4. Manoplas Embutidas+10 50 Def Ad / 24 Atk Ad / Opção da joia</li>
 			</ul><br>
 			Se tiver sucesso na combinação, será definido aleatoriamente dentro das 4 opções acima.<br>
 			Pode-se verificar a opção do item no caso de sucesso de combinação antes de começar.
@@ -200,8 +200,8 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 		<td>Item necessário para refinar um item para +10.</td>
 	</tr>
 </table>
-<p><strong>Jóias</strong></p>
-<p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de jóia.</p>
+<p><strong>Joias</strong></p>
+<p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de joia.</p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr align="center">
 		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_diamante.gif?raw=true"></td>
@@ -226,11 +226,11 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 	<p><strong>Obs.:</strong></p>
 	<ul>
 		<li>A opção base do item aumenta, mas as opções bônus não são afetadas.</li>
-		<li>Apenas os itens do tipo como Normal, Místico, Arcano, Legendário e Ancient são permitidos para a combinação. No caso de item Ancient, permitido apenas os que foram fabricados pelas mesmas jóias.</li>
-		<li>Para combinar é necessário ter 50milhoes de gold.</li>
-		<li>Em caso de sucesso um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
-		<li>Em caso de sucesso um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
-		<li>Caso haja sucesso na combinação dos itens, você terá um atributo adicional a sua arma baseada na jóia utilizada.</li>
+		<li>Apenas os itens do tipo como Normal, Místico, Arcano, Legendário e Ancient são permitidos para a combinação. No caso de item Ancient, permitido apenas os que foram fabricados pelas mesmas joias.</li>
+		<li>Para combinar é necessário ter 50 milhões de gold.</li>
+		<li>Em caso de sucesso, um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
+		<li>Em caso de sucesso, um item +10 irá aparecer no seu inventário e se houver falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
+		<li>Caso haja sucesso na combinação dos itens, você terá um atributo adicional a sua arma baseada na joia utilizada.</li>
 		<li>Caso haja falha, os 2 itens +9 permanecerão, mas o resto dos ingredientes irão desaparecer.</li>
 		<li>A combinação pode ser feita apenas nas armas Ancient e defesa (Inclusive escudo), mas os acessórios não podem ser combinados. Armas normais padrões não podem ser combinadas.</li>
 	</ul>
@@ -346,7 +346,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 	</tr>
 </table>
 <br>
-<p><strong>Refinamento e iens Lendários</strong></p>
+<p><strong>Refinamento e itens Lendários</strong></p>
 <p>Da mesma maneira dos itens comuns, podemos aumentar a capacidade dos itens lendários através da refinação.<br><br>
 	No caso dos itens comuns, cada vez que o nível de refinação aumentar, o item ficará envolto em uma aura dourada, no caso dos itens lendários é diferente, pois ele brilha mantendo ambos os brilhos escuros e claros com o refinamento.</p>
 <p align="center">
@@ -358,7 +358,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 		<li>Você pode alterar a classe de armaduras +3 ou menores (incluindo itens não refináveis). Escudos, armas e acessórios não podem ter a classe alterada.</li>
 		<li>Caso a refinação seja bem sucedida, um atributo adicional da classe será adicionado no item randomicamente.</li>
 		<li>Quando a refinação falhar, o item será destruído.</li>
-		<li>As Pedras Replation que são vendidas no NPC Lucy não podem ser negociadas, mas o a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
+		<li>As Pedras Replation são vendidas no NPC Lucy não podem ser negociadas, mas a Pedra Replation Classe E que pode ser encontrada no Premium Neil pode ser comercializada.</li>
 		<li>Quando você utiliza a Pedra Replation, você pode adquirir atributos de itens não refináveis.</li>
 	</ul>
 <br>
@@ -375,13 +375,13 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p>7) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
 <p>8) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
 <p>9) Pedra Secreta (Água, Terra, Sol ou Vento) /Refinação abençoada</p>
-<p><strong>Probabilidade de sucesso :</strong></p>
+<p><strong>Probabilidade de sucesso:</strong></p>
 <p>1) Combinação de itens +12: </p>
 <p>No caso de sucesso durante a combinação, o item no Slot será convertido para +12. Em caso de falha, há probabilidades da refinação do item +11 diminuir para +10. (chance de 5%)</p>
 <p>2) Combinação de itens +13: </p>
 <p>No caso de sucesso durante a combinação, o item no Slot será convertido para +13. Em caso de falha, há probabilidades da refinação do item +12 diminuir para +11 ou do item quebrar. (chance de 3%)</p>
 <p>3) Combinação de itens +14: </p>
-<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +14.Em caso de falha, há probabilidades da refinação do item +13 diminuir para +12 ou do item quebrar. (chance de 2%)</p>
+<p>No caso de sucesso durante a combinação, o item no Slot será convertido para +14. Em caso de falha, há probabilidades da refinação do item +13 diminuir para +12 ou do item quebrar. (chance de 2%)</p>
 <p>4) Combinação de itens +15: </p>
 <p>No caso de sucesso durante a combinação, o item no Slot será convertido para +15. Em caso de falha, há probabilidades da refinação do item +13 diminuir para +12 ou do item quebrar. (chance de 1%)</p>
 <p>Itens refinados até +15 permanecerão no Slot. Independente do sucesso ou falha da combinação, no processo, todos os itens dos Slots utilizados na combinação serão excluídos.</p>	
