@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-<p>Para que Azran e Armia finalmente encontrassem a paz, muitos anos se passaram. Isto se deve principalmente ao sangue e a paixão dos muitos guerreiros que sacrificaram as suas vidas para enfrentar as criaturas malignas. Cada vez que respirar, lembre-se de que você não estaria aqui se não fossem por esses bravos homens... Sem o sacrifício dessas valorosas vidas não teríamos conseguido novamente nos estabelecer como uma grande cidade. Você, eu, todos nós finalmente conseguimos reunir forças suficiente não só para nos defendermos, mas também para contra atacar esses monstros que por tanto tempo tiraram a alegria de nossas vidas e o sorriso do rosto de nossos filhos. Agora nós temos que tomar esta importante decisão aqui e neste momento.</p>
+<p>Para que Azran e Armia encontrassem finalmente a paz, muitos anos se passaram. Isto se deve principalmente ao sangue e a paixão dos muitos guerreiros que sacrificaram as suas vidas para enfrentar as criaturas malignas. Cada vez que respirar, lembre-se de que você não estaria aqui se não fossem por esses bravos homens... Sem o sacrifício dessas valorosas vidas não teríamos conseguido novamente nos estabelecer como uma grande cidade. Você, eu, todos nós finalmente conseguimos reunir forças suficiente não só para nos defendermos, mas também para contra-atacar esses monstros que por tanto tempo tiraram a alegria de nossas vidas e o sorriso do rosto de nossos filhos. Agora nós temos que tomar esta importante decisão aqui e neste momento.</p>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>
