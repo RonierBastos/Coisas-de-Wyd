@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ressurreicao-do-Cavaleiro-files/wyd_img_ressureicao-do-cavaleiro-negro-1.jpg?raw=true"/></p>
+<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Hidra-imortal-files/wyd_img_hidra-imortal-1.jpg?raw=true"/></p>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<thead>
@@ -17,7 +17,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ressurreicao-do-Cavaleiro-files/wyd_img_ressureicao-do-cavaleiro-negro-2.jpg?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Hidra-imortal-files/wyd_img_hidra-imortal-2.jpg?raw=true"></td>
 		<td><p class="negrito">Hidra Dourada</p></td>
 	</tr>
 	</tbody>
@@ -31,7 +31,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ressurreicao-do-Cavaleiro-files/wyd_img_ressureicao-do-cavaleiro-negro-3.jpg?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Hidra-imortal-files/wyd_img_hidra-imortal-3.jpg?raw=true"></td>
 		<td><p><strong>Olho Sangrento</p>
 			<p>Após adquirir, clique com o botão direito do mouse para usar.</p>
 			<p>Aumenta 150.000 EXP no ato de uso.</p>
