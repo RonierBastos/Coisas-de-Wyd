@@ -19,19 +19,19 @@
 		<td colspan="2" align="center"><p><strong>Quest Item</strong></p></td>			
 	</tr>		
 	<tr>
-		<td width="150px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-1.gif"></td>
+		<td width="130px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-1.gif"></td>
 		<td><p><strong>Alma de Unicórnio</strong></p> 
 			<p>Um dos pedaços da pedra da imortalidade. Pode ser transformado apenas se estiver junto com a 'Alma do Fenix'.</p>
 		</td>
 	</tr>
 	<tr>
-		<td width="150px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-2.gif"></td>
+		<td width="130px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-2.gif"></td>
 		<td><p><strong>Alma de Fênix</strong></p> 
 			<p>Um dos pedaços da pedra da imortalidade. Pode ser transformado apenas se estiver junto com a 'Alma do Unicórnio'.</p>
 		</td>
 	</tr>
 	<tr>
-		<td width="150px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-3.gif"></td>
+		<td width="130px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-3.gif"></td>
 		<td><p><strong>Pedra da Imortalidade</strong></p> 
 			<p>Pedra da Vida Eterna; e a fusão da alma do Fenix e do Unicórnio. Possuir a pedra da imortalidade significa estar pronto para elevar-se ao estado de semideus, transformando-se em um Arch. Ao equipar a pedra da imortalidade no slot de Orbs e ir ao encontro do rei do seu reino, poderá receber mais uma Quest necessária para ser um Arch.</p>
 		</td>

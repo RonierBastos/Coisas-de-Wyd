@@ -26,11 +26,11 @@ Chat normal não é permitido (Chat de grupo e guilda liberado).</p>
 		<td colspan="2"><p>Aparição do kefra e dos seus Guardas kefra</p></td>
 	</tr>
 	<tr align="center">									
-		<td width="200px"><p><img src="./Quests-Especiais-files/Hall-do-Kefra-files/wyd_img_hall-do-kefra-2.gif"></p>
+		<td width="250px"><p><img src="./Quests-Especiais-files/Hall-do-Kefra-files/wyd_img_hall-do-kefra-2.gif"></p>
 			<p>Kefra</p></td>
 		<td rowspan="2"><p>Ao entrar no Hall do Kefra, você encontrará o Monstro chefe de Kefra e um número absurdo dos seus monstros guarda-costas (Guardas Kefra). É praticamente impossível enfrentá-los sozinho ou em um grupo pequeno. Deve-se formar um GRANDE grupo para poder caçar estes monstros. A força inacabável do Kefra, que está equipado com ataques e defesas inimagináveis e um número incontável de guardas, só dará duas opções: derrotar os monstros cruéis com a força unificada do grupo e receber uma premiação valiosa ou levar o grupo inteiro para o caminho da morte. A decisão está em suas mãos.</p></td>
 	</tr>
-	<tr>
+	<tr align="center">
 		<td><p><img src="./Quests-Especiais-files/Hall-do-Kefra-files/wyd_img_hall-do-kefra-3.gif"></p>
 			<p><strong>Guarda Kefra</strong></p></td>
 	</tr>
