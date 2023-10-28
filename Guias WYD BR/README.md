@@ -55,9 +55,9 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Procura dos rastros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-dos-Rastros.md)
 	- Programa de monstros
 	- Quarto Secreto
-	- Sociedade Wyd
+	- [Sociedade Wyd](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Sociedade-Wyd.md)
 	- [Tempestadde Inacabável](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Tempestade-Inacabavel.md)
-	- Zona elementa da água
+	- Zona elemental da água
 
 
 ## Intermediário

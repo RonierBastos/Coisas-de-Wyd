@@ -25,7 +25,7 @@
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td rowspan="5" width="150px"><img src="./Quests-Especiais-files/Sociedade-Wyd-files/wyd_img_sociedade-wyd-4.gif"></td>			
+		<td rowspan="5" width="180px"><img src="./Quests-Especiais-files/Sociedade-Wyd-files/wyd_img_sociedade-wyd-4.gif"></td>			
 	</tr>
 	<tr>
 		<td colspan="4"><p> Equipa-se no lado oposto da medalha de guilda. Caso tenha equipado, será criada uma criatura que auxilia e protege o usuário. A vida desta criatura é ligada diretamente à do jogador. Cada vez que o jogador morrer, a criatura perderá 1 ponto da vitalidade. A vitalidade padrão é 3, podendo ser aumentado 1 ponto utilizando a Poeira de Oriharucon ou Lactolerium. Tome cuidado, pois quando a vida do Familiar chegar a zero, ele sumirá.</p></td>			
