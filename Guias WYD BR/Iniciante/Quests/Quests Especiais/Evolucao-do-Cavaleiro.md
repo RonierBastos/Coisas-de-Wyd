@@ -49,10 +49,10 @@
 </table>
 <p><strong>Destravar level 355.</strong></p>
 <p>Após alcançar o level 355, 370 você destravar e então você irá receber a capa "Elite dos Aventureiros"</p>
-<p>Você deverá pagar a mesma quantia de Sáfiras para entrar em um Reino novamente.</p>
+<p>Você deverá pagar a mesma quantia de Safiras para entrar em um Reino novamente.</p>
 <p>Ao concluir a QUEST a nova capa irá aparecer +0.</p>
-<p>Refinar a nova capa segue o mesmo procedimento da capa 256. A refinação pode falhar para o +7 porém não irá quebrar.</p>
-<p>Os mesmos atributos da capa inicial serão aplicados a capa " Elite dos Aventureiros". Os mesmos bônus e penalidades serão aplicadas nas Zonas PvP e PK.</p>
+<p>Refinar a nova capa segue o mesmo procedimento da capa 256. A refinação pode falhar para o +7, porém não irá quebrar.</p>
+<p>Os mesmos atributos da capa inicial serão aplicados a capa "Elite dos Aventureiros". Os mesmos bônus e penalidades serão aplicadas nas Zonas PvP e PK.</p>
 <p align="center"><img src="./Quests-Especiais-files/Evolução-do-Cavaleiro-files/wyd_img_evolucao-do-cavaleiro-6.gif"/></p>
 <p><strong>Evolução do Arch 355 destravado</strong></p>
 <p><strong>Evolução do Arch por level</strong></p>

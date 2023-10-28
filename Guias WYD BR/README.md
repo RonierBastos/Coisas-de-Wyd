@@ -42,16 +42,16 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Runas Secretas](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas.md)
   - Quests Especiais:
 	- [Circulo Divino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Circulo-Divino.md)
-	- Cubo da Maldade
-	- Evolução do Cavaleiro
-	- Hall do Kefra
-	- Medalha do Reino
+	- [Cubo da Maldade](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Cubo-da-Maldade.md)
+	- [Evolução do Cavaleiro](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Evolucao-do-Cavaleiro.md)
+	- [Hall do Kefra](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Hall-do-Kefra.md)
+	- [Medalha do Reino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Medalha-do-reino.md)
 	- [Monstro Comerciante](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Monstro-comerciante.md)
 	- Novo Começo
 	- [Pedra da Troca](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Pedra-da-Troca.md)
 	- Pesadelo
 	- Portão Infernal
-	- Procura da Vida Eterna
+	- [Procura da Vida Eterna](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-da-vida-eterna.md)
 	- [Procura dos rastros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-dos-Rastros.md)
 	- Programa de monstros
 	- Quarto Secreto
