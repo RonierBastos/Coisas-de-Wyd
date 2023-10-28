@@ -31,7 +31,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Ben%C3%A7%C3%A3o-de-Deus-files/wyd_img_bencao-de-deus-3.jpg?raw=true"></td>
+		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-3.jpg?raw=true"></td>
 		<td><p><strong>Caixa da Sabedoria</p>
 			<p>Apos adquirir, clique com o botao direito do mouse para usar.</p>
 			<p>Adiciona 7,500 EXP para seu personagem.</p>

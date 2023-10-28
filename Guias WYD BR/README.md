@@ -24,11 +24,11 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 * Quests
   - Quests de UP:
     - [[Level 1 ~ 35] Campo de Treinamento](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Campo-de-Treinamento.md)
-	- [Level 40 ~ 115] Defensor da Alma
-	- [Level 116 ~ 190] Jardim de Deus
-	- [Level 191 ~ 254] Ressurreição do Cavaleiro Negro
-	- [Level 266 ~ 320] Hidra Imortal
-	- [Level 321 ~ 350] Inicio da Infelicidade	
+	- [[Level 40 ~ 115] Defensor da Alma](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Defensor-da-Alma.md)
+	- [[Level 116 ~ 190] Jardim de Deus](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Jardim-de-Deus.md)
+	- [[Level 191 ~ 254] Ressurreição do Cavaleiro Negro](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Ressurreicao-do-Cavaleiro-Negro.md)
+	- [[Level 266 ~ 320] Hidra Imortal](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Hidra-Imortal.md)
+	- [[Level 321 ~ 350] Inicio da Infelicidade](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Inicio-da-Infelicidade.md)
   - Quests complementares:
 	- [Level All] Defendendo a Terra Mística
 	- [[Level 45 ~ All] Conquista do Castelo Orc](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Conquista-do-Castelo-Orc.md)
