@@ -66,7 +66,7 @@
                     <td colspan="2" align="center"><strong>Importante para garantir a vitória na Guerra de Castelos</strong></td>
                 </tr>
                 <tr>
-                    <td width="220px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true"/></td>
+                    <td width="220px"><img src="./castle-war-files/wyd_img_torre_de_thor.gif"/></td>
                     <td>Assim que você destruir a Torre de Thor, você poderá ver o "Altar de Thor" no mesmo local. Caso outro Líder de Guilda tente entrar no Altar, a seguinte mensagem será exibida "Ocupe o altar de Thor". Após permanecer lá por 5 minutos, você receberá a mensagem "Jogador XXX conquistou o Altar de Thor". Isso significa que você obteve sucesso ao tomar o Castelo de Noatun. Após a guerra, o Líder da Guilda vencedora irá receber a Coroa de Átila e o Canhão. Ele receberá também 2 livros Sephira "Conjurar Canhão" que é necessário para utilizar o Canhão.</td>
                 </tr>
             </table>
@@ -130,7 +130,7 @@
         <br>
     <p><strong>Itens da guerra do castelo</strong></p>
     <p>Torre de Thor</p>
-                <p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_torre_de_thor.gif?raw=true" width="150" height="150" align="left">E o objeto principal da Guerra de Castelos. A Torre de Thor simboliza o poder divino que protege o castelo divido a sua defesa natural que ataca todos os jogadores com exceção aos que estão defendendo o castelo.<br>
+                <p><img src="./castle-war-files/wyd_img_torre_de_thor.gif" width="150" height="150" align="left">E o objeto principal da Guerra de Castelos. A Torre de Thor simboliza o poder divino que protege o castelo divido a sua defesa natural que ataca todos os jogadores com exceção aos que estão defendendo o castelo.<br>
                 O Deus Trovão, Thor, e um dos Deuses mais amado e respeitado pela humanidade.<br>
                 Atila, foi uma das pessoas que o reverenciava e como prova da sua devoção, construiu a Torre de Thor no Castelo de Noatun.<br>
                 O Deus Trovão, para mostrar seu agrado e amor por Atila, usa seus Trovoes para todos os que ousam chegar perto da Torre de Thor.<br>
@@ -175,20 +175,20 @@
                         <td colspan="3"><strong>Reino de Hekalotia</strong></td>
                     </tr>
                     <tr align="center">
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_knight.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_archer.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_mage.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_knight.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_archer.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_contrato_mage.gif?raw=true"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_knight.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_archer.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_mage.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_knight.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_archer.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_contrato_mage.gif"/></td>
                     </tr>
                     <tr align="center">
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_nichol.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_izabeth.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_ilena.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_humfrei.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_sabina.gif?raw=true"/></td>
-                        <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos/castle-war-files/wyd_img_merce_naomi.gif?raw=true"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_nichol.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_izabeth.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_ilena.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_humfrei.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_sabina.gif"/></td>
+                        <td><img src="./castle-war-files/wyd_img_merce_naomi.gif"/></td>
                     </tr>
                 </table>
     </body>

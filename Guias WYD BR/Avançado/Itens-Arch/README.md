@@ -16,7 +16,7 @@ Personagens que alcançaram a classe Arch possuem a capacidade de usar itens rar
 A combinação de itens Arch podem ser efetuada em Azran, através do NPC Agatha. Para poder efetuar a transferência dos atributos, é necessário um item Arch +9, um item normal +9 e uma Pedra da Luz.
 </p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Arch/1-files/wyd_img_combinar_armaduras.jpg?raw=true" />
+<img src="./1-files/wyd_img_combinar_armaduras.jpg" />
 </p>
 <p><strong>Atributos</strong></p>
 <p>
@@ -94,7 +94,7 @@ Luvas Embutidas +9 (Classe D) (+10 Defesa, +12 Pontos de aprendizagem)</p>
 No caso de um item +10, aumento de 18% na probabilidade de sucesso. No caso de um item +11, aumento de 26% na probabilidade de sucesso.
 </p>
 
-<p> <img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Arch/1-files/wyd_img_pedra_da_luz.gif?raw=true" width="150" height="150" align="left">
+<p> <img src="./1-files/wyd_img_pedra_da_luz.gif" width="150" height="150" align="left">
 <br /><strong>Pedra da Luz</strong><br /><br />
 Item extremamente importante na combinação dos itens.<br /> São necessárias 4 Pedras da Luz para que o processo possa ser realizado.</p>
 
@@ -117,7 +117,7 @@ Após o fim do processo de combinação, os atributos do item normal serão tran
 	</tr>
 	<tr>
 		<td rowspan="3" align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true" />
+<img src="./1-files/comb-item-celestial.png" />
 </td>
 		<td align="center">SLOT A</td>
 		<td align="center">1</td>

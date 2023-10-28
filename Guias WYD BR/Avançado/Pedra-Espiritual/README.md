@@ -26,7 +26,7 @@ Você poderá utilizar a Pedra Espiritual refinada como um item de combinação 
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Pedra-Espiritual/1-files/wyd_img_pedra_espiritual.jpg?raw=true" />
+<img src="./1-files/wyd_img_pedra_espiritual.jpg" />
 </p>
 
 <p><strong>Observações:</strong></p>

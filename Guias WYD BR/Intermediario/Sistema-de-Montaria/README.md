@@ -22,14 +22,14 @@ Para a montaria de transformar de ovo para cria, será preciso cultivá-lo atrav
 A evolução das crias e feita através de caça dos monstros e a cada momento de evolução aumenta o poder de ataque.<br><br>
 As montarias na fase final do processo (Adulto) precisam de uma essência respectiva de cada animal, e enquanto evoluem aumentam o poder de ataque e o ataque mágico.</p>
 
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_montaria.gif?raw=true"/></p>
+<p align="center"><img src="./1-files/wyd_img_montaria.gif"/></p>
 <br>
 <p>Local para equipar a montaria</p>
 <p>O ovo de montaria ou a própria montaria deve ser equipado na parte superior esquerda da janela de inventário. Todo o efeito ligado a montaria (gasto de ração, caça e efeito ao montar) apenas será aplicado se a montaria estiver equipada corretamente.</p>
 <table cellpadding="0" cellspacing="0">
 	<tbody>
 	<tr>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_equipamento.jpg?raw=true"></td>
+		<td><img src="./1-files/wyd_img_equipamento.jpg"></td>
 		<td><p>Ao montar, o HP da montaria e simbolizado pela barra de cor laranja, junto ao HP do personagem.</p></td>
 	</tr>
 	</tbody>
@@ -386,7 +386,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 <br>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_porco.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_porco.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">1</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -425,7 +425,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_javali.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_javali.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">61</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -464,7 +464,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_lobo.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_lobo.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">81</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -503,7 +503,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_dragao.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_dragao.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">81</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -542,7 +542,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_urso.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_urso.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">101</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -581,7 +581,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_dente_sabre.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_dente_sabre.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">116</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -620,7 +620,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_s_sela_branco.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_s_sela_branco.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">131</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -659,7 +659,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_fantasma_branco.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_fantasma_branco.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">146</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -698,7 +698,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_leve_b.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_leve_b.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">161</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -737,7 +737,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_equipado_b_2.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_equipado_b_2.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">176</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -776,7 +776,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_andaluz.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_andaluz.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">201</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -815,7 +815,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_s_sela_negro.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_s_sela_negro.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">131</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -854,7 +854,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_fantasma_negro.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_fantasma_negro.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">146</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -893,7 +893,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_leve_b_2.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_leve_b_2.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">161</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -932,7 +932,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_cavalo_equipado_b_2.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_cavalo_equipado_b_2.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">176</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -971,7 +971,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_andaluz_b.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_andaluz_b.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">201</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1010,7 +1010,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="5" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_fenrir.gif?raw=true"/></td>
+		<td rowspan="5" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_fenrir.gif"/></td>
 		<td><strong>Vitalidade:</strong></td>
 		<td align="center">15~45</td>
 		<td><strong>Aumento de Dano:</strong></td>
@@ -1043,7 +1043,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_unicornio.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_unicornio.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">220</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1082,7 +1082,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_pegasus.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_pegasus.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">220</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1121,7 +1121,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_unisus.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_unisus.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">220</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1160,7 +1160,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_grifo.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_grifo.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1199,7 +1199,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_hipogrifo.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_hipogrifo.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1238,7 +1238,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_grifo_sangrento.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_grifo_sangrento.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1277,7 +1277,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_tigre_fogo.gif?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_tigre_fogo.gif"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1316,7 +1316,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_dragao.jpg?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_dragao.jpg"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Absorção de Dano</strong></td>
@@ -1349,7 +1349,7 @@ Por exemplo, caso tenha tomado um dano equivalente ao 100, 75 dos 100 ira para o
 </table>
 <table align="center" border="0"> 
 	<tr>
-		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_pantera.jpg?raw=true"/></td>
+		<td rowspan="6" align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_pantera.jpg"/></td>
 		<td cellpadding="10" cellspacing="10"><strong>Level Requerido:</strong></td>
 		<td align="center" cellpadding="10" cellspacing="10">256</td>
 		<td cellpadding="10" cellspacing="10"><strong>Vitalidade</strong></td>
@@ -1394,79 +1394,79 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td align="center"><strong>Custo</strong></td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_porco.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_porco.gif"/></td>
 		<td>Ração de Porco</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>3,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_javali.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_javali.gif"/></td>
 		<td>Ração de Javali</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>6,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_lobo.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_amago_lobo.gif"/></td>
 		<td>Ração de Lobo</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>10,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_lobo.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_dragao_menor.gif"/></td>
 		<td>Ração de Dragão Menor</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>15,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_urso.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_urso.gif"/></td>
 		<td>Ração de Dragão Menor</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>21,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_urso.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_dente_sabre.gif"/></td>
 		<td>Ração de Dente de Sabre</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>28,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_cavalo.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_cavalo.gif"/></td>
 		<td>Ração de Cavalo</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>50,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_fenrir.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_fenrir.gif"/></td>
 		<td>Ração de Fenrir</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>70,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_unicornio.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_unicornio.gif"/></td>
 		<td>Ração de Unicórnio<br>Ração de Pégasus<br>Ração de Unisus</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>85,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_recuperar.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_recuperar.gif"/></td>
 		<td>Ração de Grifo<br>Ração de Hipogrifo<br>Ração de Grifo Sangrento</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>95,000</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_dragao.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_dragao.jpg"/></td>
 		<td>Ração de Dragão Vermelho</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>-</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_pantera.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_pantera.jpg"/></td>
 		<td>Ração de Pantera Negra</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>-</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_racao_tigre_fogo.gif?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/wyd_img_racao_tigre_fogo.gif"/></td>
 		<td>Ração de Tigre de Fogo</td>
 		<td>Vitalidade do Alimento +2</td>
 		<td>150,000</td>
@@ -1483,85 +1483,85 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td><strong>Custo</strong></td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_yus.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_yus.jpg"/></td>
 		<td width="150px">Restaurador Yus</td>
 		<td width="280px">Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td width="280px">Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Unisus, Pegasus e Unicórnios.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_mencar.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_mencar.jpg"/></td>
 		<td>Restaurador Mencar</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Cavalos equipados e Andaluz</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_birago.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_birago.jpg"/></td>
 		<td>Restaurador Birago</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Dragões, Fenrir Selvagens e Fenrir.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_acuban.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_acuban.jpg"/></td>
 		<td>Restaurador Acuban</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, deve ser utilizado em Cavalo fantasma e cavalo leve.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_kapel.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_kapel.jpg"/></td>
 		<td>Restaurador Kapel</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, Dragão menos, Urso Domesticado</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_r_macav.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_r_macav.jpg"/></td>
 		<td>Restaurador Macav</td>
 		<td>Vitalidade poderá ser aumentada até 60 pontos.</td>
 		<td>Item que aumenta a vitalidade de montarias de 1 a 3 aleatoriamente, Grifo, Hipogrifo e Grifo Sangrento</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_retorno.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_retorno.jpg"/></td>
 		<td>Cavalo o retorno</td>
 		<td>Após equipar a montaria e utilizar o item, a montaria irá reviver sem necessidade de ir até o mestre de montaria.</td>
 		<td>Pode ser utilizado apenas em cavalo e inferiores.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_cura.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_cura.jpg"/></td>
 		<td>Curar montaria</td>
 		<td>Após equipar a montaria e utilizar o item, será curado 1 ponto de vitalidade.</td>
 		<td>Pode ser utilizado apenas em cavalo e inferiores.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_yus.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_c_yus.jpg"/></td>
 		<td>Catalisador Yus</td>
 		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
 		<td>Pode ser utilizado em Cavalo Unisus, Pegasus e Unicórnio</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_birago.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_c_birago.jpg"/></td>
 		<td>Catalisador Birago</td>
 		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
 		<td>Pode ser utilizado em Dragão, Fenrir Selvagem e Fenrir</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_mencar.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_c_mencar.jpg"/></td>
 		<td>Catalisador Mencar</td>
 		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
 		<td>Pode ser utilizado em Cavalo Equipado e Andaluz.</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_acuban.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_c_acuban.jpg"/></td>
 		<td>Catalisador Acuban</td>
 		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
 		<td>Pode ser utilizado em Cavalo sem Sela, Cavalo Fantasma e Cavalo Leve</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_macav.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_c_macav.jpg"/></td>
 		<td>Catalisador Macav</td>
 		<td>Evolui as crias de montarias, para utilizar o catalisador basta equipar a montaria.</td>
 		<td>Pode ser utilizado em Grifo, Hipogrifo e Grifo Sangrento</td>
 	</tr>
 	<tr>
-		<td align="center" cellpadding="0" cellspacing="0"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/medicamento_c_macav.jpg?raw=true"/></td>
+		<td align="center" cellpadding="0" cellspacing="0"><img src="./1-files/medicamento_acelerador.jpg"/></td>
 		<td>Acelerador de nascimento</td>
 		<td>O acelerador de nascimento é um item que refina as montarias sem necessidade de esperar pelo tempo estimado de incubação</td>
 		<td>Para que a cria de uma montaria nasça é necessário que siga o valor da incubação critica do ovo referente</td>
@@ -1578,9 +1578,9 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 		<td width="200px"><strong>Nome</strong></td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_porco.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_porco.gif"/></td>
 		<td>Âmago de Porco</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_cavalo.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_cavalo.gif"/></td>
 		<td>Âmago de Cavalo S/Sela N<br>
 			Âmago de Cavalo Fantasma<br>
 			Âmago de Cavalo Leve N<br>
@@ -1588,9 +1588,9 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 			Âmago de Andaluz N</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_javali.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_javali.gif"/></td>
 		<td>Âmago de Javali</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_cavalo_2.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_cavalo_2.gif"/></td>
 		<td>Âmago de Cavalo S/ Sela B<br>
 			Âmago de Cavalo Fantasma B<br>
 			Âmago de Cavalo Leve B<br>
@@ -1598,37 +1598,37 @@ Ao alimentar a montaria antes do valor de alimento chegar a 0, recuperará não 
 			Âmago de Andaluz B</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_lobo.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_lobo.gif"/></td>
 		<td>Âmago de Lobo</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_fenri.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_fenri.gif"/></td>
 		<td>Âmago de Fenrir</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dragao_menor.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_dragao_menor.gif"/></td>
 		<td>Âmago de Dragão Menor</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_unicornio.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_unicornio.gif"/></td>
 		<td>Âmago de Unicórnio<br>
 			Âmago de Pégasus<br>
 			Âmago de Unisus</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_urso.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_urso.gif"/></td>
 		<td>Âmago de Urso</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_grifo.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_grifo.gif"/></td>
 		<td>Âmago de Grifo<br>
 			Âmago de Hipogrifo<br>
 			Âmago de Grifo Sangrento</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dente_sabre.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_dente_sabre.gif"/></td>
 		<td>Âmago de Dente de Sabre</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_tigre_fogo.gif?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_tigre_fogo.gif"/></td>
 		<td>Âmago de Tigre de Fogo</td>
 	</tr>
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_dragao_vermelho.jpg?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_dragao_vermelho.jpg"/></td>
 		<td>Âmago de Dragão vermelho</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/1-files/wyd_img_amago_pantera_negra.jpg?raw=true"/></td>
+		<td align="center"><img src="./1-files/wyd_img_amago_pantera_negra.jpg"/></td>
 		<td>Âmago de Pantera Negra</td>
 	</tr>
   </body>

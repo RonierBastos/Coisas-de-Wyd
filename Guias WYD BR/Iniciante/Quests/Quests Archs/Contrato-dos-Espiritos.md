@@ -8,7 +8,7 @@
   <body>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-1.jpg?raw=true" />
+<img src="./Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-1.jpg" />
 </p><br>
 <p><strong>Item</strong></p>
 <table align="center" border="0"  cellpadding="5" cellspacing="5"> 
@@ -21,28 +21,28 @@
 	</tr>
 	<tr>
     <td>QUEST Fase 1</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-2.gif?raw=true"/></td>
+		<td align="center"><img src="./Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-2.gif"/></td>
 		<td>Cristal Elime</td>
     <td>Fune Sickler</td>
     <td>Aumenta 80 MP ao completar a QUEST.</td>
 	</tr>
   <tr>
     <td>QUEST Fase 2</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-3.gif?raw=true"/></td>
+		<td align="center"><img src="./Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-3.gif"/></td>
 		<td>Cristal Simer</td>
     <td>Funer Sickler</td>
     <td>Aumenta 30 AC ao completar a QUEST.</td>
 	</tr>
   <tr>
     <td>QUEST Fase 3</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-4.gif?raw=true"/></td>
+		<td align="center"><img src="./Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-4.gif"/></td>
 		<td>Cristal Thelion</td>
     <td>Gorila</td>
     <td>Aumenta 80 HP ao completar a QUEST.</td>
 	</tr>
   <tr>
     <td>QUEST Fase 4</td>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-5.gif?raw=true"/></td>
+		<td align="center"><img src="./Contrato-dos-Espiritos-files/wyd_img_contrato-dos-espiritos-5.gif"/></td>
 		<td>Cristal Noas</td>
     <td>Batorero</td>
     <td>Ao completar a QUEST aumentam 60 MP, 60 HP e 30 AC.</td>

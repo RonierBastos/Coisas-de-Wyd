@@ -31,7 +31,7 @@ Quando o registro da Sub ocorrer corretamente, o Sub líder irá receber uma Med
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Guilda/1-files/wyd_img_sistema_de_nominacao.gif?raw=true" />
+<img src="./1-files/wyd_img_sistema_de_nominacao.gif" />
 </p>
 
 <p><strong>Nominação de membros da Guilda</strong></p>
@@ -57,7 +57,7 @@ A Guilda mostrada nas imagens é um exemplo. Caso você digite o comando '/[nome
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Guilda/1-files/wyd_img_guildmark.gif?raw=true" />
+<img src="./1-files/wyd_img_guildmark.gif" />
 </p>
 <p>
 Apenas a conta utilizada na criação da guilda poderá realizar alterações em sua guildmark, caso ocorra uma mudança de líder, com a transferência da medalha de líder para outra conta, não será possível realizar qualquer alteração em sua guildmark utilizando a conta que recebeu a medalha.
@@ -79,11 +79,11 @@ Guildas distintas podem efetuar alianças, assim, proibindo o PvP entre seus mem
 <tr align="center">
 <td colspan="2"><strong>Declaração de Aliança</strong></td>		</tr>
 <tr align="center">
-<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Guilda/1-files/wyd_img_declaracao_de_alianca.gif?raw=true" /></td>
+<td><img src="./1-files/wyd_img_declaracao_de_alianca.gif" /></td>
 <td>A aliança entre as guildas é uma opção possível apenas para o mestre e o chefe de guilda, escolha a opção "Guilda" no menu que aparece ao clicar botão direito no personagem.</td>
 </tr>
 <tr" align="center">
-<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Guilda/1-files/wyd_img_fim_alianca.gif?raw=true" /></td>
+<td><img src="./1-files/wyd_img_fim_alianca.gif" /></td>
 <td>Ao selecionar a opção "Aliança", confirma a aliança com outra guilda.</td>
 </tr >
 </table>

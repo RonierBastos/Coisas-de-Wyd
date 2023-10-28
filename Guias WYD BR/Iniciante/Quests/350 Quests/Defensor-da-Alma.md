@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-1.jpg?raw=true"/></p>
+<p align="center"><img src="./Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-1.jpg"/></p>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<thead>
@@ -17,7 +17,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-2.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-2.jpg"></td>
 		<td><p class="negrito">Aparição</p></td>
 	</tr>
 	</tbody>
@@ -31,7 +31,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-3.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Defensor-da-Alma-files/wyd_img_defensor-da-alma-3.jpg"></td>
 		<td><p><strong>Caixa da Sabedoria</p>
 			<p>Após adquirir, clique com o botão direito do mouse para usar.</p>
 			<p>Adiciona 7,500 EXP para seu personagem.</p>

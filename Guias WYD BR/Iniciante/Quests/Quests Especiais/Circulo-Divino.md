@@ -19,7 +19,7 @@
 </table>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td width="250px"><img src=".//Quests-Especiais-files/Circulo-Divino-files/wyd_img_circulo-divino-3.gif"></td>
+		<td width="180px"><img src="./Quests-Especiais-files/Circulo-Divino-files/wyd_img_circulo-divino-3.gif"></td>
 		<td><p><strong>Pedra do Círculo Divino</strong></p>
 			<p>O Círculo Divino que esteve guardado na cidade de Armia simbolizava a força dos deuses, oferecendo a paz e a fé aos que viviam nessa época. Mas com a invasão dos Dread Taurus e dos Trolls ele foi destruído e seus pedaços foram espalhados pelo mundo. Atualmente o Shaman da cidade de Azran começou a juntar estes pedaços, mas primeiro eles terão de ser purificados das energias impuras dos monstros. Esse procedimento será efetuado pelo Alquimista Jeffi. O pedaço do Círculo Divino purificado mostrara as linhagens de skills que podem ser reinicializadas. Você tera de verificar se e a linhagem de skills que deseja reiniciar. O pedaço do Círculo Divino puro reinicializará até 50 pontos de aprendizagem e o Círculo Divino puro Completo reinicializará até 100 pontos.</p></td>
 	</tr>

@@ -27,7 +27,7 @@ Após equipar o Sephirot, clique na Pedra Ideal, você poderá criar um Sub Cele
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr>
 		<td rowspan="3" align="center" width="400px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true"/></td>
+<img src="./1-files/wyd_img_criar_pedra_misteriosa.jpg"/></td>
 		<td align="center"><strong>Item</strong></td>
 		<td align="center"><strong>Qntd</strong></td>
 		<td align="center"><strong>Observações</strong></td>
@@ -47,7 +47,7 @@ Após equipar o Sephirot, clique na Pedra Ideal, você poderá criar um Sub Cele
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr>
 		<td rowspan="2" align="center" width="200px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sub-Celestial/1-files/wyd_img_pedra_misteriosa.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_pedra_misteriosa.gif"/></td>
 		<td align="center"><strong>[Pedra Misteriosa]</strong></td>
 	</tr>
 	<tr align="center">

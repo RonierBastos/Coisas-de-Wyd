@@ -12,8 +12,8 @@
 á muito tempo, os humanos moravam na mesma vila e seguiam as mesmas regras. Contudo, quando eles aprenderam mais sobre a própria história e as relíquias dos seus ancestrais, descobriram que eles eram referidos como ''Nação da Classe superior''. Eles resolveram também desenvolver as crenças na morte, no Paraíso e nos seres desconhecidos que habitam o submundo, enquanto outros alimentavam sua Fé em Deus. Infelizmente, eles se separaram em dois grupos, os crentes em Deus e os que aspiram em dominar o Céu e a Terra. <br>
 Devido à diferença de suas crenças, eles separaram suas regras e formaram dois novos sistemas, estabelecendo seus reinos: "Hekalotia" e "Akelonia".                
 </p>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_hekalotia.gif?raw=true" align="left">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_reino_akeronia.gif?raw=true">
+<img src="./1-files/wyd_img_reino_hekalotia.gif" align="left">
+<img src="./1-files/wyd_img_reino_akeronia.gif">
 </p><br>
 
 
@@ -28,7 +28,7 @@ Para aqueles que ingressaram e já tem uma capa de level 256, ela poderá ser in
 Quando os jogadores querem sair de seus reinos originais e ingressar em outro, a separação tem que ser paga por 16 pedaços de safiras. O pagamento deve ser feito para o Gerente Real do Reino. Depois que sair de um reino, o jogador será reconhecido com uma capa branca. Os procedimentos para ingressar em outro reino serão exatamente como antes.
 </p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_level_220.gif?raw=true" />
+<img src="./1-files/wyd_img_level_220.gif" />
 </p>
 <br>
 <p><strong>Benefícios de ser de um Reino</strong></p>
@@ -40,10 +40,10 @@ Se você morrer, você perde experiência.
 
 <table align="center" border="0" cellpadding="0" cellspacing="0"> 
 	<tr align="center">
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_akelonia.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_hekalotia.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_shiner.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_manto_guerreiro.gif?raw=true"/></td>
+		<td><img src="./1-files/wyd_img_manto_akelonia.gif"/></td>
+		<td><img src="./1-files/wyd_img_manto_hekalotia.gif"/></td>
+		<td><img src="./1-files/wyd_img_manto_shiner.gif"/></td>
+		<td><img src="./1-files/wyd_img_manto_guerreiro.gif"/></td>
 	</tr>
 	<tr align="center">
 		<td>Manto de Akelonia</td>
@@ -73,10 +73,10 @@ Se você morrer, você perde experiência.
 <br>
 <table align="center" border="0" cellpadding="0" cellspacing="0"> 
 	<tr align="center">
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_elite_akelonia.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_elite_hekalotia.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_mestre_akelonia.gif?raw=true"/></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos/1-files/wyd_img_mestre_hekalotia.gif?raw=true"/></td>
+		<td><img src="./1-files/wyd_img_elite_akelonia.gif"/></td>
+		<td><img src="./1-files/wyd_img_elite_hekalotia.gif"/></td>
+		<td><img src="./1-files/wyd_img_mestre_akelonia.gif"/></td>
+		<td><img src="./1-files/wyd_img_mestre_hekalotia.gif"/></td>
 	</tr>
 	<tr align="center">
 		<td>Elite de Akelonia</td>

@@ -81,17 +81,17 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 <br>
 <p><strong>Runas</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-1.gif?raw=true" />
+<img src="./Runas-Secretas-files/wyd_img_runas-secretas-1.gif" />
 </p>
 <br>
 <p><strong>Pedras secretas</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-2.gif?raw=true" />
+<img src="./Runas-Secretas-files/wyd_img_runas-secretas-2.gif" />
 </p>
 <br>
 <table border="0" cellpadding="0" cellspacing="0">								
   <tr>						
-    <td width="300px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-3.gif?raw=true" /></td>
+    <td width="300px"><img src="./Runas-Secretas-files/wyd_img_runas-secretas-3.gif" /></td>
     <td><p><strong>1 - </strong>Ao clicar no NPC Alquimista Odin no Continente Desconhecido, uma janela para a composição irá abrir, como na imagem ao lado.</p>
     <p><strong>2 - </strong>Se a combinação das 7 Runas for bem sucedida, você irá receber uma das Pedras Secretas e a taxa de sucesso irá depender da sequência das Runas. (A Pedra Secreta é entregue randomicamente). A sequência de Runas é indecifrável.</p></td>
 </tr>								
@@ -104,10 +104,10 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 		<td>
 		<p><strong>1 - </strong>Após pegar as 4 Pedras Secretas, clique no rei do seu reino com um Sephirot equipado e uma Pedra da Imortalidade, uma Pedra Ideal irá aparecer no seu inventário.(Só é possível efetuar esse procedimento por personagens Arch ou Celestial).</p>
 		<p><strong>2 - </strong>Utilize a Pedra Ideal para transformar o Arch em um Celestial. No entanto, o seu personagem Mortal deve ser level 400 e seu Arch lvel 356 ou mais.</p>
-		<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-4.gif?raw=true">
+		<p align="center"><img src="./Runas-Secretas-files/wyd_img_runas-secretas-4.gif">
 		<p align="center">Pedra ideal</p></td>
 		<td width="300px">
-		<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-5.gif?raw=true"></td>
+		<img src="./Runas-Secretas-files/wyd_img_runas-secretas-5.gif"></td>
 	</tr>
 </table><br>
 <br>
@@ -116,15 +116,15 @@ A taxa de sucesso irá depender da sequência das Runas e essa sequência é ind
 <p>Um tipo de Cythera será entregue ao Celestial, de acordo com o level do Arch no momento da criação do Celestial.</p>
 <table>
   <tr>
-    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-6.gif?raw=true"/></td>
+    <td><img src="./Runas-Secretas-files/wyd_img_runas-secretas-6.gif"/></td>
     <td>Cythera Prateada: Arch level 356 ~ 380</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-7.gif?raw=true"/></td>
+    <td><img src="./Runas-Secretas-files/wyd_img_runas-secretas-7.gif"/></td>
     <td>Cythera Dourada: Arch level 381 ~ 399</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas-files/wyd_img_runas-secretas-8.gif?raw=true"/></td>
+    <td><img src="./Runas-Secretas-files/wyd_img_runas-secretas-8.gif"/></td>
     <td>Cythera Mística: Arch level 400</td>
   </tr>
   <tr>

@@ -20,7 +20,7 @@ Use a sequência de teclas Ctrl+Botão direito do mouse para clicar no personage
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Grupo/1-files/wyd_img_como_formar_grupo.jpg?raw=true" />
+<img src="./1-files/wyd_img_como_formar_grupo.jpg"/>
 </p>
 
 <p>
@@ -28,7 +28,7 @@ Quando a janela de Grupo com o nome de outro jogador aparecer na sua tela, simpl
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Grupo/1-files/wyd_img_pedido_de_grupo.jpg?raw=true" />
+<img src="./1-files/wyd_img_pedido_de_grupo.jpg"/>
 </p>
 
 <p>
@@ -36,7 +36,7 @@ O líder do grupo pode expulsar um membro do grupo clicando no nome da personage
 </p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Grupo/1-files/wyd_img_grupo_formado.jpg?raw=true" />
+<img src="./1-files/wyd_img_grupo_formado.jpg"/>
 </p>
 
 <p><strong>Sistema de divisão de experiência</strong></p>
@@ -44,44 +44,41 @@ O líder do grupo pode expulsar um membro do grupo clicando no nome da personage
 <p>
 Os pontos de experiência são divididos de acordo com os pontos de experiência ganhos da morte de cada monstro e será baseado no level do personagem. Quanto maior o level da personagem, maior a experiência ganha e quanto maior o grupo maior a porcentagem de bônus de experiência.
 </p>
-
-
 <p>
-						<table>
-							<table align="center" border="0" cellpadding="10" cellspacing="10">
-<tr style="background-color: #30363d" align="center">
-									<td>Nº de membros</td>
-									<td>Bônus XP</td>
-								</tr>
-								<tr align="center">
-									<td>2</td>
-									<td>180%</td>
-								</tr>
-								<tr style="background-color: #30363d" align="center">
-									<td>3</td>
-									<td>200%</td>
-								</tr >
-								<tr align="center">
-									<td>4</td>
-									<td>220%</td>
-								</tr>
-								<tr style="background-color: #30363d" align="center">
-									<td>5</td>
-									<td>240%</td>
-								</tr>
-								<tr align="center">
-									<td>6</td>
-									<td>260%</td>
-								</tr>
-								<tr style="background-color: #30363d" align="center">
-									<td>7</td>
-									<td>280%</td>
-								</tr>
-								<tr align="center">
-									<td>8 ou mais</td>
-									<td>300%</td>
-								</tr>
-						</table>
+<table align="center" border="0" cellpadding="10" cellspacing="10">
+	<tr style="background-color: #30363d" align="center">
+		<td>Nº de membros</td>
+		<td>Bônus XP</td>
+	</tr>
+	<tr align="center">
+		<td>2</td>
+		<td>180%</td>
+	</tr>
+	<tr style="background-color: #30363d" align="center">
+		<td>3</td>
+		<td>200%</td>
+	</tr >
+	<tr align="center">
+		<td>4</td>
+		<td>220%</td>
+	</tr>
+	<tr style="background-color: #30363d" align="center">
+		<td>5</td>
+		<td>240%</td>
+	</tr>
+	<tr align="center">
+		<td>6</td>
+		<td>260%</td>
+	</tr>
+	<tr style="background-color: #30363d" align="center">
+		<td>7</td>
+		<td>280%</td>
+	</tr>
+	<tr align="center">
+		<td>8 ou mais</td>
+		<td>300%</td>
+	</tr>
+</table>
 </p>
 <p>
 <strong>Obs.:</strong> Ter uma Foema no grupo permitirá que a Foema convoque os membros do grupo para outros locais, exceto em algumas áreas específicas. Para ativar essa skill, clique com o botão direto no jogador que gostaria de convocar. Quando o jogador confirmar a convocação, o mesmo irá para o mesmo local que a foema se encontra.

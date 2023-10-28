@@ -8,7 +8,7 @@
   <body>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_refinacao_item.gif?raw=true"/>
+<img src="./1-files/wyd_img_refinacao_item.gif"/>
 </p>
 <p>
 Com exceção dos itens marcados como ''não refináveis'', todas as armas e armaduras podem ser refinadas através de Poeira Oriharucon e Poeira Lactorerium. Se você refinar seus itens usando o Poeira Oriharucon e Poeira Lactorerium, +(número) e marcado seguindo o nome do item. Quando sua refinação aumenta, o poder de ataque do item, o poder defensivo e a opção adicional são também aumentados em 10% e outra opção de bônus será adicionado se você for hábil para refinar seus equipamentos para o level 9. E também, quanto mais alta a classe das suas armas e armaduras, maior a dificuldade para refiná-las. Os itens de classes baixas têm maior taxa de sucesso. Quando a refinação do item aumenta, a taxa de sucesso de refinação abaixa, resultando no aumento do consumo da poeira.              
@@ -64,25 +64,25 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 	</tr>
 	<tr align="center">
 		<td>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_oriharucon.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_oriharucon.gif"/></td>
 		<td>Resto de Oriharucon</td>
 		<td>Leve 10 Restos de Oriharucon para o alquimista, pague 1 milhão de gold e troque por uma Poeira de Oriharucon.</td>
 	</tr>
 	<tr align="center">
 		<td>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_poeira_oriharucon.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_poeira_oriharucon.gif"/></td>
 		<td>Poeira de Oriharucon</td>
 		<td> Faz um upgrade do item até o nível 6 através do refinamento. Até o nível 2 a chance de sucesso será de 100%, mas a cada level acima, diminuirá a porcentagem de sucesso.</td>
 	</tr>
 	<tr align="center">
 		<td>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_resto_lactolerium.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_resto_lactolerium.gif"/></td>
 		<td>Resto de Lactolerium</td>
 		<td>Leve 10 Restos de Lactolerium para o alquimista, pague 1 milhão de gold e troque por uma Poeira de Lactolerium.</td>
 	</tr>
 	<tr align="center">
 		<td>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_poeira_lactolerium.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_poeira_lactolerium.gif"/></td>
 		<td>Poeira de Latolerium</td>
 		<td>Faz um upgrade do item até o nível 9 através do refinamento. Até o nível 4 a chance de sucesso será de 100%, mas a cada level acima, diminuirá a porcentagem de sucesso.</td>
 	</tr>
@@ -99,7 +99,7 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr>
 		<td rowspan="5" align="center" width="300px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_combinar.jpg?raw=true"/></td>
+<img src="./1-files/wyd_img_combinar.jpg"/></td>
 		<td align="center"><strong>Descrição</strong></td>
 	</tr>
 	<tr>
@@ -152,7 +152,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_1.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_1.gif"/></td>
 		<td>
 			<ul>
 				<li>Manoplas Embutidas+9 50 Def Ad / 30 Atk Ad</li>
@@ -162,7 +162,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_2.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_2.gif"/></td>
 		<td>
 			<ul>
 				<li>Pedra do Sábio</li>
@@ -171,7 +171,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_3.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_3.gif"/></td>
 		<td>
 			<ul>
 				<li>1~4 Joias</li>
@@ -180,7 +180,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 	</tr>
 	<tr>
 		<td align="center" >
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_4.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_4.gif"/></td>
 		<td>
 			<ul>
 				<li>1. Manoplas Embutidas+10 50 Def Ad / 30 Atk Ad / Opção da joia</li>
@@ -196,7 +196,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p><strong>Pedra do Sábio</strong></p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr>
-		<td align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_pedra_sabio.gif?raw=true"></td>
+		<td align="center"><img src="./1-files/wyd_img_pedra_sabio.gif"></td>
 		<td>Item necessário para refinar um item para +10.</td>
 	</tr>
 </table>
@@ -204,10 +204,10 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p>Aumenta a probabilidade de sucesso na combinação. Possível a utilização do mesmo tipo de joia.</p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr align="center">
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_diamante.gif?raw=true"></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_emeralda.gif?raw=true"></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_coral.gif?raw=true"></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_garnet.gif?raw=true"></td>
+		<td><img src="./1-files/wyd_img_diamante.gif"></td>
+		<td><img src="./1-files/wyd_img_emeralda.gif"></td>
+		<td><img src="./1-files/wyd_img_coral.gif"></td>
+		<td><img src="./1-files/wyd_img_garnet.gif"></td>
 	</tr>
 	<tr align="center">
 		<td>[Diamante]</td>
@@ -322,25 +322,25 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <table align="center" border="0" cellpadding="10" cellspacing="10"> 
 	<tr align="center">
 		<td width="100px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_spiner.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_spiner.gif"/></td>
 		<td>Spiner</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Águia, Armadura de Metal.</td>
 	</tr>
 	<tr align="center">
 		<td width="100px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_beril.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_beril.gif"/></td>
 		<td>Beril</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura de Aço, Robe Sombrio, Armadura de Águia, Armadura de Metal, Armadura Dourada, Robe de Concha, Armadura de Osso, Armadura de Combate</td>
 	</tr>
 	<tr align="center">
 		<td width="100px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_tectita.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_tectita.gif"/></td>
 		<td>Tectita</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Ana, Robe Conjurador, Armadura Aeon, Armadura da Natureza.</td>
 	</tr>
 	<tr align="center">
 		<td width="100px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_adamantita.gif?raw=true"/></td>
+<img src="./1-files/wyd_img_adamantita.gif"/></td>
 		<td>Adamantita</td>
 		<td>Usado para transformar os seguintes itens em itens lendários: Armadura Embutida, Robe de Mythril, Armadura Elemental, Armadura de Teia.</td>
 	</tr>
@@ -350,7 +350,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p>Da mesma maneira dos itens comuns, podemos aumentar a capacidade dos itens lendários através da refinação.<br><br>
 	No caso dos itens comuns, cada vez que o nível de refinação aumentar, o item ficará envolto em uma aura dourada, no caso dos itens lendários é diferente, pois ele brilha mantendo ambos os brilhos escuros e claros com o refinamento.</p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_exemplo_itens.gif?raw=true"/>
+<img src="./1-files/wyd_img_exemplo_itens.gif"/>
 </p>
 <p><strong>Obs.:</strong><p>
 	<ul>
@@ -365,7 +365,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p><strong>Refinações de +12 a +15</strong><p>
 <p>A combinação para a refinação deve ser realizada no NPC de Combinação: Alquimista Odin (X: 3237 Y: 1691)</p>
 <p><strong>Slots:</strong></p>
-<p><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao/1-files/wyd_img_slots.jpg?raw=true"/></p>
+<p><img src="./1-files/wyd_img_slots.jpg"/></p>
 <p>1) Lactolerium/Pingente</p>
 <p>2) Lactolerium/Pingente</p>
 <p>3) Lactolerium/Pingente</p>

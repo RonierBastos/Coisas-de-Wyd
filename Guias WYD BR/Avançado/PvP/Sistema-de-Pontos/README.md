@@ -130,19 +130,19 @@ A Declaração de Guerra foi criada para controlar a Guerra entre duas Guildas d
 <table align="center" width="800">
 	<tr>
 		<td align="center" width="200">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Sistema-de-Pontos/sistema-de-pontos-files/wyd_img_declaracao_1.gif?raw=true" />
+<img src="./sistema-de-pontos-files/wyd_img_declaracao_1.gif" />
 </td>
 		<td>1 - Somente o Líder da guilda pode declarar Guerra a outras Guildas. Clique com o botão direito do mouse no Líder ou em um membro da Guilda que deseja declarar guerra e selecione Guilda no menu.</td>
 	</tr>
 	<tr>
 		<td align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Sistema-de-Pontos/sistema-de-pontos-files/wyd_img_declaracao_2.gif?raw=true" />
+<img src="./sistema-de-pontos-files/wyd_img_declaracao_2.gif" />
 		</td>
 		<td>2 - Selecione "Declarar Guerra" no menu.</td>
 	</tr>
 	<tr>
 		<td align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Sistema-de-Pontos/sistema-de-pontos-files/wyd_img_declaracao_3.gif?raw=true" />
+<img src="./sistema-de-pontos-files/wyd_img_declaracao_3.gif" />
 		</td>
 		<td>3 - Caso escolha "Confirmar" significa que você declarou guerra a outra Guilda. Será enviada uma mensagem no jogo informando "Guilda XXX declarou Guerra a XXX".</td>
 	</tr>

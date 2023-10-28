@@ -14,11 +14,11 @@
 <br>
 <table border="0" cellpadding="0" cellspacing="0">	
 	<tr>						
-		<td width="200px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-1.gif?raw=true"></td>
+		<td width="200px"><img src="./Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-1.gif"></td>
 		<td><p>Não basta apenas ter vontade, você tem que ter conhecimento, saber como usar as suas armas, sejam elas quais forem. Recomendo que vá ao campo de treino antes mesmo de testar a sua coragem. O lugar foi construído principalmente para treinar os futuros guerreiros e exploradores que enfrentarão as criaturas. Para você, que não sabe absolutamente nada sobre a situação deste lugar, será como uma estrela brilhante que ilumina seu caminho numa noite envolta em trevas.</p></td>
 	</tr>
 	<tr class="tabela_linha2">
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-2.gif?raw=true"></td>
+		<td><img src="./Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-2.gif"></td>
 		<td><p>Para aqueles que derrotarem o 'Guerreiro Orc' no campo de treino, nos reconheceremos seu espirito de guerreiro fornecendo itens e equipamentos valiosos e necessários na sua jornada. As criaturas que você deve encontrar pelo caminho do campo de treino são aqueles que capturamos. O campo é dividido num total de 4 áreas e para cada área existe um monstro chefe de nível cada vez mais alto. Em cada área subsequente o ataque e o terror que as criaturas exalam será maior.</p></td>
 	</tr>
 	</tbody>
@@ -47,7 +47,7 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td><p>Dentre todos os sofrimentos que tera pela frente neste mundo, chegou a hora de conhecer o seu primeiro. Tu és um covarde que foge dos sofrimentos que batem de frente aos teus olhos? Ou um bravo guerreiro que vence todas as adversidades e momentos críticos através do seu espirito de guerreiro?</p></td>
-		<td width="100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-3.gif?raw=true"></td>
+		<td width="100px"><img src="./Quests-files/Campo-de-treinamento-files/wyd_img_campo-de-treinamento-3.gif"></td>
 	</tr>
 </table>
 <br>

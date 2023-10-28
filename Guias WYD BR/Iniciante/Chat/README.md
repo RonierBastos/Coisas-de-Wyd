@@ -12,19 +12,19 @@
 <table align="center" border="0" cellpadding="10" cellspacing="10">
 <tr>
 <td align="center"><p>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/wyd_img_btn_enter.gif?raw=true"/>
+<img src="./1_files/wyd_img_btn_enter.gif"/>
 </p></td>
 <td>Entrada de Bate-Papo</td>
 </tr>
 <tr>
 <td align="center"><p>
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/wyd_img_btn_tamanho.gif?raw=true"/>
+<img src="./1_files/wyd_img_btn_tamanho.gif"/>
 </p></td>
 <td>Controle de tamanho da janela de bate-papo.</td>
 </tr >
 <tr>
 <td style="text-align: center; vertical-align:middle !important">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/wyd_img_btn_shift.gif?raw=true"/> + Botão direito do Mouse
+<img src="./1_files/wyd_img_btn_shift.gif"/> + Botão direito do Mouse
 </td>
 <td>Exibir últimos contatos</td>
 </tr>
@@ -42,32 +42,32 @@ A mensagem de uma conversa normal pode ser vista apenas para quem estiver ao seu
 </tr>
 <tr>
 	<td  align="center">Enter [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/branco.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/branco.png"/></td>
 	<td>Mensagem comum aberta a todos que estiverem ao redor de você.</td>
 </tr>
 <tr style="background-color: #30363d">
 	<td align="center">/[Nome do Personagem] [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/amarelo.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/amarelo.png"/></td>
 	<td>Mandar Mensagem Privada.</td>
 </tr>
 <tr>
 	<td align="center">/r [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/amarelo.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/amarelo.png"/></td>
 	<td>Responder para pessoa quem mandou a mensagem privada.</td>
 </tr>
 <tr style="background-color: #30363d">
 	<td align="center">= [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/rosa.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/rosa.png"/></td>
 	<td>Mandar mensagem para membros do grupo.</td>
 </tr>
 <tr>
 	<td align="center">- [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-claro.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/azul-claro.png"/></td>
 	<td>Chat de mapa, chat onde todos os jogadores que estiverem no mapa poderão ver a sua mensagem. (Caso não esteja em uma guilda, jogadores que não possuírem guilda poderão ver a mensagem)</td>
 </tr>
 <tr style="background-color: #30363d">
 	<td align="center">-- [Conversa]</td>
-	<td  align="center" style="width:100px"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Chat/1_files/azul-escuro.png?raw=true"/></td>
+	<td  align="center" style="width:100px"><img src="./1_files/azul-escuro.png"/></td>
 	<td>Chat somente para Membros de Guilda. (Caso não esteja em uma guilda, jogadores que não possuírem guilda poderão ver a mensagem)</td>
 </tr>
 </table>

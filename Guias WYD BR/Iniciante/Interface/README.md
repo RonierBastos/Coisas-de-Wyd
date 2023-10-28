@@ -11,7 +11,7 @@
 
 <p align="center">Interface do jogo</p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Interface/interface-files/wyd_img_interface.jpg?raw=true" />
+<img src="./interface-files/wyd_img_interface.jpg" />
 </p>
 
 
@@ -60,13 +60,13 @@
 <br>
 <p><strong>Teclas de Atalho</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Interface/interface-files/wyd_img_teclas_atalho_1.jpg?raw=true"/>
+<img src="./interface-files/wyd_img_teclas_atalho_1.jpg"/>
 </p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Interface/interface-files/wyd_img_teclas_atalho_2.jpg?raw=true"/>
+<img src="./interface-files/wyd_img_teclas_atalho_2.jpg"/>
 </p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Interface/interface-files/wyd_img_teclas_atalho_3.jpg?raw=true"/>
+<img src="./interface-files/wyd_img_teclas_atalho_3.jpg"/>
 </p>
 		
   </body>

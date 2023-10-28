@@ -7,7 +7,7 @@
   </head>
   <body>
 <p><strong>Inicio dos Tempos</strong></p>
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-1.jpg?raw=true"/></p>
+<p align="center"><img src="./Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-1.jpg"/></p>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<thead>
@@ -17,7 +17,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-2.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-2.jpg"></td>
 		<td><p class="negrito">Rei Cavaleiro Mortal</p></td>
 	</tr>
 	</tbody>
@@ -31,7 +31,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-3.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Cavaleiro-do-Reino-files/wyd_img_cavaleiro-do-reino-3.jpg"></td>
 		<td><p><strong>Emblema do Reino</strong></p>
 			<p>Ao equipar no slot de Familiar e ir de encontro com o rei do reino ao qual pertence, receberão Manto Estampado (Manto Fase 1).</p>
 			<p>Não permitido trocar, mover, dropar ou vender.</p>

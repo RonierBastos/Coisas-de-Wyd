@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-1.jpg?raw=true"/></p>
+<p align="center"><img src="./Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-1.jpg"/></p>
 
 <table border="0" cellpadding="0" cellspacing="0">
 	<thead>
@@ -17,7 +17,7 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-2.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-2.jpg"></td>
 		<td><p class="negrito">Iniun Troll Chief</p></td>
 	</tr>
 	</tbody>
@@ -31,14 +31,14 @@
 	</thead>
 	<tbody>		
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-3.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-3.jpg"></td>
 		<td><p><strong>Pedaço do Equilíbrio</p>
 			<p>Ao entregar para a sacerdotisa Amélia, ela o transformará em 'Composto de Equilíbrio'.</p>
 			<p>Não permitido para mover, trocar, dropar e vender.</p>
 			<p>Level Requerido: 120 ~ 125.</p></td>
 	</tr>
 	<tr>						
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-4.jpg?raw=true"></td>
+		<td><img src="./Quests-files/Equilibrio-da-Forca-files/wyd_img_equilibrio-da-forca-4.jpg"></td>
 		<td><p><strong>Composto de Equilíbrio</p>
 			<p>Utilização clicando o botão direito do mouse.</p>
 			<p>Ao usar reinicia os pontos de skill e de aprendizagem em 100 pontos.</p>

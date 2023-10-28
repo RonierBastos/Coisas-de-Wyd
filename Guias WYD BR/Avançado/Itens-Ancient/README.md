@@ -30,7 +30,7 @@ Se a combinação falhar, todos os itens irão desaparecer. Esse procedimento po
 	</tr>
 	<tr>
 		<td rowspan="3" align="center" width="400px">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_combinacao_de_itens.jpg?raw=true"/></td>
+<img src="./1-files/wyd_img_combinacao_de_itens.jpg"/></td>
 		<td align="center">Arma para combinar</td>
 		<td align="center">1</td>
 		<td>Apenas armas +9 podem ser utilizadas.</td>
@@ -64,17 +64,17 @@ Após a combinação, a arma Ancient irá possuir a refinação de +7. O item ma
 <table = align="center" width="650px">
 	<tr align="center">
 		<td><strong>Item</strong></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_item_01.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_item_02.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_item_03.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_item_04.gif?raw=true" /></td>
+		<td><img src="./1-files/wyd_img_item_01.gif" /></td>
+		<td><img src="./1-files/wyd_img_item_02.gif" /></td>
+		<td><img src="./1-files/wyd_img_item_03.gif" /></td>
+		<td><img src="./1-files/wyd_img_item_04.gif" /></td>
 	</tr>
 	<tr align="center">
 		<td><strong>Joia</strong></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_joia_diamante.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_joia_esmeralda.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_joia_coral.gif?raw=true" /></td>
-		<td><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient/1-files/wyd_img_joia_garnet.gif?raw=true" /></td>
+		<td><img src="./1-files/wyd_img_joia_diamante.gif" /></td>
+		<td><img src="./1-files/wyd_img_joia_esmeralda.gif" /></td>
+		<td><img src="./1-files/wyd_img_joia_coral.gif" /></td>
+		<td><img src="./1-files/wyd_img_joia_garnet.gif" /></td>
 	</tr>
 	<tr align="center">
 		<td><strong>Atributo</strong></td>

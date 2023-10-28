@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p align="center"><img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/files/Arch-files/arch.jpg?raw=true"/></p>
+<p align="center"><img src="./files/Arch-files/arch.jpg"/></p>
 
 <p><strong>Características Especiais da Classe Arch</strong></p>
 <p>Para se tornar um Personagem de classe Arch você deve terminar antes duas quests: A procura da vida eterna e Um novo começo. A aparência de um personagem Arch se assemelha com o da sua classe inicial e você poderá ainda escolher uma das quatro classes Arch existentes.</p>

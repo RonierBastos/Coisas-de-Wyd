@@ -10,7 +10,7 @@
 <p><strong>Início dos Tempos</strong></p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Historia/1-files/wyd_img_inicio_dos_tempos_wyd.gif?raw=true" />
+<img src="./1-files/wyd_img_inicio_dos_tempos_wyd.gif" />
 </p>
 
 <p>
@@ -25,7 +25,7 @@ E Tzfah passou a odiar a humanidade, pois eles haviam conquistado algo que nunca
 <p><strong>Criação dos Deuses</strong></p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Historia/1-files/wyd_img_criacao_dos_deuses_wyd.gif?raw=true" />
+<img src="./1-files/wyd_img_criacao_dos_deuses_wyd.gif" />
 </p>
 
 <p>
@@ -40,7 +40,7 @@ Os deuses, que compartilhavam o amor de sua mãe pelos humanos, se compadeceram 
 <p><strong>A Batalha Celestial</strong></p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Historia/1-files/wyd_img_batalha_celestial_wyd.gif?raw=true" />
+<img src="./1-files/wyd_img_batalha_celestial_wyd.gif" />
 </p>    
 
 <p>
@@ -57,7 +57,7 @@ Quando Tzfah foi arremessado a Terra, numa atitude desesperada ele quebrou a pon
 <p><strong>A Guerra Continental</strong></p>
 
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Historia/1-files/wyd_img_guerra_continental_wyd.gif?raw=true" />
+<img src="./1-files/wyd_img_guerra_continental_wyd.gif" />
 </p> 
 
 <p>
@@ -74,7 +74,7 @@ Mas ele não contava que o poder que se desprendeu da ponte, por sua vez, influe
 <br>
 <p><strong>Nos Dias de Hoje</strong></p>
 <p align="center">
-<img src="https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Historia/1-files/nos_dias_de_hoje_wyd.gif" />
+<img src="./1-files/nos_dias_de_hoje_wyd.gif" />
 </p> 
 
 <p>
