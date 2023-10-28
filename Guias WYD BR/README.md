@@ -10,17 +10,18 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 
 ## Iniciantes
 
-* C.C.-Mode
-* Chat
-* Cidadania
-* Controles Básicos
-* Grupo
-* Guilda
-* Interface
-* Skills
+* [C.C.-Mode](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/C.C.-Mode)
+* [Chat](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Chat)
+* [Cidadania](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Cidadania)
+* [Controles Básicos](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Controles-Basicos)
+* [Grupo](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Grupo)
+* [Guilda](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Guilda)
+* [História](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Historia)
+* [Interface](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Interface)
+* [Skills](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Iniciante/Skills)
 * Quests
   - Quests de UP:
-    - [Level 1 ~ 35] Campo de Treinamento
+    - [[Level 1 ~ 35] Campo de Treinamento](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Campo-de-Treinamento.md)
 	- [Level 40 ~ 115] Defensor da Alma
 	- [Level 116 ~ 190] Jardim de Deus
 	- [Level 191 ~ 254] Ressurreição do Cavaleiro Negro
@@ -28,15 +29,15 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Level 321 ~ 350] Inicio da Infelicidade	
   - Quests complementares:
 	- [Level All] Defendendo a Terra Mística
-	- [Level 45 ~ All] Conquista do Castelo Orc
-	- [Level 70 ~ 75] Benção de Deus
+	- [[Level 45 ~ All] Conquista do Castelo Orc](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Conquista-do-Castelo-Orc.md)
+	- [[Level 70 ~ 75] Benção de Deus](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Bencao-de-Deus.md)
 	- [Level 101 ~ 150] Formatura de Cavaleiros
 	- [Level 120 ~ 125] Equilíbrio da Força
 	- [Level 201 ~ 255] Molar da Gárgula
-	- [Level 221 ~ 250] Cavaleiro do Reino
+	- [[Level 221 ~ 250] Cavaleiro do Reino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/350%20Quests/Cavaleiro-do-Reino.md)
   - Quests Arch:
-	- Contrato dos Espíritos
-	- Runas Secretas
+	- [Contrato dos Espíritos](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Contrato-dos-Espiritos.md)
+	- [Runas Secretas](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Archs/Runas-Secretas.md)
   - Quests Especiais:
 	- Circulo Divino
 	- Cubo da Maldade
@@ -66,24 +67,24 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- Huntress
 	- TransKnight	
   - Evoluções:
-	- Arch
-	- Celestial
-	- Sub-Celestial
-* Sistema de Montaria
-* Sistema de Pinturas
-* Sistema de Refinação
-* Sistema de Reinos
-* Sistema de Replation
+	- [Arch](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Arch.md)
+	- [Celestial](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Celestial.md)
+	- [Sub-Celestial](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sub-Celestial/README.md)
+* [Sistema de Montaria](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Montaria/README.md)
+* [Sistema de Pinturas](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Pintura/README.md)
+* [Sistema de Refinação](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Refinacao)
+* [Sistema de Reinos](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Reinos)
+* [Sistema de Replation](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Sistema-de-Replation/README.md)
 
 
 ## Avançado
 
-* Itens Ancient
-* Itens Arch
-* Pedra Espiritual
+* [Itens Ancient](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Ancient)
+* [Itens Arch](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Avan%C3%A7ado/Itens-Arch)
+* [Pedra Espiritual](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Avan%C3%A7ado/Pedra-Espiritual)
 * PvP
-	- Sistema de pontos
-	- Guerra de Castelo
+	- [Sistema de pontos](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Sistema-de-Pontos)
+	- [Guerra de Castelos](https://github.com/RonierBastos/Coisas-de-Wyd/tree/master/Guias%20WYD%20BR/Avan%C3%A7ado/PvP/Guerra-de-Castelos)
 
 
 ## Contribua
