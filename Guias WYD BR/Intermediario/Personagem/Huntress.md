@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p align="center"><img src="./files/Huntres-files/chimg4.gif"/></p>
+<p align="center"><img src="./files/Huntress-files/chimg4.gif"/></p>
 
 <p><strong>Evolução do Personagem</strong></p>
 <table border="0" align="center">
@@ -73,7 +73,7 @@
 		<td><p>Descrição</p></td>
 	</tr>
 	<tr>
-		<td align="center"><p><img src="./files/"></p></td>
+		<td align="center"><p><img src="./files/Huntress-files/1_1.gif"></p></td>
 		<td align="center"><p>Ataque Fatal</p></td>
 		<td align="center"><p>1 / 21 / 0</p></td>
 		<td align="center"><p>6</p></td>
@@ -89,7 +89,7 @@
 		<td><p>Cria uma ilusão do personagem enquanto ele locomove a outro ponto</p></td>
 	</tr>
 	<tr>
-		<td align="center"><p><img src="./files/Huntress-files/1_3.gif1"></p></td>
+		<td align="center"><p><img src="./files/Huntress-files/1_3.gif"></p></td>
 		<td align="center"><p>Agressividade</p></td>
 		<td align="center"><p>35 / 66 / 0</p></td>
 		<td align="center"><p>6</p></td>
