@@ -52,7 +52,7 @@
 		<td align="center"><p>As almas deverão estar em forma para poder fundir.Ex.: Possível de Fusão</p></td>			
 	</tr>	
 	<tr>
-		<td width="350px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-4.gif"></td>
+		<td width="600px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-4.gif"></td>
 	</tr>
 </table>
   </body>
