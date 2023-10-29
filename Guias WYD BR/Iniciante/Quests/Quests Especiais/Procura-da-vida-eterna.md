@@ -44,7 +44,7 @@
 <p>2 - Caçando Lich Vatama, Lich Crunt e Rei Demonlord poderá obter a alma do Fenix e caçando o LugeferBroken poderá obter a alma do Unicórnio.</p>
 <p>3 - Caso tenha obtido ambas as almas, de fênix e unicórnio, leve-as consigo dentro do inventário junto com 10 sáfiras e procure o Oráculo do seu reino.</p>
 <p>4 - Poderá fundir em Pedra da Imortalidade clicando no Oráculo.</p>
-<table border="0" cellpadding="0" cellspacing="0"> 
+<table border="0" cellpadding="0" cellspacing="0" align="center"> 
 	<tr>
 		<td align="center"><p><strong>Atenção</strong></p></td>			
 	</tr>	
@@ -52,7 +52,7 @@
 		<td align="center"><p>As almas deverão estar em forma para poder fundir.Ex.: Possível de Fusão</p></td>			
 	</tr>	
 	<tr>
-		<td width="600px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-4.gif"></td>
+		<td align="center" width="600px"><img src="./Quests-Especiais-files/Procura-da-Vida-Eterna-files/wyd_img_procura-da-vida-eterna-4.gif"></td>
 	</tr>
 </table>
   </body>
