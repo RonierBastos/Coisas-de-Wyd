@@ -7,14 +7,14 @@
   </head>
   <body>
 
-<p>Passado quase um mês e tendo os mesmos sonhos, os oráculos, aterrorizados, se reuniram com os reis para discutir sobre o assunto. Durante a angustia para desvendar o tal sonho, os oráculos tiveram um enorme susto, ao ver que as pedras de Sephira, encontradas por acaso pelos mestres de skill de Armia, se tratavam de uma das coisas que tinham visto nos sonhos. Tiveram o conhecimento de que as luzes que saiam dos mortos no sonho eram as pedras Sephira, que eram a base para formar o Sephirot, e que a escuridão eram as almas que são utilizadas para formar a pedra da imortalidade. Através do Sephirot e da Pedra da Espiritualidade, os humanos poderão marcar a história com o começo de uma nova era.></p>
+<p>Passado quase um mês e tendo os mesmos sonhos, os oráculos, aterrorizados, se reuniram com os reis para discutir sobre o assunto. Durante a angústia para desvendar o tal sonho, os oráculos tiveram um enorme susto, ao ver que as pedras de Sephira, encontradas por acaso pelos mestres de skill de Armia, se tratavam de uma das coisas que tinham visto nos sonhos. Tiveram o conhecimento de que as luzes que saiam dos mortos no sonho eram as pedras Sephira, que eram a base para formar o Sephirot, e que a escuridão era as almas utilizadas para formar a pedra da imortalidade. Através do Sephirot e da Pedra da Espiritualidade, os humanos poderão marcar a história com o começo de uma nova era.></p>
 <br>
 <table border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td colspan="2" align="center"><p><strong>Pedra Sephírica</strong></p></td>
 	</tr>
 	<tr>						
-		<td width="100px"><img src="./Quests-Especiais-files/Novo-Comeco-files/wyd_img_novo-comeco-1.gif"></td>
+		<td width="120px"><img src="./Quests-Especiais-files/Novo-Comeco-files/wyd_img_novo-comeco-1.gif"></td>
 		<td><p><strong>Tipos de Pedras</strong></p>
 			<p>"Pedra do Lorde Orc, Pedra do Guerreiro Esqueleto, Pedra do Dragao Lich",</p>
 			<p>"Pedra do DemonLord, Pedra da Manticora, Pedra do Gargula de Fogo",</p>
@@ -71,7 +71,7 @@
 		<td colspan="2" align="center"><strong>Sephirot</strong></td>
 	</tr>
 	<tr>
-		<td width="150px"><img src="./Quests-Especiais-files/Novo-Comeco-files/wyd_img_novo-comeco-10.gif"></td>
+		<td width="120px"><img src="./Quests-Especiais-files/Novo-Comeco-files/wyd_img_novo-comeco-10.gif"></td>
 		<td><p>Trata-se de um item feito através da fusão dos atributos, um item que define a linhagem de Arch. Exibe a linhagem da classe.</p></td>
 	</tr>
 	<tr>
@@ -112,7 +112,7 @@
 		<td width="100"><strong>DemonLord</strong></td>
 		<td width="100"><strong>Mantícora</strong></td>
 		<td width="100"><strong>Gárgula de Fogo</strong></td>
-		<td width="100"><strong>Lugefer Broken</strong></td><td>
+		<td width="100"><strong>Lugefer Broken</strong></td>
 		<td width="100"><strong>Rei DemonLord</strong></td>
 	</tr>
 	<tr>
@@ -206,17 +206,17 @@
 </table>
 
 <p><strong>Ingredientes para fusão</strong></p>
-<p>Custo necessário para fundir os atributos pelo mestre de skil: 30.000.000 Gold.</p>
+<p>Custo necessário para fundir os atributos pelo mestre de skill: 30.000.000 Gold.</p>
 <p><strong>Forma de procedimento</strong></p>
-<p><strong>1 - </strong>Confirmar a Quest indo de encontro ao rei do seu reino após equipar a pedra da Vida Eterna.</p>
+<p><strong>1 - </strong>Confirmar a Quest indo ao encontro ao rei do seu reino após equipar a pedra da Vida Eterna.</p>
 <p><strong>2 - </strong>Obter a "Pedra Sephírica (ex. Pedra do Frenzy Demonlord)" através da caça..</p>
 <p><strong>3 - </strong>Ao refinar a 'Pedra Sephírica' através da Poeira Oriharucon obterá o 'Atributo da Sephira (ex. Marchut)'.</p>
 <p><strong>4 - </strong>Através das pedras, juntar os 8 tipos de 'Atributos de Sephira'.</p>
 <p><strong>5 - </strong>Para escolher a linhagem após a transformação em Arch, converse com o mestre de skill da linhagem desejada e ele transformará os atributos mais a taxa (30.000.000gold) em uma 'Sephirot'.</p>
 <p><strong>6 - </strong>Equipar a "Pedra da Imortalidade (Pedra da Vida Eterna)" e a "Sephirot" nos slots de Orb e clique no Rei do seu reino.</p>
-<p><strong>7 - </strong>Após clicar no botão 'confirmar' na janela de mensagem, passará automaticamente pra uma janela de seleção e na janela de escolha de personagem estará o Personagem Arch.</p>
+<p><strong>7 - </strong>Após clicar no botão 'confirmar' na janela de mensagem, passará automaticamente para uma janela de seleção e na janela de escolha de personagem estará o Personagem Arch.</p>
 <p><strong>Obs.</strong></p>
-<p>Caso não equipe a Pedra da Imortalidade no slot de Orbt, o Rei irá avisar para que os Cavaleiros fiquem em guarda.</p>
+<p>Caso não equipe a Pedra da Imortalidade no slot de Orb, o Rei irá avisar para que os Cavaleiros fiquem em guarda.</p>
 <p>Certifique-se de que você possui um espaço vazio no menu de seleção de Personagem antes de falar com o Rei.</p>
 <p>Para definir a linhagem de arch no ato de fusão de Sephirot, caso queira Arch da linhagem de Transknight, deve fundir pelo Cap. Cavaleiros, e caso queira um Arch na linhagem de Beastmaster deverá conversar com o Mestre Archi, e assim por diante.</p>
 <p>Slot onde o Sephirot deve ser equipado.</p>

@@ -168,7 +168,7 @@
 		<td><p><strong>Terceira Sala: </strong>eliminação dos esqueletos -&gt; Caso o Monstro chefe seja o verdadeiro, será mostrada a mensagem 'Eliminou o Lich'.</p></td>
 	</tr>
 	<tr>
-		<td><p><strong>Quarta Sala: </strong>Pode-se seguir para o centro sem necessidade de eliminar os monstros.</p></td>
+		<td><p><strong>Quarta Sala: </strong>Pode seguir para o centro sem necessidade de eliminar os monstros.</p></td>
 	</tr>
 	<tr>
 		<td><p>Ao eliminar os dois monstros que possuem a forma verdadeira aparecerá o NPC comerciante Dionis.</p></td>

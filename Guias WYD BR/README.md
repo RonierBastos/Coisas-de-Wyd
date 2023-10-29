@@ -47,17 +47,17 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Hall do Kefra](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Hall-do-Kefra.md)
 	- [Medalha do Reino](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Medalha-do-reino.md)
 	- [Monstro Comerciante](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Monstro-comerciante.md)
-	- Novo Começo
+	- [Novo Começo](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Novo-comeco.md)
 	- [Pedra da Troca](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Pedra-da-Troca.md)
-	- Pesadelo
-	- Portão Infernal
+	- [Pesadelo](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Pesadelo.md)
+	- [Portão Infernal](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Portao-Infernal.md)
 	- [Procura da Vida Eterna](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-da-vida-eterna.md)
 	- [Procura dos rastros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Procura-dos-Rastros.md)
-	- Programa de monstros
-	- Quarto Secreto
+	- [Programa de monstros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Programa-de-Monstros.md)
+	- [Quarto Secreto](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Quarto-Secreto.md)
 	- [Sociedade Wyd](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Sociedade-Wyd.md)
 	- [Tempestadde Inacabável](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Tempestade-Inacabavel.md)
-	- Zona elemental da água
+	- [Zona elemental da água](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Zona-Elemental-da-Agua.md)
 
 
 ## Intermediário
