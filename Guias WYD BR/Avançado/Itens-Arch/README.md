@@ -107,7 +107,11 @@ No caso de uma combinação bem-sucedida, apenas o item normal e as Pedras da Lu
 
 Após o fim do processo de combinação, os atributos do item normal serão transferidos para o item Arch e o item normal será destruído. O item Arch irá possuir todos os atributos do equipamento destruído. Esse procedimento pode ser repetido usando o mesmo item Arch quantas vezes forem necessárias.<br>
 </p>
-
+<br>
+<p> <strong>Armas</strong><br>
+<p>Personagens que alcançaram a classe Arch possuem a capacidade de usar itens raros e poderosos, aumentando ainda mais seus incríveis poderes. Além disso, os atributos desses itens podem ser alterados através da combinação com outras armas</p>
+<p><strong>Combinação de Armas</strong></p>
+<p>É possível combinar armas Arch com outras armas com a ajuda de Tiny, encontrada em Karden. Para que seja possível efetuar a combinação, além de uma arma Arch Ancient também é necessária uma arma normal Ancient +9 acima de Classe D.</p>
 <table align="center" border="0"> 
 	<tr style="background-color: #30363d" align="center">
 		<td></td>

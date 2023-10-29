@@ -45,41 +45,36 @@ Para verificar os pontos de caos utilize o comando "/cp" na janela de chat.
 </p>
 
 <table align="center" border="0" cellpadding="1" cellspacing="1" width="550"> 
-	<tr style="background-color: #30363d" align="center">
+	<tr align="center">
 		<td><strong>CP do Alvo</strong></td>
 		<td><strong>Abaixo de 0</strong></td>
 		<td><strong>1 ~ -25</strong></td>
 		<td><strong>26 ~ -50</strong></td>
 		<td><strong>51 ~ -75</strong></td>
 	</tr>
-	<tr  align="center">
+	<tr align="center">
 		<td>Pontos Reduzidos</td>
 		<td>-3</td>
 		<td>-3</td>
 		<td>-3</td>
 		<td>-2</td>
-	</tr
+	</tr>
 </table>
 
 <p><strong>Aumentando os Pontos de Caos</strong></p>
 <table border="0" cellpadding="2" cellspacing="2" width="370px">
-							<tbody>
-								<tr>
-									<td><p>- Subindo level: </p></td>
-									<td>
-										<p>
-											1) 1~350 : <strong>+3</strong><br>
-											2) 350~370 : <strong>+1</strong><br>
-											3) 371~400 : <strong>+5</strong><br>
-										</p>
-									</td>
-								</tr>
-								<tr>			
-									<td><p>- NPC GodGovernment </p></td>
-									<td><p><strong>: 100 PK por + 10</strong></p></td>
-								</tr>
-							</tbody>
-						</table>
+	<tr>
+		<td><p>- Subindo level: </p></td>
+		<td><p>
+		1) 1~350 : <strong>+3</strong><br>
+		2) 350~370 : <strong>+1</strong><br>
+		3) 371~400 : <strong>+5</strong><br></p></td>
+	</tr>
+	<tr>			
+		<td><p>- NPC GodGovernment </p></td>
+		<td><p><strong>: 100 PK por + 10</strong></p></td>
+	</tr>
+</table>
 
 <p><strong>PK Drop</strong></p>
 <p>

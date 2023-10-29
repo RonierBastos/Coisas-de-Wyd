@@ -75,7 +75,7 @@ Ao clicar no NPC Guarda Carga, uma janela com o seu banco será exibido. Após s
 <img src="./1-files/wyd_img_npcs_loja_e_cargo.jpg" />
 </p>
 <p align="center">
-<img src="./1-files/wyd_img_cargo.jpg />
+<img src="./1-files/wyd_img_cargo.jpg" />
 </p>
 <p>
 Ao clicar no NPC Guarda Carga, você encontrará um local com o valor de GOLD no seu inventário e no seu "Banco", basta clicar na moeda de GOLD ao lado do valor descrito, após esse procedimento uma pequena janela irá aparecer onde você deve informar o valor que deseja depositar ou retirar. Confirme o processo. Você pode guardar o limite de 2 bilhões de GOLD no seu Guarda Carga, porém esse valor pode ser superado caso você guarde o GOLD como barras de Prata de 1 ou 10 bilhões.

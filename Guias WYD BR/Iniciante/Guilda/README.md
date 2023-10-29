@@ -79,7 +79,7 @@ Guildas distintas podem efetuar alianças, assim, proibindo o PvP entre seus mem
 <tr align="center">
 <td colspan="2"><strong>Declaração de Aliança</strong></td>		</tr>
 <tr align="center">
-<td><img src="./1-files/wyd_img_declaracao_de_alianca.gif" /></td>
+<td width="250px"><img src="./1-files/wyd_img_declaracao_de_alianca.gif" /></td>
 <td>A aliança entre as guildas é uma opção possível apenas para o mestre e o chefe de guilda, escolha a opção "Guilda" no menu que aparece ao clicar botão direito no personagem.</td>
 </tr>
 <tr" align="center">

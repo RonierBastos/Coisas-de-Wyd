@@ -47,8 +47,8 @@ Você poderá utilizar a Pedra Espiritual refinada como um item de combinação 
 
 <p><strong>Falha na Combinação</strong></p>
 <p>
-1 - A Pedra Espiritual utilizada no Slot 3 será destruída e as Pedras utilizadas nos Slots 1 e 2 irão permanecer.
-2 - As 4 Poeiras de Lactolerium serão destruídas.
+1 - A Pedra Espiritual utilizada no Slot 3 será destruída e as Pedras utilizadas nos Slots 1 e 2 irão permanecer.<br>
+2 - As 4 Poeiras de Lactolerium serão destruídas.<br>
 3 - Caso a combinação falhe, serão reduzidos 500.000 de GOLD do inventário.
 </p>
 
