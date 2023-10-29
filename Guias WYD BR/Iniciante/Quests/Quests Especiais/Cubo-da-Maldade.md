@@ -44,13 +44,13 @@
 	</tr>
 	<tr>
 		<td align="center"><img src="./Quests-Especiais-files/Cubo-da-Maldade-files/wyd_img_cubo-da-maldade-4.gif"/></td>
-		<td colspan="2"><p><strong>Fruto Divino</strong></td>
+		<td colspan="2"><p><strong>Fruto Divino</strong>
 			<p>O fruto que o Orc Trooper do Cubo possui aumenta a experiência da pessoa que consumir o fruto. Pode ser usado apenas 1 vez.</p></td>
 	</tr>
 </table>
 <table>
 	<tr>
-		<td colspan="2"><strong>Procedimentos</strong></td>
+		<td colspan="2" align="center"><strong>Procedimentos</strong></td>
 	</tr>
 	<tr>
 		<td align="center" width="250px"><img src="./Quests-Especiais-files/Cubo-da-Maldade-files/wyd_img_cubo-da-maldade-5.gif"/></td>
