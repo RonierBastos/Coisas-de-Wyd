@@ -8,7 +8,7 @@
   <body>
 <table align="center" border="0" cellpadding="0" cellspacing="0">
 	<tr>
-		<td colspan="4"><p><strong>Procedimento</strong></p></td>
+		<td colspan="4" align="center"><p><strong>Procedimento</strong></p></td>
 	</tr>
 	<tr>
 		<td colspan="4"><p>Você pode destravar o level 355 e 370 do Arch levando 2 Packs de Lactolerium(10), 4 Poeiras de Lactolerium e um Pergaminho Selado ao NPC Lindy que se encontra na zona neutra entre "Akelonia" e "Hekalotia".</p></td>
@@ -42,6 +42,7 @@
 	<tr>
 		<td align="center" width="150px"><img src="./Quests-Especiais-files/Evolução-do-Cavaleiro-files/wyd_img_evolucao-do-cavaleiro-5.gif"/></td>
 		<td><p><strong>Pergaminho Selado</strong></p>
+			<p>Utilizado para destravar o level 355 e 370 do Arch.</p>
 			<p>É deixado randomicamente pelo "Guarda Beriel" em Nifleheim.</p>
 			<p>Se você combinar o Pergaminho Selado com os outros ingredientes, a sua capa se tornará uma capa da "Elite dos Aventureiros"</p>
 			<p>A capa da "Elite dos Cavaleiros" será +0 e a refinação da capa anterior será perdida.</p></td>
