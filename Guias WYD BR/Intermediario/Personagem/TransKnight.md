@@ -74,7 +74,7 @@
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/TransKnight-files/1_1.gif"></p></td>
-		<td align="center"><p>Giro da Furia</p></td>
+		<td align="center"><p>Giro da Fúria</p></td>
 		<td align="center"><p>1 / 24 / 0</p></td>
 		<td align="center"><p>4</p></td>
 		<td align="center"><p>Sagrado</p></td>
@@ -236,7 +236,7 @@
 		<td align="center"><p>Possuir todas as Skills anteriores.</p></td>
 		<td align="center"><p>---</p></td>
 		<td align="center"><p>N</p></td>
-		<td><p>Quando acertar um ataque crítico o HP será recuperado em quantidade aleatória.</p></td>
+		<td><p>Quando acertar um ataque crítico, o HP será recuperado em quantidade aleatória.</p></td>
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/TransKnight-files/2_10.gif"></p></td>
@@ -278,7 +278,7 @@
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/TransKnight-files/3_3.gif"></p></td>
-		<td align="center"><p>Contra Ataque</p></td>
+		<td align="center"><p>Contra-Ataque</p></td>
 		<td align="center"><p>25 / 60 / 0</p></td>
 		<td align="center"><p>3</p></td>
 		<td align="center"><p>N</p></td>
@@ -346,7 +346,7 @@
 <hr>
 <p><strong>8ª Skill</strong></p>
 <p>-A 8ª Skill só pode ser obtida após aprender todas da linhagem desejada. Não é possível adquirir mais de uma 8ª Skill. Caso você decida utilizar o Círculo Divino ou um Reset de Skill, você deverá comprar a 8ª Skill novamente, pois a mesma também é resetada.<br>						
--O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, Atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens.</p>
+-O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens.</p>
 <br>
 <p><strong>9ª Skill</strong></p>
 <p>- NPCs venderão a 9ª skill por 2000 pontos de fama.<br>

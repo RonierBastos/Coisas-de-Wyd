@@ -62,7 +62,7 @@
 <p><strong>Tabela de Skill</strong></p>
 <br>
 <p><strong>Magia Sagrada</strong>
-<br>Recuperar HP , ressucitar, ataque com elemento sagrado e remover status negativos.</p>
+<br>Recuperar HP , ressuscitar, ataque com elemento sagrado e remover status negativos.</p>
 <table align="center" border="0"  cellpadding="2" cellspacing="2">
 	<tr align="center">
 		<td><p>Icon.</p></td>
@@ -134,7 +134,7 @@
 		<td align="center"><p>220 / 281 / 200</p></td>
 		<td align="center"><p>5</p></td>
 		<td align="center"><p>N</p></td>
-		<td><p>Ressucita membros do Grupo ou Guilda mortos</p></td>
+		<td><p>Ressuscita membros do Grupo ou Guilda mortos</p></td>
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/Foema-files/1_9.gif"></p></td>
@@ -346,7 +346,7 @@
 <hr>
 <p><strong>8ª Skill</strong></p>
 <p>-A 8ª Skill só pode ser obtida após aprender todas da linhagem desejada. Não é possível adquirir mais de uma 8ª Skill. Caso você decida utilizar o Círculo Divino ou um Reset de Skill, você deverá comprar a 8ª Skill novamente, pois a mesma também é resetada.<br>						
--O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, Atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens. </p>
+-O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens. </p>
 <br>
 <p><strong>9ª Skill</strong></p>
 <p>- NPCs venderão a 9ª skill por 2000 pontos de fama.<br>

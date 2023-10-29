@@ -65,9 +65,9 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 * Personagem
   - Classes:
   	- [Beast Master](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/BeastMaster.md)
-    - Foema
-	- Huntress
-	- TransKnight	
+    - [Foema](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Foema.md)
+	- [Huntress](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Huntress.md)
+	- [TransKnight](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/TransKnight.md)	
   - Evoluções:
 	- [Arch](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Arch.md)
 	- [Celestial](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/Celestial.md)

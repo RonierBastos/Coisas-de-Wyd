@@ -86,7 +86,7 @@
 		<td align="center"><p>1 / 39 / 0</p></td>
 		<td align="center"><p>3</p></td>
 		<td align="center"><p>N</p></td>
-		<td><p>Cria uma ilusão do personagem eqnaunto ele locomove a outro ponto</p></td>
+		<td><p>Cria uma ilusão do personagem enquanto ele locomove a outro ponto</p></td>
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/Huntress-files/1_3.gif1"></p></td>
@@ -138,7 +138,7 @@
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/Huntress-files/1_9.gif"></p></td>
-		<td align="center"><p>Contra ataque (9ª Skill)</p></td>
+		<td align="center"><p>Contra-ataque (9ª Skill)</p></td>
 		<td align="center"><p>Possuir todas as Skills anteriores.</p></td>
 		<td align="center"><p>---</p></td>
 		<td align="center"><p>N</p></td>
@@ -204,7 +204,7 @@
 		<td align="center"><p>62 / 84 / 61</p></td>
 		<td align="center"><p>-</p></td>
 		<td align="center"><p>N</p></td>
-		<td><p>Possibilita a criação de jóias</p></td>
+		<td><p>Possibilita a criação de joias</p></td>
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/Huntress-files/2_6.gif"></p></td>
@@ -236,7 +236,7 @@
 		<td align="center"><p>Possuir todas as Skills anteriores.</p></td>
 		<td align="center"><p>---</p></td>
 		<td align="center"><p>N</p></td>
-		<td><p>Melhoria da confecção de Jóias</p></td>
+		<td><p>Melhoria da confecção de Joias</p></td>
 	</tr>
 	<tr>
 		<td align="center"><p><img src="./files/Huntress-files/2_10.gif"></p></td>
@@ -250,7 +250,7 @@
 <p align="right">*Requisitos (Level / Custo da Skill/ Pontos necessários na linhagem)<p>
 <br>
 <p><strong>Captura</strong>
-<br>Aumenta a cahnce de derrotar ou capturar seus inimigos e caças.</p>
+<br>Aumenta a chance de derrotar ou capturar seus inimigos e caças.</p>
 <table align="center" border="0"  cellpadding="2" cellspacing="2">
 	<tr align="center">
 		<td><p>Icon.</p></td>
@@ -346,7 +346,7 @@
 <hr>
 <p><strong>8ª Skill</strong></p>
 <p>-A 8ª Skill só pode ser obtida após aprender todas da linhagem desejada. Não é possível adquirir mais de uma 8ª Skill. Caso você decida utilizar o Círculo Divino ou um Reset de Skill, você deverá comprar a 8ª Skill novamente, pois a mesma também é resetada.<br>						
--O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, Atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens. </p>
+-O dano causado pela skill dependerá dos pontos de aprendizagem na linhagem escolhida, atributos do personagem, e armar e armaduras equipadas. Os pontos de Mana aumentam de acordo com os Pontos de Skill. O Máximo de aprendizado nas linhagens é de 200 e pode ser aumentado dependendo dos itens. </p>
 <br>
 <p><strong>9ª Skill</strong></p>
 <p>- NPCs venderão a 9ª skill por 2000 pontos de fama.<br>
