@@ -7,7 +7,7 @@
   </head>
   <body>
 
-<p>Os Archs malignos, criados por Tzfah, eram verdadeiras maquinas de ódio e destruição, pois eles combinavam os poderes superiores dos Archs, mas ao invés da essência de justiça e bondade dos humanos, eles continham a corrupção e a devassidão dos monstros. Empregando tal poder contra os humanos, Tzfah conseguiu uma grande vitória na Guerra continental que aconteceu entre os humanos e os demônios, pois mesmo tendo o mesmo poder dos Archs malignos, os Archs não estavam em número suficiente. Os humanos precisavam descobrir uma forma de combater essas criaturas o mais rápido possível, pois tempo era essencial, e quem melhor entendia essa necessidade eram os alquimistas, por sua longa experiência em fusão de matéria prima. Azran, por ser uma região onde apareciam freqüentemente os Archs Malignos, foi feita como base de estudos da guilda dos alquimistas, formada basicamente de foemas e chamada de "Elixir", que aos poucos começava a entender como foram produzidos os Archs Malignos. </p>
+<p>Os Archs malignos, criados por Tzfah, eram verdadeiras maquinas de ódio e destruição, pois eles combinavam os poderes superiores dos Archs, mas ao invés da essência de justiça e bondade dos humanos, eles continham a corrupção e a devassidão dos monstros. Empregando tal poder contra os humanos, Tzfah conseguiu uma grande vitória na Guerra continental que aconteceu entre os humanos e os demônios, pois mesmo tendo o mesmo poder dos Archs malignos, os Archs não estavam em número suficiente. Os humanos precisavam descobrir uma forma de combater essas criaturas o mais rápido possível, pois tempo era essencial, e quem melhor entendia essa necessidade eram os alquimistas, por sua longa experiência em fusão de matéria-prima. Azran, por ser uma região onde apareciam frequentemente os Archs Malignos, foi feita como base de estudos da guilda dos alquimistas, formada basicamente de foemas e chamada de "Elixir", que aos poucos começava a entender como foram produzidos os Archs Malignos. </p>
 <p>Após se estabelecer definitivamente em Armia, a Elixir começou a patrocinar os Beastmasters que passavam pela cidade de Azran, para que eles encontrassem materiais para a pesquisa utilizando a vasta biodiversidade que a região oferecia. Esse projeto foi batizado de 'Programa de Monstros Compostos'. O único problema era que os alquimistas não tinham como saber a extensão real dos poderes dos monstros que eles conseguiram criar para ajudar os humanos na guerra. Sabia-se que os Archs malignos eram poderosos pela essência divina deles, mas os pesquisadores da ¡°Elixir¡± não dispunham desse poder, fazendo pequenas adaptações por meio das matérias encontrados e dos processos alquímicos.</p>			
 <br>
 <table border="0" cellpadding="0" cellspacing="0">
@@ -24,10 +24,10 @@
 	</tr>
 	<tr>
 		<td width="250px" align="center"><img src="./Quests-Especiais-files/Programa-de-monstros-files/wyd_img_programa-de-monstros-2.gif"></td>
-		<td>Nós queremos lhes dizer sobre a forma de procedimento do teste para que não fiquem desorientados. Antes de qualquer coisa, há algo de importante que devem saber. Não podemos calcular a força destes seres que nós criamos e conseguir confronta-los está por sua conta e risco. Vocês devem ter chegado aqui cheios de dúvidas sobre este experimento. Aqueles que querem provar a sua força... Aqueles que desejam construir uma fortuna através de Lactolerium e Oriharucon... Aqueles que vieram para tirar dúvidas sobre os seres criados pelos humanos... Dentro destas paredes sólidas e seguras vocês poderão ter todas as respostas que buscam. Mas gostaria de dar um aviso a todos aqueles que realmente desejam entrar neste local onde a morte exala seu cheiro podre e o chão é manchado com o sangue de quem caiu. Não creia em ninguém a não ser em si mesmo! Se você não é forte o bastante não entre neste local! Sim, essas palavras visam gelar seu coração com o medo, pois as vezes o medo é o melhor indício para saber quem está pronto ou não. Este local cercado por paredes é apenas mais um campo de batalha. Para aqueles que procurarem este local por diversão e simples curiosidade, a única coisa que estará esperando é a morte.</td>
+		<td>Nós queremos lhes dizer sobre a forma de procedimento do teste para não ficarem desorientados. Antes de qualquer coisa, há algo de importante que devem saber. Não podemos calcular a força destes seres que criamos e conseguir confrontá-los está por sua conta e risco. Vocês devem ter chegado aqui cheios de dúvidas sobre este experimento. Aqueles que querem provar a sua força... Aqueles que desejam construir uma fortuna através de Lactolerium e Oriharucon... Aqueles que vieram para tirar dúvidas sobre os seres criados pelos humanos... Dentro destas paredes sólidas e seguras vocês poderão ter todas as respostas que buscam. Mas gostaria de dar um aviso a todos os que realmente desejam entrar neste local onde a morte exala seu cheiro podre e o chão é manchado com o sangue de quem caiu. Não creia em ninguém a não ser em si mesmo! Se você não é forte o bastante, não entre neste local! Sim, essas palavras visam gelar seu coração com o medo, pois às vezes o medo é o melhor indício para saber quem está pronto ou não. Este local cercado por paredes é apenas mais um campo de batalha. Para aqueles que procurarem este local por diversão e simples curiosidade, a única coisa que estará esperando é a morte.</td>
 	</tr>
 </table>
-<table border="0" cellpadding="0" cellspacing="0">>
+<table border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td width="100px" align="center"><img src="./Quests-Especiais-files/Programa-de-monstros-files/wyd_img_programa-de-monstros-3.gif"></td>
 		<td><p><strong>Notificação pública de Elixir</strong></p>
@@ -62,7 +62,7 @@
 	</tr>
 	<tr>
 		<td><p><strong>20:09</strong></p></td>
-		,td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
+		<td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
 	</tr>
 	<tr>
 		<td><p><strong>20:11</strong></p></td>
@@ -97,7 +97,7 @@
 	</tr>
 	<tr>
 		<td><p><strong>21:09</strong></p></td>
-		,td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
+		<td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
 	</tr>
 	<tr>
 		<td><p><strong>21:11</strong></p></td>
@@ -132,7 +132,7 @@
 	</tr>
 	<tr>
 		<td><p><strong>22:09</strong></p></td>
-		,td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
+		<td><p>Criação dos monstros de níveis inferiores e intermediários</p></td>
 	</tr>
 	<tr>
 		<td><p><strong>22:11</strong></p></td>
