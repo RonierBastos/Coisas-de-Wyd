@@ -64,7 +64,7 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 
 * Personagem
   - Classes:
-  	- Beast Master
+  	- [Beast Master](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Intermediario/Personagem/BeastMaster.md)
     - Foema
 	- Huntress
 	- TransKnight	
