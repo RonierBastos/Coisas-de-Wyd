@@ -44,8 +44,8 @@
 			<p>Ao usar reinicia os pontos de skill e de aprendizagem em 100 pontos.</p>
 			<p>Não permitido para troca, mover, venda ou drop.</p>
 			<p>Não permitido para os personagens Arch ou superiores.</p>
-			<p>Level Requerido: 120 ~ 125.</p></td>
-			<p>Permitido o uso de apenas 1 vez.</p>
+			<p>Level Requerido: 120 ~ 125.</p>
+			<p>Permitido o uso de apenas 1 vez.</p></td>
 	</tr>
 	</tbody>
 </table>
