@@ -44,7 +44,7 @@
 <p><strong>2 - </strong>Ao entrar no quarto o respawn dos monstros será iniciado.</p>
 <p><strong>3 - </strong>Com o tempo esgotado, o grupo será transferido para o quarto seguinte.</p>
 <p>Quanto menor o número de monstros remanescentes, maior o HP e a experiência fornecida pelos monstros da próxima etapa.</p>
-<table border="0" cellpadding="0" cellspacing="0">>
+<table border="0" cellpadding="0" cellspacing="0">
 	<tr align="center">
 		<td><p><strong>Level</strong></p></td>
 		<td><p><strong>Normal</strong></p></td>
@@ -58,8 +58,8 @@
 		<td><p><strong>0</strong></p></td>
 	</tr>
 </table>
-<p><strong>3 - </strong>Do primeiro ao terceiro andar, qualquer pessoa que tiver o 'Papel do Desafiante' poderá entrar, mas para poder entrar no quarto andar, é necessário possuir o 'Símbolo da Coragem'.</p>
-<p><strong>4 - </strong>Ao entrar no último quarto, se estiver com as placas rúnicas formando a palavra 'W.Y.D' e derrotar todos os monstros da sala, o monstro chefe irá aparecer. Caso não tenha acertado as condições acima, o monstro chefe não irá aparecer.</p>
+<p><strong>4 - </strong>Do primeiro ao terceiro andar, qualquer pessoa que tiver o 'Papel do Desafiante' poderá entrar, mas para poder entrar no quarto andar, é necessário possuir o 'Símbolo da Coragem'.</p>
+<p><strong>5 - </strong>Ao entrar no último quarto, se estiver com as placas rúnicas formando a palavra 'W.Y.D' e derrotar todos os monstros da sala, o monstro chefe irá aparecer. Caso não tenha acertado as condições acima, o monstro chefe não irá aparecer.</p>
 <br>
 <table border="0" cellpadding="5" cellspacing="5">
 	<tr>
@@ -124,5 +124,6 @@
 	<br>
 	<p><strong>Atenção:</strong></p>
 	<p>Quando a personagem morre, usa o pergaminho do teleporte, é desconectado a quest termina automaticamente.</p>
+	<p>É impossível acessar a Quest enquanto outros jogadores estão executando-a .</p>
   </body>
 </html>
