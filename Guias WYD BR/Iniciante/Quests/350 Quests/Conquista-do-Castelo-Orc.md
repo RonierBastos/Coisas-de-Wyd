@@ -30,8 +30,6 @@ Foi aí que a população conheceu o terror, pois com o aumento de pessoas na es
 	</tr>
 </table>
 <br>
-<p>Para cada área nova, a dificuldade aumenta e as batalhas são mais ferozes, mas não fique desanimado. Cada área conta com um treinador que estão lá para ajudá-lo a evoluir suas técnicas de luta. Os treinadores têm a função de considerar todas as suas condições e necessidades.</p>
-<br>
 <p><strong>Atenção</strong></p>
 <p>A chave sumirá com o uso. O portão aberto com a chave será fechada após um tempo determinado.</p>
 <p>O efeito da pílula mágica será aplicado apenas uma vez, no primeiro uso. Não é possível tomar a pílula mais de uma vez.</p>
