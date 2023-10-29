@@ -73,7 +73,7 @@
 		<td><p>Descrição</p></td>
 	</tr>
 	<tr>
-		<td align="center"><p><img src="./files/Huntress-files/1_1.gif"></p></td>
+		<td align="center"><p><img src="./files/"></p></td>
 		<td align="center"><p>Ataque Fatal</p></td>
 		<td align="center"><p>1 / 21 / 0</p></td>
 		<td align="center"><p>6</p></td>

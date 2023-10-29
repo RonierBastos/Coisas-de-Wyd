@@ -36,6 +36,11 @@ As montarias na fase final do processo (Adulto) precisam de uma essência respec
 </table>
 <hr>
 <p><strong>Elementos do Ovo</strong></p>
+<p>E o valor de refinamento necessário ate o nascimento. O ovo será chocado se tiver sucesso na refinação de acordo com o valor indicado para cada montaria.<br><br>
+<strong>[Tempo estimado para o nascimento]</strong><br><br>
+E a exibição do tempo para permissão do próximo refinamento, sendo possível refinar novamente após esgotar esse tempo exibido. O tempo estimado será calculado apenas se a montaria estiver equipada no inventario.</p><br>
+<hr>
+<p><strong>Elementos da cria</strong></p>
 <p><strong>[Vitalidade]</strong></p>
 <p>Quando o valor vitalidade da montaria chegar no 0, a montaria não poderá ser ressuscitada novamente.<br>
 O valor da vitalidade será aplicado ao chocar do ovo, para cada montaria existe um valor padronizado entre 10 ~ 30 aleatoriamente.<br>
@@ -103,7 +108,7 @@ A cria começa no level 1, podendo alcançar ate o level 99 através da caça ao
 Para aumentar o level das montarias é necessário caçar os monstros com level superior ao da montaria e para cada monstro derrotado 1 ponto de experiência é adicionado.
 A vitalidade da cria será aplicada aleatoriamente entre o valor de 10 ~ 30 no momento da chocagem.</p>
 
-<p><strong>[Defesa e ataque da cria]</strong></p>
+<p><strong>Defesa e ataque da cria</strong></p>
 <table align="center" border="0" cellpadding="5" cellspacing="5"> 
 	<tr>
 		<td><strong>Nome</strong></td>

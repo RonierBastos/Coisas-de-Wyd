@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-
+Refinação +1 => +9
 <p align="center">
 <img src="./1-files/wyd_img_refinacao_item.gif"/>
 </p>
@@ -140,7 +140,6 @@ Os itens refinados até o nível +9 recebem os seguintes bônus dependendo do ti
 			<ul>
 				<li>Nome: Joia</li>
 				<li>Uso: Exibe previamente os atributos que podem ser adicionados no item na combinação de dois itens +9, formando um item +10 com uma das opções aparecidas dentro de 4 quadros</li>
-				<li>Uso: Refinar itens +9 em +10 (um dos ingredientes necessários para refinar o item)</li>
 			</ul>
 		</td>
 	</tr>
@@ -352,7 +351,7 @@ Quando combinado dois itens +9, o novo item terá atributos aleatórios retirado
 <p align="center">
 <img src="./1-files/wyd_img_exemplo_itens.gif"/>
 </p>
-<p><strong>Obs.:</strong><p>
+<p><strong>Observações:</strong><p>
 	<ul>
 		<li>Examine cuidadosamente se os equipamentos e a Pedra Replation possuem a mesma classe.</li>
 		<li>Você pode alterar a classe de armaduras +3 ou menores (incluindo itens não refináveis). Escudos, armas e acessórios não podem ter a classe alterada.</li>
