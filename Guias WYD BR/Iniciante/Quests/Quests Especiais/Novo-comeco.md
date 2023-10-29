@@ -26,7 +26,7 @@
 			<p>Cada atributo da Sephira possui um nome como "Cochma" e você deve juntar todas as 8 pedras para formar um Sephirot.</p></td>
 	</tr>
 </table>
-<table>
+<table align="center">
 	<tr align="center">
 		<td><strong>Nome</strong></td>
 		<td><strong>Atributo</strong></td>
