@@ -37,8 +37,8 @@
 			<p>No ato de uso, aumenta o valor de refinamento dos itens de defesa equipados para +6, exceto escudo.</p>
 			<p>Não permitido a troca, venda, drop ou mover.</p>
 			<p>Não permitido para os personagens Arch ou superiores.</p>
-			<p>Level Requerido: 201 ~ 255.</p></td>
-			<p>Permitido o uso de apenas 1 vez.</p>
+			<p>Level Requerido: 201 ~ 255.</p>
+			<p>Pode ser utilizado uma unica vez.</p></td>
 	</tr>
 	</tbody>
 </table>
