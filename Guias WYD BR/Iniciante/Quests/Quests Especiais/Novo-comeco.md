@@ -15,7 +15,8 @@
 	</tr>
 	<tr>						
 		<td width="120px"><img src="./Quests-Especiais-files/Novo-Comeco-files/wyd_img_novo-comeco-1.gif"></td>
-		<td><p><strong>Tipos de Pedras</strong></p>
+		<td><p>Caso refine a Pedra Sephira através de Poeira de Oriharucon e a Poeira de Lactolerium e tenha sucesso será transformado em um atributo Sephira.</p>
+			<p><strong>Tipos de Pedras</strong></p>
 			<p>"Pedra do Lorde Orc, Pedra do Guerreiro Esqueleto, Pedra do Dragao Lich",</p>
 			<p>"Pedra do DemonLord, Pedra da Manticora, Pedra do Gargula de Fogo",</p>
 			<p>"Pedra do LugeferBroken, Pedra do Rei Demonlord"</p></td>
