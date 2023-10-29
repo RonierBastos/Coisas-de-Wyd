@@ -56,7 +56,7 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 	- [Programa de monstros](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Programa-de-Monstros.md)
 	- [Quarto Secreto](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Quarto-Secreto.md)
 	- [Sociedade Wyd](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Sociedade-Wyd.md)
-	- [Tempestadde Inacabável](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Tempestade-Inacabavel.md)
+	- [Tempestade Inacabável](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Tempestade-Inacabavel.md)
 	- [Zona elemental da água](https://github.com/RonierBastos/Coisas-de-Wyd/blob/master/Guias%20WYD%20BR/Iniciante/Quests/Quests%20Especiais/Zona-Elemental-da-Agua.md)
 
 
