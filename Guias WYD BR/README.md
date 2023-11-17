@@ -9,6 +9,20 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 
 >Ressalto que a intenção é documentar os guias utilizados originalmente, sabemos que daria para melhorar muito cada um deles, mas não é o intuito no momento, talvez crie uma área específica apenas para postar os guias reformulados.
 
+## Mapas
+
+* [**Mapa completo**](.)
+* **Continente Kersef**
+	- [Castelo de Noatun](./Mapas/Castelo-de-Noatun.md)
+	- [Cidade de Armia](./Mapas/Cidade-de-Armia.md)
+	- [Cidade de Arzran](./Mapas/Cidade-de-Arzran)
+	- [Cidade de Erion](./Mapas/Cidade-de-Erion.md)
+	- [Coliseu](./Mapas/Coliseu.md)
+	- [Dungeon Kefra](./Mapas/Dungeon-Kefra.md)
+	- [Dungeon Negro](./Mapas/Dungeon-Negro)
+	- [Submundo](./Mapas/Submundo(UnderWorld).md)
+* **Continente Nippleheim**
+	- [Comando Karden](./Mapas/Comando-Karden.md)
 
 ## Iniciantes
 
