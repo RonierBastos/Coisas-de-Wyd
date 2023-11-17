@@ -11,7 +11,7 @@ Esse readme vai apenas facilitar encontrar os Guias, pois a distribuição no si
 
 ## Mapas
 
-* [**Mapa completo**](.)
+* [**Mapa completo**](./Mapas/files/map.jpg)
 * **Continente Kersef**
 	- [Castelo de Noatun](./Mapas/Castelo-de-Noatun.md)
 	- [Cidade de Armia](./Mapas/Cidade-de-Armia.md)
